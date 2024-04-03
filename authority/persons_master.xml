@@ -1680,6 +1680,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_53241285">
+                    <persName type="display">Poppers, Meir ben Judah Loeb, ha-Kohen, 1624-1662</persName>
+                    <persName type="display" xml:lang="he">פופרש, מאיר בן יהודה ליב, 1624-1662</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/53241285">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n88122331">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_53864616">
                     <persName type="display">Hezekiah ben Jacob, of Magdeburg, active 13th century</persName>
                     <persName type="display" xml:lang="he">חזקיה בן יעקב, ממגדבורג</persName>
