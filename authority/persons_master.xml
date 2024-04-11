@@ -1118,6 +1118,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_30980138">
+                    <persName type="display">Eliezer, of Touques, active 13th century</persName>
+                    <persName type="display" xml:lang="he">אליעזר, מטוך</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/30980138">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n85218603">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_31996761">
                     <persName type="display">Ġhazzālī , 1058-1111</persName>
                     <persName type="display" xml:lang="he">אלע’זאלי, מחמד בן מחמד</persName>
@@ -2487,6 +2505,24 @@
                             <item>
                                 <ref target="https://viaf.org/viaf/80591625">
                                     <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_86220983">
+                    <persName type="display">Blau, M. J., ha-Kohen</persName>
+                    <persName type="display" xml:lang="he">בלוי, משה יהודה, 1912-2003</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/86220983">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n81033362">
+                                    <title>Library of Congress</title>
                                 </ref>
                             </item>
                         </list>
@@ -5774,6 +5810,13 @@
                     <persName type="display" xml:lang="he">נונו, נתן בן סמעאל</persName>
                     <persName type="display">Nathan ben R. Samʻael Nono</persName>
                 </person>
+                <person xml:id="person_7042">
+                    <persName type="display">Azariel ben Samuel Krotoschin</persName>
+                </person>
+                <person xml:id="person_7043">
+                    <persName type="display">Natronai bar Sh'neor</persName>
+                    <persName type="display" xml:lang="he">נטרונאי בר שניאור</persName>
+                </person>
                 <person xml:id="person_100195377">
                     <persName type="display">Ibn Ṭufayl, Muḥammad ibn ʻAbd al-Malik -1185</persName>
                     <persName type="display" xml:lang="he">טפיל, מחמד בן עבד אלמלך אבן</persName>
@@ -6042,6 +6085,22 @@
                             <item><ref target="http://id.loc.gov/authorities/names/n92800681"
                                         ><title>Library of Congress</title></ref></item>
                         </list></note>
+                </person>
+                <person xml:id="person_34704971">
+                    <persName type="display">Vital, Ḥayyim ben Joseph, 1542 or 1543-1620</persName>
+                    <persName type="display" xml:lang="he">ויטל, חיים בן יוסף, 1542-1620</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item><ref target="https://viaf.org/viaf/34704971">
+                                <title>VIAF</title>
+                            </ref>
+                            </item>
+                            <item><ref target="http://id.loc.gov/authorities/names/n84008520">
+                                <title>Library of Congress</title>
+                            </ref>
+                            </item>
+                        </list>
+                    </note>
                 </person>
                 <person xml:id="person_34806748">
                     <persName type="display">Alfasi, Isaac ben Jacob, 1013-1103</persName>
