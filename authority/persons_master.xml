@@ -45,6 +45,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_296419">
+                    <persName type="display">Amram ben Sheshna, -approximately 875</persName>
+                    <persName type="display" xml:lang="he">עמרם בן ששנא, גאון</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/296419">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/nr93034236">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_1163813">
                     <persName type="display">Shelomoh ben Yedidyah Aharon, ha-Ṭroḳi, approximately
                         1670-1745</persName>
