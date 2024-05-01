@@ -4517,6 +4517,20 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_224145911275827062810">
+                    <persName type="display">Ḥayyuj, Judah ben David, approximately 945-approximately 1000</persName>
+                    <persName type="display" xml:lang="he">חיוג', יהודה בן דוד</persName>
+                    <persName type="variant" xml:lang="ar">يحيى بن حيوج الفاسي</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/224145911275827062810">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_9592162669514255500009">
                     <persName type="display">Baṭalyawsī, ʻAbd Allāh ibn Muḥammad, 1052 or 1053-1127</persName>
                     <persName type="display" xml:lang="he">בטליוסי, אבו מחמד עבדאללה בן                        מחמד</persName>
@@ -5835,6 +5849,9 @@
                 <person xml:id="person_7043">
                     <persName type="display">Natronai bar Sh'neor</persName>
                     <persName type="display" xml:lang="he">נטרונאי בר שניאור</persName>
+                </person>
+                <person xml:id="person_7044">
+                    <persName type="display">Moses ben Ḥayyim Paltiel</persName>
                 </person>
                 <person xml:id="person_100195377">
                     <persName type="display">Ibn Ṭufayl, Muḥammad ibn ʻAbd al-Malik -1185</persName>
