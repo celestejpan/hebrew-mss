@@ -529,6 +529,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_14660232">
+                    <persName type="display">Ḥayyim ben Isaac, Or Zaruʻa, active 13th century</persName>
+                    <persName type="display" xml:lang="he">אור זרוע, חיים בן יצחק</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/14660232">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/nr95022082">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_15568196">
                     <persName type="display">Jagel, Abraham ben Hananiah dei Galicchi, active 16th century-17th century</persName>
                     <persName type="display" xml:lang="he">יגל, אברהם בן חנניה</persName>
@@ -4039,6 +4057,23 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_4155464786402041075">
+                    <persName type="display">Judah ben Samuel, approximately 1150-1217</persName>
+                    <persName type="display" xml:lang="he">יהודה בן שמואל, החסיד, בערך 1150-1217</persName>
+                    <persName type="variant">Tsaṿaʼat Rabbi Yehudah he-Ḥasid</persName>
+                    <persName type="variant" xml:lang="he">צוואת רבי יהודה החסיד</persName>
+                    <persName type="variant" xml:lang="he">יהודה החסיד בן שמואל מרגנשבורג</persName>
+                    <persName type="variant">Judah ben Samuel of Regensberg</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/4155464786402041075">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_6159999589130111352">
                     <persName type="display">Ḥabiba, Joseph, active 15th century</persName>
                     <persName type="display" xml:lang="he">חביבא, יוסף</persName>
@@ -5861,6 +5896,13 @@
                 </person>
                 <person xml:id="person_7047">
                     <persName type="display">Hananiah b. She'erith</persName>
+                </person>
+                <person xml:id="person_7048">
+                    <persName type="display">Benjamin ben Joseph</persName>
+                    <persName type="variant">Binyamin ben Yoseph</persName>
+                </person>
+                <person xml:id="person_7049">
+                    <persName type="display">Mosheh ben Asher Levi <lang xml:lang="he">איטינג</lang></persName>                    
                 </person>
                 <person xml:id="person_100195377">
                     <persName type="display">Ibn Ṭufayl, Muḥammad ibn ʻAbd al-Malik -1185</persName>
