@@ -369,6 +369,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_11418133">
+                    <persName type="display">Meyuḥas ben Eliyahu active 12th century</persName>
+                    <persName type="display" xml:lang="he">מיוחס בן אליהו</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/11418133">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n88602919">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_11563454">
                     <persName type="display">Ghirondi, Mordecai Samuel ben Benzion Aryeh, 1799-1852</persName>
                     <persName type="display" xml:lang="he">גרונדי, מרדכי שמואל</persName>
@@ -4518,6 +4536,24 @@
                             <item>
                                 <ref target="https://viaf.org/viaf/6229150325542610090004">
                                     <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_6302161696252816120003">
+                    <persName type="display">Maimon ben Joseph, -approximately 1165</persName>
+                    <persName type="display" xml:lang="he">מימון בן יוסף</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/6302161696252816120003">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n92034075">
+                                    <title>Library of Congress</title>
                                 </ref>
                             </item>
                         </list>
