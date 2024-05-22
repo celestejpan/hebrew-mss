@@ -621,6 +621,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_17580591">
+                    <persName type="display">Ibn Shuaib, Joshua, active 14th century</persName>
+                    <persName type="display" xml:lang="he">שועיב, יהושע אבן</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/17580591">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/n88119193">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_18664254">
                     <persName type="display">Ẓemaḥ, Jacob ben Ḥayyim, active 17th century</persName>
                     <persName type="display" xml:lang="he">צמח, יעקב בן חיים, 1570?-1667</persName>
@@ -3516,6 +3534,24 @@
                             </item>
                             <item>
                                 <ref target="http://id.loc.gov/authorities/names/n83179055">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_203240876">
+                    <persName type="display">Perets, active 13th century</persName>
+                    <persName type="display" xml:lang="he">פרץ בן יצחק, הכהן, מברצלונה</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/203240876">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/nr2006033291">
                                     <title>Library of Congress</title>
                                 </ref>
                             </item>
