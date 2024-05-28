@@ -369,6 +369,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_10988426">
+                    <persName type="display">Hanau, Solomon Zalman ben Judah Loeb, ha-Kohen, 1687-1746</persName>
+                    <persName type="display" xml:lang="he">כץ, שלמה זלמן בן יהודה ליב, 1687-1746</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/10988426">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/nr95006705">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_11418133">
                     <persName type="display">Meyuḥas ben Eliyahu active 12th century</persName>
                     <persName type="display" xml:lang="he">מיוחס בן אליהו</persName>
@@ -3694,6 +3712,19 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_289251917">
+                    <persName type="display">Gordon, Yeḳutiʼel ben Yehudah Leyb</persName>
+                    <persName type="display" xml:lang="he">גורדון, יקותיאל בן יהודה ליב</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/289251917">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_292205904">
                     <persName type="display">Isaac ben Joseph, of Corbeil, active 13th century</persName>
                     <persName type="display" xml:lang="he">יצחק בן יוסף מקורביל</persName>
@@ -3967,7 +3998,7 @@
                 </person>
                 <person xml:id="person_308274269">
                     <persName type="display">Graziano, Abraham Joseph Salomon, approximately 1620-approximately 1683</persName>
-                    <persName type="display" xml:lang="he">גרציאנו, אברהם יוסף שלמה בן                        מרדכי</persName>
+                    <persName type="display" xml:lang="he">גרציאנו, אברהם יוסף שלמה בן מרדכי</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3977,6 +4008,24 @@
                             </item>
                             <item>
                                 <ref target="http://id.loc.gov/authorities/names/nr95046146">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_308275258">
+                    <persName type="display">Aleksander Zisḳind ben Shemuʼel Zanṿil mi-ḳ.ḳ. Mets</persName>
+                    <persName type="display" xml:lang="he">אלכסנדר זיסקינד בן שמואל זנויל</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/viaf/308275258">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/nr00038720">
                                     <title>Library of Congress</title>
                                 </ref>
                             </item>
@@ -5975,6 +6024,10 @@
                 </person>
                 <person xml:id="person_7049">
                     <persName type="display">Mosheh ben Asher Levi <lang xml:lang="he">איטינג</lang></persName>                    
+                </person>
+                <person xml:id="person_7050">
+                    <persName type="display">Oberbeeḳ, Adolf Ṭaubold</persName>
+                    <persName type="display" xml:lang="he">אוברביק, אדולף טאובולד</persName>                    
                 </person>
                 <person xml:id="person_100195377">
                     <persName type="display">Ibn Ṭufayl, Muḥammad ibn ʻAbd al-Malik -1185</persName>
