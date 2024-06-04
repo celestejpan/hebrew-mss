@@ -2208,6 +2208,24 @@
                         </list>
                     </note>
                 </person>
+                <person xml:id="person_68780426">
+                    <persName type="display">Morpurgo, Samson ben Joshua Moses, 1681-1740</persName>
+                    <persName type="display" xml:lang="he">מורפורגו, שמשון בן יהושע משה</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="http://viaf.org/viaf/68780426">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                            <item>
+                                <ref target="http://id.loc.gov/authorities/names/nr90025237">
+                                    <title>Library of Congress</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
                 <person xml:id="person_68983048">
                     <persName type="display">Gataker, Thomas, 1574-1654</persName>
                     <persName type="variant">Thomas Gataker</persName>
