@@ -1,0 +1,315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1004">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of MS. Bodley Or. 144</title>
+                <respStmt xml:id="BW"><resp when="2024">Cataloguer</resp><persName>Benjamin Whittle</persName></respStmt><respStmt xml:id="ZB">
+                    <resp when="2016">Cataloguer</resp>
+                    <name type="person">Zsofia Buda</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bodleian Library</publisher>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <pubPlace>
+                    <address>
+                        <addrLine>Department of Special Collections</addrLine>
+                        <addrLine>Bodleian Library</addrLine>
+                        <street>Broad Street</street>
+                        <settlement>Oxford</settlement>
+                        <postCode>OX1 3BG</postCode>
+                        <addrLine>
+                            <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                        </addrLine>
+                        <addrLine>
+                            <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                        </addrLine>
+                    </address>
+                </pubPlace>
+                <idno type="msID">MS_Bodl_Or_144</idno>
+                <idno type="catalogue">Hebrew</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Bodl_Or_144" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+                        <collection>Oriental Manuscripts Bodley Oriental</collection>
+                        <idno type="shelfmark">MS. Bodley Or. 144</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">552</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno type="SCN">8779</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno>MS. Bodl. 106 - NE.E.3.4</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno type="uri">Uri 203</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Miscellany</summary>
+                    </msContents>
+                    <physDesc>
+                        <p>ff. 139. Damaged spine.</p>
+                        <bindingDesc>
+                            <p>Brown leather binding, blind-tooled.</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <acquisition>Bought from Dr <persName>Edward Bernard</persName>'s widow in
+                            1698 (see, <hi rend="italic">Summary Catalogue</hi>, vol. III, p.
+                            1).</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                        Neubauer, Oxford 1886, </bibl>
+                                    <ref facs="bej0091.jpg">No.
+                                        552</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
+                                        Bodleian Library; Supplement of Addenda and Corrigenda to
+                                        Vol. I </bibl>
+                                    <ref facs="beo0097.jpg">No. 552</ref>, and on
+                                    the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000089670&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
+                                    Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
+                                        <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+                        <surrogates>
+                            <bibl type="digital-facsimile" subtype="full">
+                                <ref target="https://digital.bodleian.ox.ac.uk/objects/55fb271f-fc07-43eb-b5f5-e2590785a30c/">
+                                    <title>Digital Bodleian</title>
+                                </ref>
+                                <note>(full digital facsimile)</note>
+                            </bibl>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 19423</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
+                                    Manuscripts in the Bodleian Library </hi>(Oxford, 1886), no.
+                                552.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
+                                    of the Hebrew manuscripts in the Bodleian Library; Supplement of
+                                    Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
+                                (Oxford: Clarendon Press, 1994), no. 552.</bibl>
+                        </listBibl>
+                    </additional>
+                    <msPart n="1" xml:id="MS_Bodl_Or_144_1">
+                        <msIdentifier>
+                            <altIdentifier type="partial">
+                                <idno>MS. Bodley Or. 144/1</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem n="1" xml:id="MS_Bodley_Or_144_1_a">
+                                <locus>fol. 1r</locus>
+                                <title>Shirim u-fizmonim </title>
+                                <title xml:lang="he"> שירים
+                                    ופזמונים </title>
+                                <textLang mainLang="he">Hebrew</textLang>
+                            </msItem>
+                            <msItem n="2" xml:id="MS_Bodley_Or_144_1_b">
+                                <locus>fols. 1v-131(iv)r</locus>
+                                <author>
+                                    <persName ref="http://viaf.org/viaf/34806748" key="person_34806748">Alfasi, Isaac
+                                        ben Jacob, 1013-1103</persName>
+                                    <persName xml:lang="he">יצחק
+                                        בן יעקב אלפסי</persName>
+                                </author>
+                                <title>Hilkhot ha-Rif </title>
+                                <title xml:lang="he">הלכות הרי"ף </title>
+                                <note>Alfasi's commentary on Nezikin (Baba Batra-Avodah
+                                    Zarah)</note>
+                                <colophon>Colophon by Yosef bar Pinḥas ha-Rofe on fol. 131(iv)v:
+                                        <foreign xml:lang="he">"נשלם על יד’ אנא יוסף בר פנחס הרופא
+                                        נ"ע אילתר מחותי, ירח אדר שנת א’תרס"ב לשטרות"</foreign>.
+                                    Dated Adar 1662SE (1351CE), and it refers only to fols.
+                                    116v-131(iv)v. </colophon>
+                                <textLang mainLang="he" otherLangs="arc">Hebrew and
+                                    Aramaic</textLang>
+                            </msItem>
+                        </msContents>
+                        <physDesc>
+                            <objectDesc form="codex">
+                                <supportDesc material="chart">
+                                    <support> paper <watermark/>
+                                    </support>
+                                    <extent> ff. 134<dimensions type="leaf" unit="mm">
+                                            <height quantity="0"/>
+                                            <width quantity="0"/>
+                                        </dimensions>
+                                    </extent>
+                                    <foliation>Foliation in Arabic numerals. Fol. 131 is
+                                        quadruple.</foliation>
+                                </supportDesc>
+                                <layoutDesc>
+                                    <layout columns="1"> </layout>
+                                </layoutDesc>
+                            </objectDesc>
+                            <handDesc>
+                                <summary>Oriental semi-cursive scripts.</summary>
+                                <handNote scope="sole" script="oriental" rend="semi-cursive">Fol.
+                                    116vr-131r are written by Yosef bar Pinḥas ha-Rofe (see
+                                    colophon).</handNote>
+                                <handNote scope="sole" script="oriental" rend="semi-cursive">Fol.
+                                    1r-116r are written in another, contemporary hand.</handNote>
+                            </handDesc>
+                        </physDesc>
+                        <history>
+                            <origin>
+                                <origPlace>[Orient]</origPlace>
+                                <origDate when="1351" calendar="Gregorian">1351</origDate>
+                            </origin>
+                            <provenance>On fol. 1r: Latin note mentioning Edward Bernard; ownership
+                                inscription: <foreign xml:lang="he">"מלך אלעבד אלפקיר מצליח בן
+                                    [...?]"</foreign>
+                            </provenance>
+                        </history>
+                    </msPart>
+                    <msPart n="2" xml:id="MS_Bodl_Or_144_2">
+                        <msIdentifier>
+                            <altIdentifier type="partial">
+                                <idno>MS. Bodley Or. 144/2</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem n="1" xml:id="MS_Bodl_Or_144_2_a">
+                                <locus>fols. 132r-139v</locus>
+                                <author ref="http://viaf.org/viaf/100185495/">
+                                    <persName key="person_100185495">Maimonides,
+                                        Moses, 1135-1204 </persName>
+                                    <persName xml:lang="he">משה בן
+                                        מימון </persName>
+                                </author>
+                                <title>Commentary on the Mishnah (Horayot) </title>
+                                <title xml:lang="he">פרוש המשנה לרמב"ם (הוריות)</title>
+                                <colophon>Colophon by Mosheh ben Yosef, dated Adar II 1669SE
+                                    (1358CE): <foreign xml:lang="he">"סליקא מסכתא דהוריות וסליק ליה
+                                        סדר נזיקין ... וכתב ... משה בר מו’ יוסף נבתוי"א לנפשו ...
+                                        בחד בשבת’ דהוא ט’ יומ’ לירח אדר שני שנת א’תרמ"ט
+                                        לשטרות"</foreign>
+                                </colophon>
+                                <textLang mainLang="he">Hebrew</textLang>
+                            </msItem>
+                        </msContents>
+                        <physDesc>
+                            <objectDesc form="codex">
+                                <supportDesc material="chart">
+                                    <support> paper <watermark/>
+                                    </support>
+                                    <extent> ff. 8 (fols. 132-139) <dimensions type="leaf" unit="mm">
+                                            <height quantity="0"/>
+                                            <width quantity="0"/>
+                                        </dimensions>
+                                    </extent>
+                                    <foliation>Foliation in Arabic numerals.</foliation>
+                                </supportDesc>
+                                <layoutDesc>
+                                    <layout columns="1"> </layout>
+                                </layoutDesc>
+                            </objectDesc>
+                            <handDesc>
+                                <summary>Oriental semi-cursive script.</summary>
+                                <handNote scope="sole" script="oriental" rend="semi-cursive"> </handNote>
+                            </handDesc>
+                        </physDesc>
+                        <history>
+                            <origin>
+                                <origPlace>[Orient]</origPlace>
+                                <origDate when="1338">1338</origDate>
+                            </origin>
+                            <provenance>Fol. 139v: Latin note (probably by the same hand as on fol.
+                                1r): 1649 era[m] Alexandri; erased Hebrew inscription.</provenance>
+                        </history>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl>
+                    </desc>
+                </taxonomy>
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+                    </desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl>
+                            <ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref>
+                        </bibl>
+                    </desc>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Thalmud, Halakhah</term>
+                </keywords>
+                <keywords scheme="LCSH">
+                    <term>
+                        <persName ref="http://viaf.org/viaf/34512366" key="person_34512366">Bodley, Thomas, Sir,
+                            1545-1613</persName>
+                    </term>
+                </keywords>
+                <keywords scheme="INDEX">
+                    <term/>
+                </keywords>
+                <keywords scheme="IMHM">
+                    <term>
+                        <persName xml:lang="he"> משה בן יוסף (מעתיק)</persName>
+                    </term>
+                    <term>
+                        <persName xml:lang="he">יוסף בן פינחס הרופא (מעתיק) </persName>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024" who="BW"><persName>Benjamin Whittle</persName> updated this file for publication</change><change when="2015-12-15">
+                <name type="person">Zsofia Buda</name> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+    </facsimile>
+    <text>
+        <body>
+            <p>
+                <!--Body paragraph provided for validation and future transcription-->
+            </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,241 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1048">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/a8ca2fb8-5e34-453b-9cb2-9feb780c7620">MS. Marsh 142</ref>
+                </title>
+                <respStmt xml:id="BW"><resp when="2024">Cataloguer</resp><persName>Benjamin Whittle</persName></respStmt><respStmt xml:id="ZB">
+                    <resp when="2016">Cataloguer</resp>
+                    <name type="person">Zsofia Buda</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bodleian Library</publisher>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <pubPlace>
+                    <address>
+                        <addrLine>Department of Special Collections</addrLine>
+                        <addrLine>Bodleian Library</addrLine>
+                        <street>Broad Street</street>
+                        <settlement>Oxford</settlement>
+                        <postCode>OX1 3BG</postCode>
+                        <addrLine>
+                            <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                        </addrLine>
+                        <addrLine>
+                            <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                        </addrLine>
+                    </address>
+                </pubPlace>
+                <idno type="msID">MS_Marsh_142</idno>
+                <idno type="catalogue">Hebrew</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Marsh_142" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+                        <collection>Oriental Manuscripts Marsh Collection</collection>
+                        <idno type="shelfmark">MS. Marsh 142</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">313</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno type="SCN">9137</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno type="uri">Uri 114</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Commentary on the Prophets (Jesaiah) by David Kimhi</summary>
+                        <msItem n="1" xml:id="MS_Marsh_142_a">
+                            <locus>ff. 1v-130r</locus>
+                            <author ref="http://viaf.org/viaf/100213323">
+                                <persName key="person_100213323">Kimhi, David,
+                                    approximately 1160-approximately 1235 </persName>
+                                <persName xml:lang="he">קמחי, דוד בן יוסף</persName>
+                            </author>
+                            <title>Commentary on the Prophets (Jesaiah) </title>
+                            <title xml:lang="he">פרוש
+                                    נביאים לרד"ק (ישעיה)</title>
+                            <colophon>Colophon on fol. 130r: <foreign xml:lang="he"> "נשלם ... ביום
+                                    ששי עשרה ימים לחדש אב י"ל שנת מ’ח’ר’ ... לפרט האלף הששי בצובה,
+                                    על ידי ... יוסף ברכ"ה ר’ לוי זלה"ה ברכ"ה רבי משה ... בן אלייד
+                                    ... והוא לחכם ... הר’ משה נר"ו ברכה ... עובדיה נר"ו בן עבד אל
+                                    מוחסן".</foreign>
+                            </colophon>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                        <msItem n="2" xml:id="MS_Marsh_142_b">
+                            <locus>ff. 130v-218r</locus>
+                            <author ref="http://viaf.org/viaf/97166726">
+                                <persName key="person_97166726">Ibn Tibbon,
+                                    Shmuel, active 12th century-13th century</persName>
+                                <persName xml:lang="he">אבן תבון, שמואל בן יהודה,
+                                1150-1230</persName>
+                            </author>
+                            <title>Maʾamar yiḳaṿu ha-mayim </title>
+                            <title xml:lang="he"> מאמר יקוו
+                                    המים</title>
+                            <note>A philosophical treatise on Gen. 1:9.</note>
+                            <colophon>Colophon on fol. 218r: <foreign xml:lang="he">"והיתה השלמתו יום
+                                    ששי ששה ועשרים יום לחדש אב י"ל של שנת מ’ח’ר’ ... לפרט האלף הששי
+                                    ... על ידי .... יוסף ברכ"ה ר’ לוי זלה"ה ברכ"ה ר’ משה זלה"ה ...
+                                    בן אלייד והוא לחכם ... הרב ר’ משה נר"ו בן עבד אל מחסן" </foreign>.</colophon>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                        <msItem n="3" xml:id="MS_Marsh_142_c">
+                            <locus>f. 219r</locus>
+                            <title>Fragment of a theologico-ethical work</title>
+                            <incipit>
+                                <foreign xml:lang="he">אפשר אדם לומ'</foreign>
+                            </incipit>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="chart">
+                                <support>paper <watermark/>
+                                </support>
+                                <extent>ff. 219</extent>
+                                <foliation>Foliation in Arabic numerals. Fol. 218v is blank.</foliation>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1"/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary>Sephardi semi-cursive script.</summary>
+                            <handNote scope="sole" script="sephardi" rend="semi-cursive"/>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Aleppo</origPlace>
+                            <origDate when="1488" calendar="Gregorian">1488</origDate>
+                        </origin>
+                        <provenance>
+                            <persName key="person_198149106169068491350">Narcissus Marsh</persName>' Greek motto on fol. 1v: <foreign xml:lang="gre">πανταχῇ τὴν ἀλήθειαν</foreign>.</provenance>
+                        <acquisition>It was bequeathed to the Library by Narcissus Marsh
+                            (1638-1713), Church of Ireland archbishop of Armagh together with the
+                            rest of his Oriental MSS in 1714 (<hi rend="italic">Summary
+                                Catalogue</hi>, vol. III, p. 45).</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                        Neubauer, Oxford 1886, </bibl>
+                                    <ref facs="bej0067.jpg">No.
+                                        313</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
+                                        Bodleian Library; Supplement of Addenda and Corrigenda to
+                                        Vol. I, </bibl>
+                                    <ref facs="beo0080.jpg">No. 313</ref>, and on
+                                    the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000088346&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
+                                    Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
+                                        <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+                        <surrogates>
+                            <bibl type="digital-facsimile" subtype="full">
+                                <ref target="https://digital.bodleian.ox.ac.uk/objects/a8ca2fb8-5e34-453b-9cb2-9feb780c7620/">
+                                    <title>Digital Bodleian</title>
+                                </ref>
+                                <note>(full digital facsimile)</note>
+                            </bibl>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 17232</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
+                                    Manuscripts in the Bodleian Library </hi>(Oxford, 1886), no.
+                                313.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
+                                    of the Hebrew manuscripts in the Bodleian Library; Supplement of
+                                    Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
+                                (Oxford: Clarendon Press, 1994), no. 313.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl>
+                    </desc>
+                </taxonomy>
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+                    </desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl>
+                            <ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref>
+                        </bibl>
+                    </desc>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Commentaries and Supercommentaries</term>
+                </keywords>
+                <keywords scheme="LCSH">
+                    <term/>
+                </keywords>
+                <keywords scheme="#IMHM">
+                    <term>
+                        <persName xml:lang="he"> יוסף בן לוי בן משה בן אלייד (מעתיק)</persName>
+                    </term>
+                    <term>
+                        <persName xml:lang="he"> מוסי בן עבד אל מחסן (בעלים)</persName>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024" who="BW"><persName>Benjamin Whittle</persName> updated this file for publication</change><change when="2016-02-08">
+                <name type="person"> Zsofia Buda</name> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+    </facsimile>
+    <text>
+        <body>
+            <p>
+                <!--Body paragraph provided for validation and future transcription-->
+            </p>
+        </body>
+    </text>
+</TEI>

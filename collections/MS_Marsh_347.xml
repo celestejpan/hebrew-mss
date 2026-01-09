@@ -1,0 +1,230 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1054">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of MS. Marsh 347</title>
+                <respStmt xml:id="BW"><resp when="2024">Cataloguer</resp><persName>Benjamin Whittle</persName></respStmt><respStmt xml:id="ZB">
+                    <resp when="2016">Cataloguer</resp>
+                    <name type="person">Zsofia Buda</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bodleian Library</publisher>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <pubPlace>
+                    <address>
+                        <addrLine>Department of Special Collections</addrLine>
+                        <addrLine>Bodleian Library</addrLine>
+                        <street>Broad Street</street>
+                        <settlement>Oxford</settlement>
+                        <postCode>OX1 3BG</postCode>
+                        <addrLine>
+                            <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                        </addrLine>
+                        <addrLine>
+                            <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                        </addrLine>
+                    </address>
+                </pubPlace>
+                <idno type="msID">MS_Marsh_347</idno>
+                <idno type="catalogue">Hebrew</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Marsh_347" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+                        <collection>Oriental Manuscripts Marsh Collection</collection>
+                        <idno type="shelfmark">MS. Marsh 347</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">2133</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno type="SCN">9342</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno type="uri">Uri 422</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Collection of texts on medicine</summary>
+                        <msItem n="1" xml:id="MS_Marsh_347_a">
+                            <locus>ff. 1r-264r</locus>
+                            <title>Collection of texts on medicine</title>
+                            <note>Contains: <list>
+                                    <item>1. ff. 1r-6r: Treatise on medicine - <foreign xml:lang="he">חבור ברפואה</foreign>,</item>
+                                    <item>2. ff. 6v-17r: <persName ref="http://viaf.org/viaf/112670997" key="person_297043647">Ibn Māsawayh, Yūḥannā, -857 or 858</persName>: On
+                                        simple and compound purgatives: advice, nature and
+                                            conditions - <foreign xml:lang="he">מאסויא, יחיא אבן:
+                                            מהעצה והטבעים והתנאים של רפואות המשלשלות הפשוטות
+                                            והמורכבות</foreign>,</item>
+                                    <item>3. ff. 23r-36r: <persName key="person_22494859">Solo, Geraldus de</persName>:
+                                        Introduction XXX - <foreign xml:lang="he">גררדוס דה סולו:
+                                            מבוא הנערים</foreign>,</item>
+                                    <item>4. ff. 36v-47v: Salomon of Lunel: Introduction to medicine - <foreign xml:lang="he">שלמיאש בוין די
+                                            לוניל: מבוא הרפואה</foreign>,</item>
+                                    <item>5. ff. 48v-77r: <persName>Lattes, Isaac ben
+                                            Jacob</persName>: Treatise on fevers - <foreign xml:lang="he">לטיש, יצחק בן יעקב: מאמר
+                                        בקדחות</foreign>,</item>
+                                    <item>6. ff. 77v-151r: <persName ref="http://viaf.org/viaf/112670997" key="person_297043647">Ibn Māsawayh, Yūḥannā, -857 or 858</persName>: Grabadin - <foreign xml:lang="he">מאסויא, יחיא אבן:
+                                            אקרבדין</foreign>,</item>
+                                    <item>7. ff. 151r-154v: Medicines - <foreign xml:lang="he">תרופות</foreign>,</item>
+                                    <item>8. ff. 157r-197v: <persName ref="http://viaf.org/viaf/100189814" key="person_100189814">Arnaldus, de
+                                            Villanova, -1311</persName>: Introduction to medicine -
+                                            <foreign xml:lang="he">ארנלדוס מוילה נובה: מבוא
+                                            ברפואה</foreign>,</item>
+                                    <item>9. ff. 198r-202v: Anthology of medical texts - <foreign xml:lang="he">לקוטים ברפואה</foreign>,</item>
+                                    <item>10. ff. 206r-264r: <persName ref="http://viaf.org/viaf/83374619" key="person_3799159478165027990002">Jean, de
+                                            Saint-Amand, active 13th century-14th
+                                        century</persName>: Advice - <foreign xml:lang="he">יוהנס מסנט אמנד: הצעה</foreign>.</item>
+                                </list>
+                            </note>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="chart">
+                                <support>paper <watermark>(watermarks similar to Briquet no. 11638, dated 1463 and 1468-1494)</watermark>
+                                </support>
+                                <extent>ff. 264</extent>
+                                <foliation>Foliation in Arabic numerals. </foliation>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1"/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary>Provencal cursive scripts. Most of the MS is written in calligraphic cursive script, those parts written in less calligraphic cursive script were probably by the same hand. </summary>
+                            <handNote scope="sole" script="other" rend="cursive">Copied by
+                                the same scribe as <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/43419754-bd8c-4609-9f22-ba49204544bc">MS. Huntington 305</ref>.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Safed</origPlace>
+                            <origDate when="1315" calendar="Gregorian">[1315]</origDate>
+                        </origin>
+                        <provenance>Ownership inscription on fol. 6r: <foreign xml:lang="he">"שמואל
+                                בן חיים(?)"</foreign>.</provenance>
+                        <acquisition>It was bequeathed to the Library by Narcissus Marsh
+                            (1638-1713), Church of Ireland archbishop of Armagh together with the
+                            rest of his Oriental MSS in 1714 (<hi rend="italic">Summary
+                                Catalogue</hi>, vol. III, p. 45).</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                        Neubauer, Oxford 1886, </bibl>
+                                    <ref facs="bej0095.jpg">No.
+                                        2133</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
+                                        Bodleian Library; Supplement of Addenda and Corrigenda to
+                                        Vol. I, </bibl>
+                                    <ref facs="beo0101.jpg">No. 2133</ref>, and on
+                                    the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000094932&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
+                                    Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
+                                        <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+                        <surrogates>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 19947</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
+                                    Manuscripts in the Bodleian Library </hi>(Oxford, 1886), no.
+                                2133.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
+                                    of the Hebrew manuscripts in the Bodleian Library; Supplement of
+                                    Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
+                                (Oxford: Clarendon Press, 1994), no. 2133.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl>
+                    </desc>
+                </taxonomy>
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+                    </desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl>
+                            <ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref>
+                        </bibl>
+                    </desc>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Medicine</term>
+                </keywords>
+                <keywords scheme="LCSH">
+                    <term/>
+                </keywords>
+                <keywords scheme="#IMHM">
+                    <term>
+                        <persName xml:lang="he"/>
+                    </term>
+                    <term>
+                        <persName xml:lang="he">  שמואל בן חיים (בעלים)</persName>
+                    </term>
+                    <term>
+                        <persName xml:lang="he"/>
+                    </term>
+                    <term>
+                        <persName xml:lang="he"/>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024" who="BW"><persName>Benjamin Whittle</persName> updated this file for publication</change><change when="2016-02-08">
+                <name type="person"> Zsofia Buda</name> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+    </facsimile>
+    <text>
+        <body>
+            <p>
+                <!--Body paragraph provided for validation and future transcription-->
+            </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,462 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1131">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/77c8ab65-b3a0-4d0c-bca3-31f86ed86e51">MS. Pococke 280</ref>
+                </title>
+                <respStmt xml:id="BW"><resp when="2024">Cataloguer</resp><persName>Benjamin Whittle</persName></respStmt><respStmt xml:id="ZB">
+                    <resp when="2016">Cataloguer</resp>
+                    <name type="person">Zsofia Buda</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bodleian Library</publisher>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <pubPlace>
+                    <address>
+                        <addrLine>Department of Special Collections</addrLine>
+                        <addrLine>Bodleian Library</addrLine>
+                        <street>Broad Street</street>
+                        <settlement>Oxford</settlement>
+                        <postCode>OX1 3BG</postCode>
+                        <addrLine>
+                            <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                        </addrLine>
+                        <addrLine>
+                            <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                        </addrLine>
+                    </address>
+                </pubPlace>
+                <idno type="msID">MS_Poc_280</idno>
+                <idno type="catalogue">Hebrew</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Poc_280" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+                        <collection>Oriental Manuscripts Pococke Collection</collection>
+                        <idno type="shelfmark">MS. Pococke 280</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">1270</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno type="SCN">5394, 5396, 5397, 5441, 5445</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno type="uri">Uri 78</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Miscellany</summary>
+                    </msContents>
+                    <physDesc>
+                        <p/>
+                        <bindingDesc>
+                            <p>Ff. 107. Brown leather binding.</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <acquisition>Edward Pococke's collection of oriental MSS (mostly Armenian,
+                            Hebrew and Arabic) was purchased by the Library for £800 in 1692 (see
+                            <hi rend="italic">Summary Catalogue</hi>, vol. II, p. 1008).</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                    Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                    Neubauer, Oxford 1886, </bibl>
+                                    <ref facs="bej0261.jpg">No.
+                                        1270</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
+                                            Bodleian Library; Supplement of Addenda and Corrigenda to
+                                            Vol. I, </bibl>
+                                    <ref facs="beo0160.jpg beo0161.jpg">No. 1270</ref>, and on
+                                    the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000057543&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>,
+                                    National Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
+                                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+                        <surrogates>
+                            <bibl type="digital-facsimile" subtype="full">
+                                <ref target="https://digital.bodleian.ox.ac.uk/objects/472d4374-8071-45c6-874a-3e56aef74057/">
+                                    <title>Digital Bodleian</title>
+                                </ref>
+                                <note>(full digital facsimile)</note>
+                            </bibl>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 22084</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
+                                Manuscripts in the Bodleian Library </hi>(Oxford, 1886), no.
+                                1270.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
+                                of the Hebrew manuscripts in the Bodleian Library; Supplement of
+                                Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
+                                (Oxford: Clarendon Press, 1994), no. 1270.</bibl>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier type="partial">
+                                <idno>MS. Pococke 280/1</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem n="1" xml:id="MS_Poc_280_1_a">
+                                <locus>ff. 1r-13r</locus>
+                                <author ref="http://viaf.org/viaf/100185495/">
+                                    <persName key="person_100185495">Maimonides,
+                                       Moses, 1135-1204 </persName>
+                                    <persName xml:lang="he">משה בן
+                                           מימון </persName>
+                                </author>
+                                <title>Igeret teḥiyat ha-metim  </title>
+                                <title xml:lang="he">אגרת תחית המתים</title>
+                                <textLang mainLang="he">Hebrew</textLang>
+                            </msItem>
+                            <msItem n="2" xml:id="MS_Poc_280_1_b">
+                                <locus>ff. 13v-16v</locus>
+                                <title>Maʾamar ha-yiḥud </title>
+                                <title xml:lang="he"> מאמר ביחוד</title>
+                                <textLang mainLang="he">Hebrew</textLang>
+                            </msItem>
+                        </msContents>
+                        <physDesc>
+                            <objectDesc form="codex">
+                                <supportDesc material="chart">
+                                    <support>paper <watermark/>
+                                    </support>
+                                    <extent>ff. 17<dimensions type="leaf" unit="mm">
+                                            <height quantity="000"/>
+                                            <width quantity="000"/>
+                                        </dimensions>
+                                    </extent>
+                                    <foliation>Foliation in Arabic numerals. Fol.16 is double.</foliation>
+                                </supportDesc>
+                                <layoutDesc>
+                                    <layout columns="1"/>
+                                </layoutDesc>
+                            </objectDesc>
+                            <handDesc>
+                                <summary>Sephardi semi-cursive script.</summary>
+                                <handNote scope="sole" script="sephardi" rend="semi-cursive"> </handNote>
+                            </handDesc>
+                        </physDesc>
+                        <history>
+                            <origin>
+                                <origPlace>[Spain]</origPlace>
+                                <origDate notBefore="1401" notAfter="1500" calendar="Gregorian">[15th century]</origDate>
+                            </origin>
+                            <provenance>Ownerhsip note on fol. 1r: <foreign xml:lang="he"> "יצחק רומאן"</foreign>
+                            </provenance>
+                        </history>
+                    </msPart>
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier type="partial">
+                                <idno>MS. Pococke 280/2</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem n="1" xml:id="MS_Poc_280_2_a">
+                                <locus>ff. 17r-28v</locus>
+                                <author ref="http://viaf.org/viaf/89770781">
+                                    <persName>Avicenna, 980?-1037   </persName>
+                                    <persName xml:lang="ara">אבן סינא, אלחסין בן עבדאללה</persName>
+                                </author>
+                                <editor role="trl">
+                                    <persName>Melgori, Solomon ben Moses</persName>
+                                    <persName xml:lang="he">מלגוירי, שלמה בן משה</persName>
+                                </editor>
+                                <title>Shamayim ṿeha-ʿolam   </title>
+                                <title xml:lang="he">שמים והעולם</title>
+                                <note>Hebrew translation of Avicenna's compendium of <persName key="person_7524651">Aristotle</persName>'s <hi rend="italic">De Coelo et Mundo</hi>.
+                              </note>
+                                <textLang mainLang="he">Hebrew</textLang>
+                            </msItem>
+                            <msItem n="2" xml:id="MS_Poc_280_2_b">
+                                <locus>ff. 29r-32r</locus>
+                                <author ref="http://viaf.org/viaf/6325192">
+                                    <persName key="person_6325192">Ẓaddik, Joseph ben Jacob Ibn, 1075-1149 </persName>
+                                    <persName xml:lang="ara">צדיק, יוסף בן יעקב אבן</persName>
+                                </author>
+                                <title>ʿOlam ḳaṭan  </title>
+                                <title xml:lang="he">עולם קטן</title>
+                                <textLang mainLang="he">Hebrew</textLang>
+                            </msItem>
+                        </msContents>
+                        <physDesc>
+                            <objectDesc form="codex">
+                                <supportDesc material="chart">
+                                    <support>paper</support>
+                                    <extent>ff. 16 (fols. 17-32) <dimensions type="leaf" unit="mm">
+                                            <height quantity="000"/>
+                                            <width quantity="000"/>
+                                        </dimensions>
+                                    </extent>
+                                    <foliation>Foliation in Arabic numerals.</foliation>
+                                </supportDesc>
+                                <layoutDesc>
+                                    <layout columns="1"/>
+                                </layoutDesc>
+                            </objectDesc>
+                            <handDesc>
+                                <summary>Oriental semi-cursive and cursive script.</summary>
+                                <handNote scope="major" script="oriental" rend="semi-cursive"/>
+                                <handNote scope="minor" script="oriental" rend="cursive"/>
+                            </handDesc>
+                        </physDesc>
+                        <history>
+                            <origin>
+                                <origPlace>[Turkey?]</origPlace>
+                                <origDate when="1565">[ca. 1565]</origDate>
+                            </origin>
+                            <provenance/>
+                        </history>
+                    </msPart>
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier type="partial">
+                                <idno>MS. Pococke 280/3</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem n="1" xml:id="MS_Poc_280_3_a">
+                                <locus>ff. 36r-44r</locus>
+                                <author ref="http://viaf.org/viaf/100185495/">
+                                    <persName key="person_100185495">Maimonides,
+                                    Moses, 1135-1204 </persName>
+                                    <persName xml:lang="he">משה בן
+                                        מימון </persName>
+                                </author>
+                                <title> Maqālah fī bayān al-aʻrād  </title>
+                                <title xml:lang="he"> מקאלה פי ביאן אלאעראץ’</title>
+                                <textLang mainLang="jrb">Judeo-Arabic</textLang>
+                            </msItem>
+                            <msItem n="2" xml:id="MS_Poc_280_3_b">
+                                <locus>ff. 44v-62r</locus>
+                                <author ref="http://viaf.org/viaf/100185495/">
+                                    <persName key="person_100185495">Maimonides,
+                                    Moses, 1135-1204 </persName>
+                                    <persName xml:lang="he">משה בן
+                                        מימון </persName>
+                                </author>
+                                <title> Maqālah fī al-sumūm wa-al-mutaḥarriz min al-adwiyah al-qattālah  </title>
+                                <title xml:lang="he"> אלסום ואלמתתחז מן אלאצויה אלקתאלה</title>
+                                <textLang mainLang="jrb">Judeo-Arabic</textLang>
+                            </msItem>
+                            <msItem n="2" xml:id="MS_Poc_280_3_c">
+                                <locus>ff. 62v-68v</locus>
+                                <author ref="http://viaf.org/viaf/100185495/">
+                                    <persName key="person_100185495">Maimonides,
+                                    Moses, 1135-1204 </persName>
+                                    <persName xml:lang="he">משה בן
+                                        מימון </persName>
+                                </author>
+                                <title> Risālah fī al-bawāsīr  </title>
+                                <title xml:lang="he"> פי אלבואסיר</title>
+                                <textLang mainLang="jrb">Judeo-Arabic</textLang>
+                            </msItem>
+                        </msContents>
+                        <physDesc>
+                            <objectDesc form="codex">
+                                <supportDesc material="chart">
+                                    <support>paper <watermark>(watermarks similar to Briquet no. 5380, dated 1562-1565)</watermark>
+                                    </support>
+                                    <extent>ff. 34 (fols. 36-69) <dimensions type="leaf" unit="mm">
+                                            <height quantity="000"/>
+                                            <width quantity="000"/>
+                                        </dimensions>
+                                    </extent>
+                                    <foliation/>
+                                </supportDesc>
+                                <layoutDesc>
+                                    <layout columns="1"/>
+                                </layoutDesc>
+                            </objectDesc>
+                            <handDesc>
+                                <summary>Sephardi semi-cursive script.</summary>
+                                <handNote scope="sole" script="sephardi" rend="semi-cursive"/>
+                            </handDesc>
+                        </physDesc>
+                        <history>
+                            <origin>
+                                <origPlace>[Spain]</origPlace>
+                                <origDate notBefore="1301" notAfter="1325">[early 14th century]</origDate>
+                            </origin>
+                            <provenance/>
+                        </history>
+                    </msPart>
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier type="partial">
+                                <idno>MS. Pococke 280/4</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem n="1" xml:id="MS_Poc_280_4_a">
+                                <locus>ff. 70r-91r</locus>
+                                <author ref="http://viaf.org/viaf/105133145">
+                                    <persName key="person_105133145">Fārābī</persName>
+                                    <persName xml:lang="he">פראבי, מחמד בן מחמד
+                                         </persName>
+                                </author>
+                                <title>Aphorisms </title>
+                                <note>Anonymous translation.</note>
+                                <colophon>Colophon dated <date calendar="AM-abbreviated">223</date> (<date calendar="Gregorian">1463</date>) on fol. 91r: <foreign xml:lang="he">"בעשור ראשון לאייר שנת א’ב’ר’ך’ את ה"</foreign>
+                                </colophon>
+                                <textLang mainLang="jrb">Judeo-Arabic</textLang>
+                            </msItem>
+                        </msContents>
+                        <physDesc>
+                            <objectDesc form="codex">
+                                <supportDesc material="chart">
+                                    <support>paper <watermark/>
+                                    </support>
+                                    <extent>ff. 12 (fols. 70-91) <dimensions type="leaf" unit="mm">
+                                            <height quantity="000"/>
+                                            <width quantity="000"/>
+                                        </dimensions>
+                                    </extent>
+                                    <foliation/>
+                                </supportDesc>
+                                <layoutDesc>
+                                    <layout columns="1"/>
+                                </layoutDesc>
+                            </objectDesc>
+                            <handDesc>
+                                <summary>Sephardi cursive script by two hands, the first copied fols. 69v (title)-81v, line 6.</summary>
+                                <handNote scope="sole" script="sephardi" rend="semi-cursive"/>
+                            </handDesc>
+                        </physDesc>
+                        <history>
+                            <origin>
+                                <origPlace>[Spain]</origPlace>
+                                <origDate when="1463">1463</origDate>
+                            </origin>
+                            <provenance/>
+                        </history>
+                    </msPart>
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier type="partial">
+                                <idno>MS. Pococke 280/5</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem n="1" xml:id="MS_Poc_280_5_a">
+                                <locus>ff. 92v-101v</locus>
+                                <title>Fragments of the New Testament</title>
+                                <textLang mainLang="he" otherLangs="syc">Hebrew, Aramaic, Syriac, Latin</textLang>
+                            </msItem>
+                        </msContents>
+                        <physDesc>
+                            <objectDesc form="codex">
+                                <supportDesc material="chart">
+                                    <support>paper <watermark/>
+                                    </support>
+                                    <extent>ff. 10 (fols. 91-101) <dimensions type="leaf" unit="mm">
+                                            <height quantity="000"/>
+                                            <width quantity="000"/>
+                                        </dimensions>
+                                    </extent>
+                                    <foliation/>
+                                </supportDesc>
+                                <layoutDesc>
+                                    <layout columns="1"/>
+                                </layoutDesc>
+                            </objectDesc>
+                            <handDesc>
+                                <summary>Sephardi semi-cursive script.</summary>
+                                <handNote scope="sole" script="sephardi" rend="semi-cursive"/>
+                            </handDesc>
+                        </physDesc>
+                        <history>
+                            <origin>
+                                <origPlace>[Spain]</origPlace>
+                                <origDate when="1463">1463</origDate>
+                            </origin>
+                            <provenance/>
+                        </history>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl>
+                    </desc>
+                </taxonomy>
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+                    </desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl>
+                            <ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref>
+                        </bibl>
+                    </desc>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Theology</term>
+                </keywords>
+                <keywords scheme="LCSH">
+                    <term>
+                        <persName/>
+                    </term>
+                </keywords>
+                <keywords scheme="#IMHM">
+                    <term>
+                        <persName/>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024" who="BW"><persName>Benjamin Whittle</persName> updated this file for publication</change><change when="2016-01-22">
+                <name type="person"> Zsofia Buda</name> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+    </facsimile>
+    <text>
+        <body>
+            <p>
+                <!--Body paragraph provided for validation and future transcription-->
+            </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,253 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1058">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of <ref target="http://viewer.bodleian.ox.ac.uk/icv/page.php?book=MS._Marsh_472">MS. Marsh 472</ref>
+                </title>
+                <respStmt xml:id="BW"><resp when="2024">Cataloguer</resp><persName>Benjamin Whittle</persName></respStmt><respStmt xml:id="ZB">
+                    <resp when="2016">Cataloguer</resp>
+                    <name type="person">Zsofia Buda</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bodleian Library</publisher>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <pubPlace>
+                    <address>
+                        <addrLine>Department of Special Collections</addrLine>
+                        <addrLine>Bodleian Library</addrLine>
+                        <street>Broad Street</street>
+                        <settlement>Oxford</settlement>
+                        <postCode>OX1 3BG</postCode>
+                        <addrLine>
+                            <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                        </addrLine>
+                        <addrLine>
+                            <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                        </addrLine>
+                    </address>
+                </pubPlace>
+                <idno type="msID">MS_Marsh_472</idno>
+                <idno type="catalogue">Hebrew</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Marsh_472" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+                        <collection>Oriental Manuscripts Marsh Collection</collection>
+                        <idno type="shelfmark">MS. Marsh 472</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">1381</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno type="SCN">9469</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Collection of Averroës' philosophical texts</summary>
+                        <msItem n="1" xml:id="MS_Marsh_472_a">
+                            <locus>ff. 1r-94v</locus>
+                            <author ref="http://viaf.org/viaf/19688718">
+                                <persName key="person_19688718">Averroës,
+                                1126-1198 </persName>
+                                <persName xml:lang="he">אבן רשד, מחמד בן
+                                    מחמד</persName>
+                            </author>
+                            <title>Middle commentary on Aristotle's Physics  </title>
+                            <title xml:lang="he"> באור אמצעי על ספר השמע הטבעי של אריסטו</title>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                        <msItem n="2" xml:id="MS_Marsh_472_b">
+                            <locus>ff. 95r-96v</locus>
+                            <author ref="http://viaf.org/viaf/19688718">
+                                <persName key="person_19688718">Averroës,
+                                1126-1198 </persName>
+                                <persName xml:lang="he">אבן רשד, מחמד בן
+                                    מחמד</persName>
+                            </author>
+                            <title>Long commentary on Aristotle's Physics  </title>
+                            <title xml:lang="he"> באור הארוך על ספר השמע הטבעי של אריסטו</title>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                        <msItem n="3" xml:id="MS_Marsh_472_c">
+                            <locus>ff. 97r-175r</locus>
+                            <author ref="http://viaf.org/viaf/19688718">
+                                <persName key="person_19688718">Averroës,
+                                1126-1198 </persName>
+                                <persName xml:lang="he">אבן רשד, מחמד בן
+                                    מחמד</persName>
+                            </author>
+                            <title>Medium commentary on Aristotle's De Coelo et Mundo  </title>
+                            <title xml:lang="he">  באור אצעי על ספר השמים והעולם של אריסטו</title>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                        <msItem n="4" xml:id="MS_Marsh_472_d">
+                            <locus>ff. 175v-254v</locus>
+                            <author ref="http://viaf.org/viaf/19688718">
+                                <persName key="person_19688718">Averroës,
+                                1126-1198 </persName>
+                                <persName xml:lang="he">אבן רשד, מחמד בן
+                                    מחמד</persName>
+                            </author>
+                            <editor role="trl">
+                                <persName ref="http://viaf.org/viaf/314797824" key="person_79269165">Ibn Tibbon, Jacob ben Machir, approximately 1236- </persName>
+                            </editor>
+                            <title>Medium commentary on Aristotle's De Animalibus  </title>
+                            <title xml:lang="he">  באור ספר בעלי חיים של אריסטו</title>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                        <msItem n="5" xml:id="MS_Marsh_472_e">
+                            <locus>ff. 255r-284r</locus>
+                            <author ref="http://viaf.org/viaf/19688718">
+                                <persName key="person_19688718">Averroës,
+                                1126-1198 </persName>
+                                <persName xml:lang="he">אבן רשד, מחמד בן
+                                    מחמד</persName>
+                            </author>
+                            <editor role="trl">
+                                <persName ref="http://viaf.org/viaf/41078232" key="person_41078232">Qalonymos ben Qalonymos ben Meʼir, 1286-</persName>
+                            </editor>
+                            <title>Medium commentary on Aristotle's De generatione et corruptione  </title>
+                            <title xml:lang="he">  באור אמצעי על ספר ההויה וההפסד של אריסטו</title>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="chart">
+                                <support>paper <watermark>(watermarks similar to Briquet no. 3547, dated 1467)</watermark>
+                                </support>
+                                <extent>ff. 284</extent>
+                                <foliation>Foliation in Arabic numerals. </foliation>
+                            </supportDesc>
+                            <layoutDesc>
+                                <layout columns="1"/>
+                            </layoutDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary>Sephardi semi-cursive scripts.</summary>
+                            <handNote scope="major" script="sephardi" rend="semi-cursive">No. 1-2 (fols. 1-96) and no. 4 (fols. 17v5-254v) by the same hand on the same watermarked paper;</handNote>
+                            <handNote scope="minor" script="sephardi" rend="semi-cursive">no. 3 (fols. 97r-175r) by a different hand on different paper;</handNote>
+                            <handNote scope="minor" script="sephardi" rend="semi-cursive">no. 5 (fols. 255-284) by another hand, or perhaps two hands;</handNote>
+                            <handNote scope="minor" script="sephardi" rend="cursive">the end (fol. 284v) was completed in a cursive script.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>[Spain]</origPlace>
+                            <origDate notBefore="1476" notAfter="1500" calendar="Gregorian">[late 15th century]</origDate>
+                        </origin>
+                        <provenance/>
+                        <acquisition>It was bequeathed to the Library by Narcissus Marsh
+                            (1638-1713), Church of Ireland archbishop of Armagh together with the
+                            rest of his Oriental MSS in 1714 (<hi rend="italic">Summary
+                                Catalogue</hi>, vol. III, p. 45).</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                        Neubauer, Oxford 1886, </bibl>
+                                    <ref facs="bej0283.jpg">No.
+                                        1381</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
+                                        Bodleian Library; Supplement of Addenda and Corrigenda to
+                                        Vol. I, </bibl>
+                                    <ref facs="beo0172.jpg">No. 1381</ref>, and
+                                    on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162789&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
+                                    Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
+                                        <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+                        <surrogates>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 22405</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
+                                    Manuscripts in the Bodleian Library </hi>(Oxford, 1886), no.
+                                1381.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
+                                    of the Hebrew manuscripts in the Bodleian Library; Supplement of
+                                    Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
+                                (Oxford: Clarendon Press, 1994), no. 1381.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl>
+                    </desc>
+                </taxonomy>
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+                    </desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl>
+                            <ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref>
+                        </bibl>
+                    </desc>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Philosophy</term>
+                </keywords>
+                <keywords scheme="LCSH">
+                    <term/>
+                </keywords>
+                <keywords scheme="#IMHM">
+                    <term>
+                        <persName xml:lang="he"> </persName>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024" who="BW"><persName>Benjamin Whittle</persName> updated this file for publication</change><change when="2016-02-10">
+                <name type="person"> Zsofia Buda</name> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+    </facsimile>
+    <text>
+        <body>
+            <p>
+                <!--Body paragraph provided for validation and future transcription-->
+            </p>
+        </body>
+    </text>
+</TEI>

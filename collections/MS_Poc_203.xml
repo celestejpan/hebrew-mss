@@ -1,0 +1,218 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1113">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of <ref target="http://digital.bodleian.ox.ac.uk/inquire/p/51385f82-f934-4e33-bfd2-10bf9df42035                         ">MS. Pococke 203</ref>
+                </title>
+                <respStmt xml:id="BW"><resp when="2024">Cataloguer</resp><persName>Benjamin Whittle</persName></respStmt><respStmt xml:id="ZB">
+                    <resp when="2016">Cataloguer</resp>
+                    <name type="person">Zsofia Buda</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bodleian Library</publisher>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <pubPlace>
+                    <address>
+                        <addrLine>Department of Special Collections</addrLine>
+                        <addrLine>Bodleian Library</addrLine>
+                        <street>Broad Street</street>
+                        <settlement>Oxford</settlement>
+                        <postCode>OX1 3BG</postCode>
+                        <addrLine>
+                            <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                        </addrLine>
+                        <addrLine>
+                            <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                        </addrLine>
+                    </address>
+                </pubPlace>
+                <idno type="msID">MS_Poc_203</idno>
+                <idno type="catalogue">Hebrew</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Poc_203" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+                        <collection>Oriental Manuscripts Pococke Collection</collection>
+                        <idno type="shelfmark">MS. Pococke 203</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">1632</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno type="SCN">5431</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno type="uri">Uri 374</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Aron ha-ʿedut by Yehudah Karasani</summary>
+                        <msItem n="1" xml:id="MS_Poc_203_a">
+                            <locus>ff. 3v-274v</locus>
+                            <author ref="http://viaf.org/viaf/21145304384378571610">
+                                <persName key="person_21145304384378571610">Karasani, Yehudah ben Yosef </persName>
+                                <persName xml:lang="he">כרסני, יהודה בן יוסף</persName>
+                            </author>
+                            <title>Aron ha-ʿedut
+                                </title>
+                            <title xml:lang="he">   ארון העדות</title>
+                            <note>A mystico-philosophical interpretation of biblical and aggadic passages, in 22 chapters.</note>
+                            <note>It was written for <persName>Shlomoh ben Yeshuʿah</persName> of
+                                Damascus.</note>
+                            <colophon>Colophon of the second scribe <persName>Berakhot bar Yosef
+                                    Kohen</persName> on fol. 274v: <foreign xml:lang="he">"ונשלם
+                                    כתיבת הספר...ביום רביעי שהוא יום שמונה ועשרים לירח ניסן שנת
+                                    אתשעט לשטרות במדינת דמשק והשלמתיו אני...ברכות בר’ יוסף כהן נ"ע
+                                    לכבוד ר’ שלמה בר ישועה נ"ע דממדינת דמשק"</foreign>.</colophon>
+                            <textLang mainLang="he">Hebrew</textLang>
+                        </msItem>
+                    </msContents>
+                    <physDesc>
+                        <objectDesc form="codex">
+                            <supportDesc material="chart">
+                                <support>paper <watermark/>
+                                </support>
+                                <extent>ff. 279 </extent>
+                                <foliation>Foliation in Arabic numerals.</foliation>
+                            </supportDesc>
+                        </objectDesc>
+                        <handDesc>
+                            <summary>Oriental semi-cursive scripts.   </summary>
+                            <handNote scope="minor" script="oriental" rend="semi-cursive">Fol. 203-274: copied by the scribe <persName>Berakhot ben Yosef Kohen</persName>. He was active between 1467-1484 (see also MSS. Huntington 612, Huntington
+                                545, <ref target="/p/m/k3y4ary24h36fbccnree23hzy0">Pococke
+                                    203</ref>).</handNote>
+                            <handNote scope="major" script="oriental" rend="semi-cursive">Fols. 3v-202v are copied by another hand. Fols. 1v-2r
+                                seem to be in the handwriting of <persName>Saadia ben David
+                                    al-Adani</persName>.</handNote>
+                        </handDesc>
+                    </physDesc>
+                    <history>
+                        <origin>
+                            <origPlace>Damascus</origPlace>
+                            <origDate when="1468" calendar="Gregorian">1468</origDate>
+                        </origin>
+                        <provenance>Ownership inscriptions: <foreign xml:lang="he">"יהודה בן שלמה
+                                י"ל הלוי" </foreign> (fol. (i)r); <foreign xml:lang="he">"זכיתי
+                                וקניתי...מיד ר’ יהודה לוי בלבאן מאיר חבר בר’ עובדיה חבר יצ"ו בר’
+                                עמנואל נ"ע ביום ג’ כ"ה לירח אלול שנת הרצ"ז ליצירה", "יסד לוי בלבאן
+                                מודה בזה". "מקנת כספי הצעיר יהודה לבית ליאון". "קנה אותו אדוני אביי
+                                כמה"ר יום טוב ן’ אלתייה"</foreign> (fol. 3r).</provenance>
+                        <acquisition>Edward Pococke's collection of oriental MSS (mostly Armenian,
+                            Hebrew and Arabic) was purchased by the Library for £800 in 1692 (see
+                            <hi rend="italic">Summary Catalogue</hi>, vol. II, p. 1008).</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                        Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                        Neubauer, Oxford 1886, </bibl>
+                                    <ref facs="bej0321.jpg">No.
+                                        1632</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
+                                        Bodleian Library; Supplement of Addenda and Corrigenda to
+                                        Vol. I <ref facs="beo0196.jpg">No. 1632. </ref>
+                                    </bibl> and
+                                    on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000057218&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
+                                    Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
+                                        <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+                        <surrogates>
+                            <bibl type="digital-facsimile" subtype="full">
+                                <ref target="https://digital.bodleian.ox.ac.uk/objects/51385f82-f934-4e33-bfd2-10bf9df42035/">
+                                    <title>Digital Bodleian</title>
+                                </ref>
+                                <note>(full digital facsimile)</note>
+                            </bibl>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 17210</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue  of the Hebrew Manuscripts in the
+                                Bodleian Library </hi>(Oxford,, 1886), no. 1632.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew
+                                manuscripts in the Bodleian Library; Supplement of Addenda and
+                                Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon
+                                Press, 1994), no. 1632.</bibl>
+                        </listBibl>
+                    </additional>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="Neubauer">
+                    <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by
+                        Adolf Neubauer, Oxford 1886, </bibl>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl>
+                            <ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref>
+                        </bibl>
+                    </desc>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <list>
+                        <item>Kabbalah</item>
+                        <item/>
+                    </list>
+                </keywords>
+                <keywords scheme="LCSH">
+                    <term/>
+                </keywords>
+                <keywords scheme="IMHM">
+                    <term>
+                        <persName xml:lang="he"> ברכות בן יוסף הכהן (מעתיק) </persName>
+                    </term>
+                    <term>
+                        <persName xml:lang="he"> אלתייה, יום טוב אבן (בעלים)</persName>
+                    </term>
+                    <term>
+                        <persName xml:lang="he"> בלבן, יהודה לוי (בעלים)</persName>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024" who="BW"><persName>Benjamin Whittle</persName> updated this file for publication</change><change when="2016-01-20">
+                <name type="person">Zsofia Buda</name> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url=""/>
+    </facsimile>
+    <text>
+        <body>
+            <p>
+                <!--Body paragraph provided for validation and future transcription-->
+            </p>
+        </body>
+    </text>
+</TEI>

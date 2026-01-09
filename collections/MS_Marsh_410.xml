@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_1056">
+    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+        <fileDesc>
+            <titleStmt>
+                <title>Digital description of <ref target="http://viewer.bodleian.ox.ac.uk/icv/page.php?book=MS._Marsh_410">MS. Marsh 410</ref>
+                </title>
+                <respStmt xml:id="BW"><resp when="2024">Cataloguer</resp><persName>Benjamin Whittle</persName></respStmt><respStmt xml:id="ZB">
+                    <resp when="2016">Cataloguer</resp>
+                    <name type="person">Zsofia Buda</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Bodleian Library</publisher>
+                <date calendar="Gregorian">[Date when first made available]</date>
+                <pubPlace>
+                    <address>
+                        <addrLine>Department of Special Collections</addrLine>
+                        <addrLine>Bodleian Library</addrLine>
+                        <street>Broad Street</street>
+                        <settlement>Oxford</settlement>
+                        <postCode>OX1 3BG</postCode>
+                        <addrLine>
+                            <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                        </addrLine>
+                        <addrLine>
+                            <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                        </addrLine>
+                    </address>
+                </pubPlace>
+                <idno type="msID">MS_Marsh_410</idno>
+                <idno type="catalogue">Hebrew</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Marsh_410" xml:lang="en">
+                    <msIdentifier>
+                        <country>United Kingdom</country>
+                        <region type="county">Oxfordshire</region>
+                        <settlement>Oxford</settlement>
+                        <institution>Oxford University</institution>
+                        <repository>Bodleian Library</repository>
+                        <collection>Oriental Manuscripts Marsh Collection</collection>
+                        <idno type="shelfmark">MS. Marsh 410</idno>
+                        <altIdentifier type="other">
+                            <idno type="cat_no">2091</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno type="SCN">9405</idno>
+                        </altIdentifier>
+                        <altIdentifier type="former">
+                            <idno type="uri">Uri 419</idno>
+                        </altIdentifier>
+                    </msIdentifier>
+                    <msContents>
+                        <summary>Collection of texts on medicine</summary>
+                    </msContents>
+                    <physDesc>
+                        <p>ff. 131</p>
+                        <bindingDesc>
+                            <p>Light brown leather binding, blind-tooled.</p>
+                        </bindingDesc>
+                    </physDesc>
+                    <history>
+                        <acquisition>It was bequeathed to the Library by Narcissus Marsh (1638-1713), Church of Ireland archbishop of Armagh
+                            together with the rest of his Oriental MSS in 1714 (<hi rend="italic">Summary Catalogue</hi>,
+                            vol. III, p. 45).</acquisition>
+                    </history>
+                    <additional>
+                        <adminInfo>
+                            <recordHist>
+                                <source> Manuscript description based on <bibl>Catalogue of the
+                                    Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
+                                    Neubauer, Oxford 1886, </bibl>
+                                    <ref facs="bej0394.jpg">No.
+                                        2091</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
+                                            Bodleian Library; Supplement of Addenda and Corrigenda to
+                                            Vol. I, </bibl>
+                                    <ref facs="beo0250.jpg">No. 2091</ref>, and on
+                                    the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000094834&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
+                                    Library of Israel with additional enhancements by the
+                                    cataloguer. </source>
+                            </recordHist>
+                            <availability status="restricted">
+                                <p>Entry to read in the Library is permitted only on presentation of
+                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
+                                    <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further
+                                    information on the availability of this manuscript.</p>
+                            </availability>
+                        </adminInfo>
+                        <surrogates>
+                            <bibl type="digital-facsimile" subtype="full">
+                                <ref target="https://digital.bodleian.ox.ac.uk/objects/4e2a91ea-c47b-4033-af13-97d169f686a1/">
+                                    <title>Digital Bodleian</title>
+                                </ref>
+                                <note>(full digital facsimile)</note>
+                            </bibl>
+                            <bibl>
+                                <idno n="MSS R.R. Film No." type="microfilm">F 19376</idno>
+                            </bibl>
+                        </surrogates>
+                        <listBibl>
+                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
+                                Manuscripts in the Bodleian Library </hi>(Oxford, 1886), no.
+                                2091.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
+                                of the Hebrew manuscripts in the Bodleian Library; Supplement of
+                                Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
+                                (Oxford: Clarendon Press, 1994), no. 2091.</bibl>
+                        </listBibl>
+                    </additional>
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier type="partial">
+                                <idno>MS. Marsh 410/1</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem n="1" xml:id="MS_Marsh_410_1_a">
+                                <locus>ff. 1r-54r</locus>
+                                <author key="n 80133010" ref="http://www.viaf.org/viaf/95154093/">
+                                    <persName key="person_95154093">Rāzī, Abū
+                                    Bakr Muḥammad ibn Zakarīyā, 865?-925?</persName>
+                                    <persName xml:lang="he">ראזי, מחמד בן זכריה</persName>
+                                </author>
+                                <title>Fragments of al-Ṭibb al-Manṣūrī </title>
+                                <title xml:lang="jrb">אלמנצורי (קטעים)</title>
+                                <note>Fragments:- ii. 13-iv; iv. 3-v.28; ix. 16-23; x. 18-36.</note>
+                                <note>In Hebrew translation.</note>
+                                <textLang mainLang="he" otherLangs="heb"> Hebrew</textLang>
+                                <listBibl>
+                                    <bibl>
+                                        <ref target="http://www.fihrist.org.uk/profile/manuscript/a3b5059e-70ab-4194-b1f7-a43909ab50c0">Fihrist online catalogue</ref>
+                                    </bibl>
+                                </listBibl>
+                            </msItem>
+                            <msItem n="2" xml:id="MS_Marsh_410_1_b">
+                                <locus>ff. 54v-72v</locus>
+                                <title>Commentary on Johannitius with extracts from the text in an anonymous translation from Latin.  </title>
+                                <title xml:lang="he">פרוש ספר המבוא של חנין בן אסחאק</title>
+                                <textLang mainLang="he" otherLangs="heb"> Hebrew</textLang>
+                            </msItem>
+                        </msContents>
+                        <physDesc>
+                            <objectDesc form="codex">
+                                <supportDesc material="chart">
+                                    <support>paper <watermark>(watermarks similar to Briquet no. 5157, dated 1456-1459)</watermark>
+                                    </support>
+                                    <extent>ff. 72</extent>
+                                    <foliation>Foliation in Arabic numerals. </foliation>
+                                </supportDesc>
+                                <layoutDesc>
+                                    <layout columns="1"/>
+                                </layoutDesc>
+                            </objectDesc>
+                            <handDesc>
+                                <summary>Sephardi semi-cursive script with some Byzantine shapes of letters.</summary>
+                                <handNote scope="sole" script="sephardi" rend="semi-cursive"/>
+                            </handDesc>
+                        </physDesc>
+                        <history>
+                            <origin>
+                                <origPlace>[Byzantium?]</origPlace>
+                                <origDate when="1450" calendar="Gregorian">[mid-15th century]</origDate>
+                            </origin>
+                            <provenance/>
+                        </history>
+                    </msPart>
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier type="partial">
+                                <idno>MS. Marsh 410/2</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem n="1" xml:id="MS_Marsh_410_2_a">
+                                <locus>ff. 73r-79r</locus>
+                                <title>Remedies and medicaments </title>
+                                <title xml:lang="he"> תרופות וסמים</title>
+                                <textLang mainLang="he">Hebrew</textLang>
+                            </msItem>
+                            <msItem n="2" xml:id="MS_Marsh_410_2_b">
+                                <locus>f. 79v</locus>
+                                <author ref="http://viaf.org/viaf/71428967">
+                                    <persName key="person_71428967">Falaquera, Shem Tov ben Joseph, approximately 1225-approximately 1295</persName>
+                                    <persName xml:lang="he">פלקירא, שם טוב בן יוסף אבן</persName>
+                                </author>
+                                <title>Igeret ha-Ṿikuaḥ (fragment) </title>
+                                <title xml:lang="he"> אגרת הויכוח (קטע מההתחלה)</title>
+                                <note>The beginning of the text.</note>
+                                <textLang mainLang="he">Hebrew</textLang>
+                            </msItem>
+                            <msItem n="3" xml:id="MS_Marsh_410_2_c">
+                                <locus>f. 80v-84v</locus>
+                                <title>Treatise on medical astrology </title>
+                                <title xml:lang="he"> חבור באסטרולוגיה רפואית</title>
+                                <textLang mainLang="he">Hebrew</textLang>
+                            </msItem>
+                        </msContents>
+                        <physDesc>
+                            <objectDesc form="codex">
+                                <supportDesc material="chart">
+                                    <support>paper <watermark>(watermarks similar to Briquet no. 15865, dated 1427-1430)</watermark>
+                                    </support>
+                                    <extent>ff. 12 (fols. 73-84)</extent>
+                                    <foliation>Foliation in Arabic numerals. </foliation>
+                                </supportDesc>
+                                <layoutDesc>
+                                    <layout columns="1"/>
+                                </layoutDesc>
+                            </objectDesc>
+                            <handDesc>
+                                <summary>Byzantine semi-cursive script.</summary>
+                                <handNote scope="sole" script="byzantine" rend="semi-cursive"/>
+                            </handDesc>
+                        </physDesc>
+                        <history>
+                            <origin>
+                                <origPlace>[Byzantium]</origPlace>
+                                <origDate when="1430">[ca. 1430]</origDate>
+                            </origin>
+                            <provenance/>
+                        </history>
+                    </msPart>
+                    <msPart>
+                        <msIdentifier>
+                            <altIdentifier type="partial">
+                                <idno>MS. Marsh 410/3</idno>
+                            </altIdentifier>
+                        </msIdentifier>
+                        <msContents>
+                            <msItem n="1" xml:id="MS_Marsh_410_3_a">
+                                <locus>ff. 85r-131v</locus>
+                                <author ref="http://viaf.org/viaf/89770781">
+                                    <persName>Avicenna, 980?-1037</persName>
+                                    <persName xml:lang="he">אבן סינא, אלחסין בן עבדאללה,980-1037</persName>
+                                </author>
+                                <editor role="trl">Nathan ha-Meʾati</editor>
+                                <title>Canon (Book I)   </title>
+                                <title xml:lang="he"> קאנון (ספר א’)</title>
+                                <textLang mainLang="he">Hebrew</textLang>
+                            </msItem>
+                        </msContents>
+                        <physDesc>
+                            <objectDesc form="codex">
+                                <supportDesc material="chart">
+                                    <support>paper <watermark>(watermarks similar to Briquet no. 6686, dated 1380-1382)</watermark>
+                                    </support>
+                                    <extent>ff. 47 (fols. 85-131)</extent>
+                                    <foliation>Foliation in Arabic numerals. </foliation>
+                                </supportDesc>
+                                <layoutDesc>
+                                    <layout columns="1"/>
+                                </layoutDesc>
+                            </objectDesc>
+                            <handDesc>
+                                <summary>Byzantine semi-cursive script.</summary>
+                                <handNote scope="sole" script="byzantine" rend="semi-cursive"/>
+                            </handDesc>
+                        </physDesc>
+                        <history>
+                            <origin>
+                                <origPlace>[Byzantium]</origPlace>
+                                <origDate notBefore="1376" notAfter="1400">[late 14th century]</origDate>
+                            </origin>
+                            <provenance/>
+                        </history>
+                    </msPart>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <classDecl>
+                <taxonomy xml:id="INDEX">
+                    <desc>General index of <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian
+                            Library, vol. ii, by Adolf Neubauer and Arthur Ernest Cowley, Oxford
+                            1906</bibl>
+                    </desc>
+                </taxonomy>
+                <taxonomy xml:id="Neubauer">
+                    <desc>Catalogue section of <bibl>Catalogue of the Hebrew Manuscripts in the
+                            Bodleian Library, vols. i-ii, by Adolf Neubauer, by Adolf Neubauer and
+                            Arthur Ernest Cowley, Oxford 1886, 1906</bibl>
+                    </desc>
+                </taxonomy>
+                <taxonomy xml:id="LCSH">
+                    <bibl>
+                        <ref target="http://id.loc.gov/authorities/about.html#lcsh">Library of
+                            Congress Subject Headings</ref>
+                    </bibl>
+                </taxonomy>
+                <taxonomy xml:id="IMHM">
+                    <desc>Catalogue of the <bibl>
+                            <ref target="http://www.jnul.huji.ac.il/imhm/">
+                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
+                                University Library, Jerusalem</ref>
+                        </bibl>
+                    </desc>
+                </taxonomy>
+            </classDecl>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="Neubauer">
+                    <term>Thalmud, Halakhah</term>
+                </keywords>
+                <keywords scheme="LCSH">
+                    <term>
+                        <persName ref="http://viaf.org/viaf/19690624" key="person_19690624">Ḥunayn ibn Isḥāq al-ʻIbādī, 809?-873 </persName>
+                    </term>
+                </keywords>
+                <keywords scheme="#IMHM">
+                    <term>
+                        <persName xml:lang="he">חנין בן אסחאק</persName>
+                    </term>
+                    <term>
+                        <persName xml:lang="he"> נתן, המאתי</persName>
+                    </term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+        <revisionDesc>
+            <change when="2024" who="BW"><persName>Benjamin Whittle</persName> updated this file for publication</change><change when="2015-10-17">
+                <name type="person"> Zsofia Buda</name> created this file</change>
+        </revisionDesc>
+    </teiHeader>
+    <facsimile>
+        <graphic url="MS_HEB_X_XX_1a.tif"/>
+    </facsimile>
+    <text>
+        <body>
+            <p>
+                <!--Body paragraph provided for validation and future transcription-->
+            </p>
+        </body>
+    </text>
+</TEI>
