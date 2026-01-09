@@ -4,3 +4,4 @@ processing/solr/
 processing/lib/
 *.log
 *.tmp
+*.xpr
