@@ -42,7 +42,7 @@
                         <institution>Oxford University</institution>
                         <repository>Bodleian Library</repository>
                         <collection>Oriental Manuscripts Michael Collection</collection>
-                        <idno type="shelfmark">MS. Michael 617</idno>
+                        <idno>MS. Michael 617</idno>
                         <altIdentifier type="other">
                             <idno type="cat_no">1033</idno>
                         </altIdentifier>

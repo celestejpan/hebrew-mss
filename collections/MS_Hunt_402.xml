@@ -42,7 +42,7 @@
                         <institution>Oxford University</institution>
                         <repository>Bodleian Library</repository>
                         <collection>Oriental Manuscripts Huntington Collection</collection>
-                        <idno type="shelfmark">MS.  Huntington 402</idno>
+                        <idno>MS.  Huntington 402</idno>
                         <altIdentifier type="other">
                             <idno type="cat_no"> 289</idno>
                         </altIdentifier>

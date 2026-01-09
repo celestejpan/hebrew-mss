@@ -41,7 +41,7 @@
                         <institution>Oxford University</institution>
                         <repository>Bodleian Library</repository>
                         <collection>Oriental Manuscripts Marsh Collection</collection>
-                        <idno type="shelfmark">MS. Marsh 607</idno>
+                        <idno>MS. Marsh 607</idno>
                         <altIdentifier type="other">
                             <idno type="cat_no">84</idno>
                         </altIdentifier>

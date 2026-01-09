@@ -41,7 +41,7 @@
                         <institution>Oxford University</institution>
                         <repository>Bodleian Library</repository>
                         <collection>Oriental Manuscripts Pococke Collection</collection>
-                        <idno type="shelfmark">MS. Pococke 215b</idno>
+                        <idno>MS. Pococke 215b</idno>
                         <altIdentifier type="other">
                             <idno type="cat_no">1522</idno>
                         </altIdentifier>

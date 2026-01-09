@@ -42,7 +42,7 @@
                         <institution>Oxford University</institution>
                         <repository>Bodleian Library</repository>
                         <collection>Oriental Manuscripts Pococke Collection</collection>
-                        <idno type="shelfmark">MS. Pococke 236</idno>
+                        <idno>MS. Pococke 236</idno>
                         <altIdentifier type="other">
                             <idno type="cat_no">395</idno>
                         </altIdentifier>
