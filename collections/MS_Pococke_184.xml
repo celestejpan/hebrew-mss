@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_545">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt xml:id="BW">
+               <resp when="2024">Cataloguer</resp>
+               <persName>Benjamin Whittle</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno type="msID">MS_Pococke_184</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Pococke Collection</collection>
+                  <idno>MS. Pococke 184</idno>
+               <altIdentifier type="other">
+                  <idno type="cat_no">2243</idno>
+               </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="uri">38</idno>
+                  </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="barnard">5364</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem n="1">
+                     <locus>Fols. 3a-6a</locus>
+                     <title>Targum Jonathan of the former prophets (Judges 5)</title>
+                     <title xml:lang="he">תרגום יונתן לנביאים ראשונים (שופטים ה)</title>
+                     <title xml:lang="he-Latn-x-lc">Targum Yonatan le-Nevi'im Rishonim (Shofetim H)</title>                     
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="2">
+                     <locus>Fols. 6b-7</locus>
+                     <title xml:lang="he">הפטרות (פרשת בשלח)</title>
+                     <title xml:lang="he-Latn-x-lc">Hafṭrot (parashat beshalaḥ)</title>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="3">
+                     <locus>Fol. 8</locus>
+                     <title type="desc">Casuistical notes</title>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="4">
+                     <locus>Fols. 9a-9b</locus>
+                     <title type="desc">Commentaries on Geography and Astronomy</title>
+                     <title type="desc" xml:lang="he">הערות בגיאוגרפיה ובאסטרונומיה</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Ha-arut be-gi'ographiah ṿebe-asṭronomiah</title>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="5">
+                     <locus>Fols. 10a-54b</locus>
+                     <title type="desc">Ibn Ezra's commentary on the Five Scrolls</title>
+                     <title type="desc" xml:lang="he">פרוש כתובים לראב"ע (חמש מגלות)</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Perush Ketuvim le-Raba' (Ḥamesh megilot)</title>
+                     <author key="person_90633023">
+                        <persName>Ibn Ezra, Abraham ben Meïr, 1089-1164</persName>
+                        <persName xml:lang="he">עזרא, אברהם בן מאיר אבן</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="6">
+                     <locus>Fol. 54</locus>
+                     <title type="desc">Aggadic notes on <lang xml:lang="he">קידוש לבנה</lang>(<lang xml:lang="he-Latn-x-lc">Ḳiddush la-baneh</lang>).</title>
+                  </msItem>
+                  <msItem n="7">
+                     <locus>Fols. 55b-96a</locus>
+                     <title type="desc">Meyuḥas ben Eliyahu's commentary on Job</title>
+                     <title type="desc" xml:lang="he">פרוש כתובים (איוב)</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Perush Ketuvim ('Ayov)</title>
+                     <author key="person_11418133">
+                        <persName>Meyuḥas ben Eliyahu active 12th century</persName>
+                        <persName xml:lang="he">מיוחס בן אליהו</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="8">
+                     <locus>Fols. 96b-98a</locus>
+                     <title>Notes on Biblical and Talmudic passages</title>
+                     <note>Collected from <persName key="person_100185495">Maimonides</persName>; <persName>Samuel</persName> great-grandson (at least) of <persName key="person_30339950"><lang xml:lang="he">רא״ש</lang></persName>; and <persName>Joseph <lang xml:lang="he">נטליק</lang></persName>.</note>
+                  </msItem>
+                  <msItem n="9">
+                     <locus>Fols. 98b-133a</locus>
+                     <title>The Choice of Pearls</title>
+                     <title xml:lang="he">מבחר הפנינים</title>
+                     <title xml:lang="he-Latn-x-lc">Mivḥar ha-Peninim</title>
+                     <author key="person_100186412">
+                        <persName>Ibn Gabirol, active 11th century</persName>
+                        <persName xml:lang="he">גבירול, שלמה בן יהודה אבן</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="10">
+                     <locus>Fols. 133b-138a</locus>
+                     <title xml:lang="he">ספר התפוח</title>
+                     <title xml:lang="he-Latn-x-lc">Sefer ha-tafoaḥ</title>
+                     <author key="person_7524651">
+                        <persName>Aristotle (attributed to him)</persName>
+                        <persName xml:lang="he">אריסטו (מיוחס לו)</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <support>Pre-watermarked early Occidental thick paper, with widely spaced irregular chain-lines. Apart from nos. 9-10, irregular parchment outer and inner sheets of quires.</support>
+                        <extent>ff. 138</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Byzantine semi-cursive scripts</summary>
+                     <handNote>Compilation of four MSS., all written in Byzantine hands: nos. 1-4 by several hands, no. 5 by one hand, no. 7 by <persName>Abraham</persName> (decorated on <locus>fol. 83r</locus>). The erased name in the dated colophon on <locus>fol. 95r</locus> can be clearly read under ultra-violet light: <lang xml:lang="he">אברהם בכ״ר משה קלומיטי</lang> (Abraham bk''r Moses Ḳalumiti). Nos. 9-10 by another, earlier hand, but its beginning (<locus>fol. 99</locus>) and end (<locus>fols. 137r-138r</locus>) were added later, about the time of the rest of the codex.</handNote>
+                  </handDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate>No.7 is dated 1436. The others, apart from nos. 9-10 are more or less contemporary. Nos. 9-10: early mid-13th cent.</origDate>
+                     <origPlace>[Byzantium]</origPlace>
+                  </origin>
+                  <provenance>
+                  </provenance>
+                  <acquisition>Edward Pococke's collection of oriental MSS (mostly Armenian, Hebrew and Arabic) was purchased by the Library for £800 in 1692 (see Summary Catalogue, vol. II, p. 1008).</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
+                           <ref>No. 2243</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
+                                 <ref>No. 2243</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 20526</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 2243.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2243.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

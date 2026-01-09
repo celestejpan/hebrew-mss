@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_487">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt xml:id="BW">
+               <resp when="2024">Cataloguer</resp>
+               <persName>Benjamin Whittle</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno type="msID">MS_Michael_263</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Michael Collection</collection>
+                  <idno>MS. Michael 263</idno>
+               <altIdentifier type="other">
+                  <idno type="cat_no">777</idno>
+               </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem n="1">
+                     <locus>Fols. 1a-113b</locus>
+                     <title type="desc">Legal rulings</title>
+                     <title type="desc" xml:lang="he">פסקי הלכות</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Pisḳey ha-lakhot</title>
+                     <author key="person_101087390">
+                        <persName>Recanati, Menahem ben Benjamin, active 13th century-14th century</persName>
+                        <persName xml:lang="he">ריקנטי, מנחם בן בנימין</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="2">
+                     <locus>Fols. 114a-147b</locus>
+                     <title>The Gates of Dora</title>
+                     <title xml:lang="he">שערי דורא</title>
+                     <title xml:lang="he-Latn-x-lc">Sha'arey Dora</title>
+                     <author key="person_9742647">
+                        <persName>Dueren, Isaac ben Meir, active 13th century</persName>
+                        <persName xml:lang="he">יצחק בן מאיר מדורא</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="3">
+                     <locus>Fols. 148a-166b</locus>
+                     <title/>
+                     <title xml:lang="he">סימנים לספר תרומה</title>
+                     <title xml:lang="he-Latn-x-lc">Simanim le-sefer Terumah</title>
+                     <author key="person_78698989">
+                        <persName>Baruch ben Isaac, of Worms, active 12th century-13th century</persName>
+                        <persName xml:lang="he">ברוך בן יצחק מגרמיזא</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="4">
+                     <locus>Fols. 167a-172a</locus>
+                     <title/>
+                     <title xml:lang="he">הפרדס</title>
+                     <title xml:lang="he-Latn-x-lc">Ha-pardes</title>
+                     <author key="person_19684048">
+                        <persName>Rashi, 1040-1105</persName>
+                        <persName xml:lang="he">שלמה בן יצחק (רש"י)</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>                  
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <support>parchment</support>
+                        <extent>ff. 172</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Italian semi-cursive script</summary>
+                     <handNote>
+                        The scribe, who decorated the name <persName>Samuel</persName> many times (e.g. on <locus>fols. 51r, 127v-twice, 133v</locus>), copied <locus>fols. 1-141</locus>. The index (<locus>fols. 143r-147r</locus>), <lang xml:lang="he">עניין ניקור הבשר</lang> (<locus>fol. 147r-147v</locus>), <locus>fols. 148r-159r</locus>, and <locus>fols. 159v-166v</locus> were each copied by a different hand.
+                        Censor: <persName key="person_316606361">Camillo Jaghel</persName> 1611 (<locus>fol. 172r</locus>).
+                     </handNote>
+                  </handDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate>[14th cent.]</origDate>
+                     <origPlace>[Italy]</origPlace>
+                  </origin>
+                  <provenance>
+                  </provenance>
+                  <acquisition>It belonged to the library of <persName key="person_17140230">Heimann Joseph Michael</persName> (1792-1846), which was purchased en bloc (altogether 862 volumes) by the Bodleian Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
+                           <ref>No. 777</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
+                                 <ref>No. 777</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 20314</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 777.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 777.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

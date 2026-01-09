@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_488">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt xml:id="BW">
+               <resp when="2024">Cataloguer</resp>
+               <persName>Benjamin Whittle</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno type="msID">MS_Michael_289</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Michael Collection</collection>
+                  <idno>MS. Michael 289</idno>
+               <altIdentifier type="other">
+                  <idno type="cat_no">360</idno>
+               </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>A collection of commentaries</summary>
+                  <msItem n="1">
+                     <locus>Fols. 1a-62b</locus>
+                     <title type="desc">Ibn Ezra's commentary on the Writings (Qohelet, Job)</title>
+                     <title type="desc" xml:lang="he">פרוש כתובים לראב"ע (קהלת, איוב)</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Perush Ketuvim le-RAB"'</title>
+                     <author key="person_90633023">
+                        <persName>Ibn Ezra, Abraham ben Meïr, 1089-1164</persName>
+                        <persName xml:lang="he">אבן עזרא, אברהם בן מאיר, 1089-1164</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="2">
+                     <locus>Fols. 63a-171a</locus>
+                     <title type="desc">Levi ben Gershom's commentary on the Writings </title>
+                     <title type="desc" xml:lang="he">פרוש כתובים לרלב"ג</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Perush Ketuvim le-RaLBa"G</title>
+                     <author key="person_59118174">
+                        <persName>Levi ben Gershom, 1288-1344</persName>
+                        <persName xml:lang="he">לוי בן גרשם , 1288-1344</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>Some marginal notes headed <persName>Moses</persName>.</note>
+                  </msItem>
+                  <msItem n="3">
+                     <locus>Fol. 172b</locus>
+                     <title type="desc">Rashi's commentary on Esther (1:1-1:9)</title>
+                     <title type="desc" xml:lang="he">פרוש כתובים לרש"י (אסתר א:א-א:ט)</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Perush ketuvim le-Rashi (Ester A:A-A:Ṭ)</title>
+                     <author key="person_19684048">
+                        <persName>Rashi, 1040-1105</persName>
+                        <persName xml:lang="he">שלמה בן יצחק (רש"י)</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>                  
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <support>paper and parchment (outer and inner sheets of quires made of parchment)</support>
+                        <extent>ff. 171</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Sephardic semi-cursive script</summary>
+                     <handNote/>
+                  </handDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate>No. 1: [late 13th cent.]; No. 2: [early 15th cent. (watermarks: Briquet no. 4076, dated 1402 and 1400-18)]</origDate>
+                     <origPlace>No. 1: [Spain]; No. 2: [Italy or Provence]</origPlace>
+                  </origin>
+                  <provenance>
+                  </provenance>
+                  <acquisition>It belonged to the library of <persName key="person_17140230">Heimann Joseph Michael</persName> (1792-1846), which was purchased en bloc (altogether 862 volumes) by the Bodleian Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
+                           <ref>No. 360</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
+                                 <ref>No. 360</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 17279</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 360.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 360.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

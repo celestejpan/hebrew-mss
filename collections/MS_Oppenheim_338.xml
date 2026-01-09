@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_505">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt xml:id="BW">
+               <resp when="2024">Cataloguer</resp>
+               <persName>Benjamin Whittle</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno type="msID">MS_Oppenheim_338</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Oppenheim Collection</collection>
+                  <idno>MS. Oppenheim 338</idno>
+               <altIdentifier type="other">
+                  <idno type="cat_no">874</idno>
+               </altIdentifier>
+               <altIdentifier type="former">
+                  <idno>MS. Oppenheim 725</idno>
+               </altIdentifier>                  
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <msItem n="1">
+                     <locus>Fols. 1a-159b</locus>
+                     <title>The Small Book of Commandments</title>
+                     <title xml:lang="he">ספר מצוות קטן</title>
+                     <title xml:lang="he-Latn-x-lc">Sefer Mitsṿot Ḳaṭan</title>
+                  <author key="person_292205904">
+                     <persName>Isaac ben Joseph, of Corbeil, active 13th century</persName>
+                     <persName xml:lang="he">יצחק בן יוסף מקורביל</persName>
+                  </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="2">
+                     <locus>Fols. 160b-190b</locus>
+                     <title>The Small Crossword</title>
+                     <title xml:lang="he">תשב"ץ</title>
+                     <title xml:lang="he-Latn-x-lc">Tashba"ts</title>
+                     <author key="person_8698827">
+                        <persName>Samson ben Zadok, -1312</persName>
+                        <persName xml:lang="he">שמשון בן צדוק</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>                   
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <support>parchment</support>
+                        <extent>ff. 190</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Ashkenazic square script</summary>
+                     <handNote>The colophon at the end of no. 1, which is written in a micrographic disposition on <locus>fol. 155r</locus>, indicates only the scribe's name, <persName>Judah</persName>, which is frequently pointed out in the copied text (e.g. <locus>fols. 29r, 103v, 162v</locus>).</handNote>
+                  </handDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate>late 13th century?</origDate>
+                     <note>The codicological features (the tpye of parchment as well as the technique of pricking and ruling) match late 13th-cent. dating, which is contradicted by the 1384 date of the second letter of divorce on <locus>fol. 68r</locus> (in addition to the first letter of divorce on <locus>fol. 67v</locus>, dated 1284). But since both letters share the same place of writing and the same date, apart from the extra century in the second one, this might well have been added by mistake.</note>
+                     <origPlace>France?</origPlace>
+                  </origin>
+                  <provenance>
+                  </provenance>
+                  <acquisition>It belonged to David Oppenheimer's (1667-1735) library, which was purchased by the Bodleian Library in 1829.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
+                           <ref>No. 874</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
+                                 <ref>No. 874</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 21833</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 874.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 874.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_551">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt xml:id="BW">
+               <resp when="2024">Cataloguer</resp>
+               <persName>Benjamin Whittle</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno type="msID">MS_Pococke_405</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection/>
+                  <idno>MS. Pococke 405</idno>
+               <altIdentifier type="other">
+                  <idno type="cat_no">2116</idno>
+               </altIdentifier>
+               <altIdentifier type="other">
+                  <idno type="uri">420</idno>
+               </altIdentifier>
+               <altIdentifier type="other">
+                  <idno type="barnard">5435</idno>
+               </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem n="1">
+                     <locus>Fols. 1a-184a</locus>
+                     <title>The</title>
+                     <title xml:lang="he">פרקי משה</title>
+                     <title xml:lang="he-Latn-x-lc">Parḳey Mosheh</title>
+                     <author key="person_100185495">
+                        <persName>Maimonides, Moses, 1135-1204</persName>
+                        <persName xml:lang="he">משה בן מימון</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>Some of the marg. notes are by <persName>Moses ha-Kohen</persName>.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus>Fols. 184a-201b</locus>
+                     <title/>
+                     <title xml:lang="he">ספר המדרגות</title>
+                     <title xml:lang="he-Latn-x-lc">Sefer ha-madragot</title>
+                     <author key="person_226497544">
+                        <persName>Bernard, de Gordon, approximately 1260-approximately 1318</persName>
+                        <persName xml:lang="he">ברנרד דה גורדון</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="3">
+                     <locus>Fols. 202a-240a</locus>
+                     <title type="desc">A commentary on the aphorisms of Hippocrates</title>
+                     <title xml:lang="he">פרוש אפוריסמי לאפוקרט</title>
+                     <title xml:lang="he-Latn-x-lc">Perush aporismi le-'Ippoḳraṭ</title>
+                     <author key="person_100185495">
+                        <persName>Maimonides, Moses, 1135-1204</persName>
+                        <persName xml:lang="he">משה בן מימון</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>                  
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <support>paper</support>
+                        <extent>ff. 240</extent>
+                        <collation><locus>Fols. 125-127</locus> wrongly follow <locus>fol. 135</locus>.</collation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Sephardic semi-cursive scripts.</summary>
+                     <handNote>The beg. of the copy of nos. 1-2 (<locus>fols. 1r-59r, l. 9</locus>) was done by one hand, the continuation of another hand. No. 3 (<locus>fols. 202-239</locus>) by another copyist, on different paper. <locus>Fol. 240r</locus> by a later hand.</handNote>
+                  </handDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate>[late 15th cent.]</origDate>
+                     <origPlace>[Sepharad]</origPlace>
+                  </origin>
+                  <provenance>
+                  </provenance>
+                  <acquisition>Edward Pococke's collection of oriental MSS (mostly Armenian, Hebrew and Arabic) was purchased by the Library for £800 in 1692 (see Summary Catalogue, vol. II, p. 1008).</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
+                           <ref>No. 2116</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
+                                 <ref>No. 2116</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 19930</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 2116.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2116.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

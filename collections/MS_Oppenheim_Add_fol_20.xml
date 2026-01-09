@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_536">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt xml:id="BW">
+               <resp when="2024">Cataloguer</resp>
+               <persName>Benjamin Whittle</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno type="msID">MS_Oppenheim_Add_fol_20</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Oppenheimer Collection</collection>
+                  <idno>MS. Oppenheim Add. fol. 20</idno>
+               <altIdentifier type="other">
+                  <idno type="cat_no">459</idno>
+               </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem n="1">
+                     <locus>ff.1-57</locus>
+                     <title>Subject-index to halakhic topics in the MS.</title>
+                     <title xml:lang="he">מפתח לפי נושאים להלכות שבתלמוד</title>
+                     <title xml:lang="he-Latn-x-lc">Miftaḥ le-pi nosaim le-halakhot sheba-Talmud</title>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="2">
+                     <locus>ff.59-125, 167-336</locus>
+                     <title>Namuki Yosef: a commentary on the halakhot of Rabbi Alfasi</title>
+                     <title xml:lang="he">נמוקי יוסף: פרוש על הלכות אלפסי</title>
+                     <title xml:lang="he-Latn-x-lc">Namuḳi Yosef: perush 'al halakhot Alfasi</title>
+                     <author key="person_6159999589130111352">
+                        <persName>Ḥabiba, Joseph, active 15th century</persName>
+                        <persName xml:lang="he">חביבא, יוסף אבן</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="3">
+                     <locus>ff.125-167</locus>
+                     <title>Gerondi's commentary on the halakhot of Rabbi Alfasi</title>
+                     <title xml:lang="he">פרוש הלכות הרי"ף להר"ן (יום טוב, ראש השנה ויומא)</title>
+                     <title xml:lang="he-Latn-x-lc">Perush halakhot ha-Ri"f le-Har"n (Yom Ṭov, Rosh ha-Shanah ṿe-Yoma)</title>
+                     <author key="person_314808316">
+                        <persName>Nissim ben Reuben Gerondi, 1310?-1375?</persName>
+                        <persName xml:lang="he">נסים בן ראובן גירונדי</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>                  
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <support>paper</support>
+                        <extent>ff. 336</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Sephardic semi-cursive scripts</summary>
+                     <handNote><locus>Fols. 1-57 by a different hand on the same paper.</locus></handNote>
+                  </handDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate>dated 1434-40</origDate>
+                     <origPlace/>
+                  </origin>
+                  <provenance>
+                  </provenance>
+                  <acquisition>It belonged to David Oppenheimer's (1667-1735) library, which was purchased by the Bodleian Library in 1829.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
+                           <ref>No. 459</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
+                                 <ref>No. 459</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 18603</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 459.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 459.</bibl>
+                  </listBibl>
+                  
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

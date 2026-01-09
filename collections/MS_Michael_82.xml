@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_494">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt xml:id="BW">
+               <resp when="2024">Cataloguer</resp>
+               <persName>Benjamin Whittle</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno type="msID">MS_Michael_82</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Michael Collection</collection>
+                  <idno>MS. Michael 82</idno>
+               <altIdentifier type="other">
+                  <idno type="cat_no">1501</idno>
+               </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem n="1">
+                     <locus>Fols. 1a-6b</locus>
+                     <title>The Bridle of Truth</title>
+                     <title xml:lang="he">מתג האמת</title>
+                     <title xml:lang="he-Latn-x-lc">Meteg ha-'emet</title>
+                     <author key="person_10988426">
+                        <persName>Hanau, Solomon Zalman ben Judah Loeb, ha-Kohen, 1687-1746</persName>
+                        <persName xml:lang="he">הנה, שלמה זלמן בן יהודה ליב כץ</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="2">
+                     <locus>Fols. 7a-14b</locus>
+                     <title type="desc">A treatise of grammar</title>
+                     <title type="desc" xml:lang="he">חבור דקדוק</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Ḥibbur diḳduḳ</title>
+                     <author key="person_308275258">
+                        <persName>Aleksander Zisḳind ben Shemuʼel Zanṿil mi-ḳ.ḳ. Mets</persName>
+                        <persName xml:lang="he">אלכסנדר זיסקינד בן שמואל זנויל</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="3">
+                     <locus>Fols. 15a-32b</locus>
+                     <title type="desc">The key of cantillation</title>
+                     <title type="desc" xml:lang="he">מפתח הנגינות</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Miftaḥ ha-neginot</title>
+                     <author key="person_7050">
+                        <persName>Oberbeeḳ, Adolf Ṭaubold</persName>
+                        <persName xml:lang="he">אוברביק, אדולף טאובולד</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="4">
+                     <locus>Fols. 33a-43a</locus>
+                     <title type="desc">Grammar 30</title>
+                     <title type="desc" xml:lang="he">דקדוק ל</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Diḳduḳ L</title>
+                     <author key="person_308275258">
+                        <persName>Aleksander Zisḳind ben Shemuʼel Zanṿil mi-ḳ.ḳ. Mets</persName>
+                        <persName xml:lang="he">אלכסנדר זיסקינד בן שמואל זנויל</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>The second grammatical treatise, probably by <persName>Aleksander Zisḳind ben Shemuʼel Zanṿil mi-ḳ.ḳ. Mets</persName>, is also found in MS. Leyden Or. 4811 (Cat. Steinschneider, 90).</note>
+                  </msItem>
+                  <msItem n="5">
+                     <locus>Fols. 44a-63a</locus>
+                     <title type="desc">A spirit of grace</title>
+                     <title type="desc" xml:lang="he">רוח חן</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Ruaḥ ḥan</title>
+                     <textLang mainLang="he">Hebrew</textLang>                     
+                  </msItem>
+                  <msItem n="6">
+                     <locus>Fols. 64a-215b</locus>
+                     <title type="desc">Order of prayer with the intentions of The Ari</title>
+                     <title type="desc" xml:lang="he">סדור תפלה עם כוונות האר"י</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Siddur tefilah 'im kiṿonot ha-'Ari</title>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>Cf. Neubauer no. 1769.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <support>paper</support>
+                        <extent>ff. 215</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Nos. 1-5: Ashkenazic cursive scripts; No. 6: Ashkenazic semi-cursive script.</summary>
+                     <handNote>No. 6: In the illustrated panel of the initial word at the beg. (<locus>fol. 64r</locus>) the name <persName>Solomon b. Judah</persName> is inscribed (perhaps the scribe's name).</handNote>
+                  </handDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate>[No. 1: early 18th cent.]; Nos. 2-3: 1716;[No. 4: early 18th cent.]; Nos. 4-5: 1729/30; No. 6: 17th cent.</origDate>
+                     <origPlace>[Ashkenaz]</origPlace>
+                  </origin>
+                  <provenance>
+                  </provenance>
+                  <acquisition>It belonged to the library of <persName key="person_17140230">Heimann Joseph Michael</persName> (1792-1846), which was purchased en bloc (altogether 862 volumes) by the Bodleian Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
+                           <ref>No. 1501</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
+                                 <ref>No. 1501</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 16420</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 1501.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1501.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

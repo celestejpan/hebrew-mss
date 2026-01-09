@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_542">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt xml:id="BW">
+               <resp when="2024">Cataloguer</resp>
+               <persName>Benjamin Whittle</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno type="msID">MS_Pococke_133</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Pococke Collection</collection>
+                  <idno>MS. Pococke 133</idno>
+               <altIdentifier type="other">
+                  <idno type="cat_no">1461</idno>
+               </altIdentifier>
+               <altIdentifier type="other">
+                  <idno type="uri">457</idno>
+               </altIdentifier><altIdentifier type="other">
+                  <idno type="barnard">5427</idno>
+               </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <summary>Kitab al-Atsol (The Book of Roots) by Ibn Janāḥ, in Judeo-Arabic</summary>
+                  <msItem>
+                     <title xml:lang="he">כתאב אלאצול :בערבית</title>
+                     <title xml:lang="he-Latn-x-lc">Kitab al-atsol: be-'Aravit</title>
+                  <author key="person_305114808">
+                     <persName>Ibn Janāḥ, Abū al-Walīd Marwān, approximately 990-approximately 1050</persName>
+                     <persName xml:lang="he">אבן ג'נאח, יונה</persName>
+                  </author>
+                  <textLang mainLang="he">Judeo-Arabic</textLang>
+                  </msItem>                  
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <support>paper</support>
+                        <extent>ff. 387</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary> Oriental semi-cursive scripts</summary>
+                     <handNote><persName key="person_7046">Ḥalfon ben Ẓedaḳah</persName> (colophon on <locus>fol. 389v</locus>) copied only <locus>fols. 231-235 and 347-389</locus>. The rest is a compilation of two different MSS. (<locus>fols. 95-224 and fols. 236-346</locus>), which were completed by a later scribe who copied <locus>fols. 2v-94r and 225-230</locus>.</handNote>
+                  </handDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate>[13th-14th cent.]</origDate>
+                     <origPlace>[Orient]</origPlace>
+                  </origin>
+                  <provenance>
+                  </provenance>
+                  <acquisition>Edward Pococke's collection of oriental MSS (mostly Armenian, Hebrew and Arabic) was purchased by the Library for £800 in 1692 (see Summary Catalogue, vol. II, p. 1008).</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
+                           <ref>No. 1461</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
+                                 <ref>No. 1461</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 16706</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 1461.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1461.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

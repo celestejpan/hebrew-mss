@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_511">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt xml:id="BW">
+               <resp when="2024">Cataloguer</resp>
+               <persName>Benjamin Whittle</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno type="msID">MS_Oppenheim_387</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Oppenheim Collection</collection>
+                  <idno>MS. Oppenheim 387</idno>
+               <altIdentifier type="other">
+                  <idno type="cat_no">429</idno>
+               </altIdentifier>
+               <altIdentifier type="former">
+                  <idno>MS. Oppenheim 808</idno>
+               </altIdentifier>              
+               </msIdentifier>
+               <msContents>
+                  <summary>Selection of Tosofot</summary>
+                  <msItem n="1">
+                     <locus>ff. 1v-39v</locus>
+                     <title type="desc" xml:lang="he">תוספות (בבא קמא)</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Tosofot (Bava Ḳama)</title>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>Ends with the beginning of the third chapter.</note>
+                     <note>Some unedited tosofot on the margin. <persName key="person_86220983">M. J. Blau</persName> attributed the marginal glosses to <persName key="person_30980138">Eliezer of Touques</persName>.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus>ff. 39r-134r</locus>
+                     <title type="desc" xml:lang="he">פרוש התלמוד לרש"י (בבא מציעא)</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Perush ha-Talmud le-Rashi (Bava Metsi'a)</title>
+                     <author key="person_19684048">
+                        <persName>Rashi, 1040-1105</persName>
+                        <persName xml:lang="he">שלמה בן יצחק (רש"י)</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="3">
+                     <locus>ff. 135v-208v</locus>
+                     <title type="desc" xml:lang="he">תוספות (יבמות)</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Tosofot (Yevamot)</title>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>Ed. by <persName key="person_86220983">M. J. Blau</persName> as Tosofot of <persName key="person_89860273">Me'ir b. Baruch of Rothenburg</persName>.</note>
+                  </msItem>
+                  <msItem n="4">
+                     <locus>ff. 209r-232v</locus>
+                     <title type="desc" xml:lang="he">תוספות (בבא קמא)</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Tosofot (Bava Ḳama)</title>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>With marg. of no. 1.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <support>parchment</support>
+                        <extent>ff. 232</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Ashkenazic semi-cursive (cursive) script</summary>
+                     <handNote>Name of copyist on <locus>fol. 209</locus> is erased.</handNote>
+                  </handDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate>No. 1:[14th cent.]; no. 2:[early 15th cent.]; no. 3:[c.1300]; no. 4:[14th cent.]</origDate>
+                     <origPlace>[Ashkenaz]</origPlace>
+                  </origin>
+                  <provenance>
+                  </provenance>
+                  <acquisition>It belonged to David Oppenheimer's (1667-1735) library, which was purchased by the Bodleian Library in 1829.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
+                           <ref>No. 429</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
+                                 <ref>No. 429</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 18573</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 429.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 429.</bibl>
+                  </listBibl>
+                  
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

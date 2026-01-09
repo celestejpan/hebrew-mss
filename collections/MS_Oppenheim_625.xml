@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_515">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title/>
+            <respStmt xml:id="BW">
+               <resp when="2024">Cataloguer</resp>
+               <persName>Benjamin Whittle</persName>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Bodleian Library</publisher>
+            <date calendar="#Gregorian">[Date when first made available]</date>
+            <pubPlace>
+               <address>
+                  <addrLine>Department of Special Collections</addrLine>
+                  <addrLine>Bodleian Library</addrLine>
+                  <street>Broad Street</street>
+                  <settlement>Oxford</settlement>
+                  <postCode>OX1 3BG</postCode>
+                  <addrLine>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                  </addrLine>
+                  <addrLine>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                  </addrLine>
+               </address>
+            </pubPlace>
+            <idno type="msID">MS_Oppenheim_625</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <collection>Oppenheimer Collection</collection>
+                  <idno>MS. Oppenheim 625</idno>
+               <altIdentifier type="other">
+                  <idno type="cat_no">1465</idno>
+               </altIdentifier>
+               <altIdentifier type="former">
+                  <idno>MS. Oppenheim 1370</idno>
+               </altIdentifier>               
+               </msIdentifier>
+               <msContents>
+                  <summary>Collection of commentaries and grammatical texts</summary>
+                  <msItem n="1">
+                     <locus>fols. 1a-96a</locus>
+                     <title xml:lang="he">מחברת הערוך</title>
+                     <title xml:lang="he-Latn-x-lc">Maḥaveret ha-'erukh</title>
+                     <author key="person_90489505">
+                        <persName>Parḥon, Salomon ben Abraham ibn, active 12th century</persName>
+                        <persName xml:lang="he">פרחון, שלמה בן אברהם</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>Beginning wanting.</note>
+                     <note>At the end a note on Jacob's ladder.</note>
+                  </msItem>
+                  <msItem n="2">
+                     <locus>fols. 97a-103b</locus>
+                     <title>Joseph Kimḥi's commentary on Job</title>
+                     <title xml:lang="he">פרוש כתובים ליוסף קמחי (איוב)</title>
+                     <title xml:lang="he-Latn-x-lc">Perush Ketuvim le-Yosef Ḳimḥi ('Ayob)</title>
+                     <author key="person_41966898">
+                        <persName>Kimḥi, Joseph, approximately 1105-approximately 1170</persName>
+                        <persName xml:lang="he">קמחי, יוסף בן יצחק</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>Incomplete.</note>
+                  </msItem>
+                  <msItem n="3">
+                     <locus>fols. 104b-173a, 175b-220b</locus>
+                     <title>Eliezer of Beaugency's commentary on the 12 minor prophets, Ezekiel, and Isaiah</title>
+                     <title xml:lang="he">(פרוש נביאים (תרי עשר, יחזקאל, ישעיה</title>
+                     <title xml:lang="he-Latn-x-lc">Perush Nevi'im (Trei 'Asar, Yəḥezqeʾl, Yesi'yah)</title>
+                     <author key="person_97175168">
+                        <persName>Eliezer, of Beaugency, active 12th century</persName>
+                        <persName xml:lang="he">אליעזר מבלגנצי</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="4">
+                     <locus>Fol. 174b</locus>
+                     <title>A piece of controversy in rhymed prose.</title>
+                     <note>With the acrostic of <persName>Meshullam ben Uri of Cologne</persName>.</note>
+                  </msItem>
+                  <msItem n="5">
+                     <locus>fols. 220a-222b</locus>
+                     <title>Ibn Ezra's commentary on Lamentations</title>
+                     <title xml:lang="he">פרוש כתובים לראב"ע (איכה)</title>
+                     <title xml:lang="he-Latn-x-lc">Perush Ketuvim le-R'ab"a' (Eykah)</title>                     
+                     <author key="person_90633023">
+                        <persName>Ibn Ezra, Abraham ben Meïr, 1089-1164</persName>
+                        <persName xml:lang="he">אבן עזרא, אברהם בן מאיר, 1089-1164</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="6">
+                     <locus>fols. 223a-228b</locus>
+                     <title>Commentary on the Song of Songs</title>
+                     <title xml:lang="he">פרוש כתובים (שיר השירים)</title>
+                     <title xml:lang="he-Latn-x-lc">Perush ketuvim (Shir ha-Shirim)</title>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="7">
+                     <locus>fols. 228b-240a</locus>
+                     <title>Joseph Kimḥi's Book of Memories</title>
+                     <title xml:lang="he">ספר הזכרון</title>
+                     <title xml:lang="he-Latn-x-lc">Sefer ha-Zikaron</title>
+                     <author key="person_41966898">
+                        <persName>Kimḥi, Joseph, approximately 1105-approximately 1170</persName>
+                        <persName xml:lang="he">קמחי, יוסף בן יצחק</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="8">
+                     <locus>fols. 241a</locus>
+                     <title>Ibn Ezra's Book of the Name (beginning)</title>
+                     <title xml:lang="he">ספר השם (ההתחלה)</title>
+                     <title xml:lang="he-Latn-x-lc">Sefer ha-Shem (ha-hatḥalah)</title>
+                     <author key="person_90633023">
+                        <persName>Ibn Ezra, Abraham ben Meïr, 1089-1164</persName>
+                        <persName xml:lang="he">אבן עזרא, אברהם בן מאיר, 1089-1164</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="9">
+                     <locus>fols. 241b-250a</locus>
+                     <title xml:lang="he">הורית הקורא</title>
+                     <title xml:lang="he-Latn-x-lc">Horit ha-ḳore'</title>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>A grammatical treatise translated from the Arabic by <persName>Nathaniel ben Meshullam</persName>.</note>
+                  </msItem>
+                  <msItem n="10">
+                     <locus>fols. 250b-255b</locus>
+                     <title>Ibn Ezra's commentary on Qohelet</title>
+                     <title xml:lang="he">פרוש כתובים לראב"ע (קהלת)</title>
+                     <title xml:lang="he-Latn-x-lc">Perush Ketuvim le-R'ab""a' (Ḳohelet)</title>
+                     <author key="person_90633023">
+                        <persName>Ibn Ezra, Abraham ben Meïr, 1089-1164</persName>
+                        <persName xml:lang="he">אבן עזרא, אברהם בן מאיר, 1089-1164</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="11">
+                     <locus>fols. 256a-273b</locus>
+                     <title>Commentary on Job</title>
+                     <title xml:lang="he">פרוש כתובים (איוב)</title>
+                     <title xml:lang="he-Latn-x-lc">Perush Ketuvim ('Ayob)</title>
+                     <textLang mainLang="he">Hebrew</textLang>
+                     <note>By a German rabbi. The author quotes <persName key="person_90489505">Parḥon</persName>, Qimḥi, and <lang xml:lang="he">א״י</lang>.</note>
+                  </msItem>
+                  <msItem n="12">
+                     <locus>fols. 274a-286a</locus>
+                     <title>Use of the Psalms</title>
+                     <title xml:lang="he">שמוש תהלים</title>
+                     <title xml:lang="he-Latn-x-lc">Shamush Tehilim</title>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  <msItem n="13">
+                     <locus>fols. 286b-287b</locus>
+                     <title type="desc">Short text?</title>
+                     <title xml:lang="he"/>
+                     <title xml:lang="he-Latn-x-lc"/>
+                     <author>
+                        <persName>Benjamin ba'al Mosur</persName>
+                        <persName xml:lang="he">בנימין בעל מוסר</persName>
+                     </author>
+                     <textLang mainLang="he">Hebrew</textLang>
+                  </msItem>
+                  </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc>
+                        <support>paper and parchment</support>
+                        <extent>ff. 287</extent>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <summary>Nos. 1–3, 5–10: Ashkenazic semi-cursive script. No. 11: Ashkenazic cursive script. Nos. 12-13 (<locus>fols. 274–287</locus>): [Ashkenaz, early 16th cent.]; Ashkenazic cursive script.</summary>
+                     <handNote>Nos. 11 and 12-13 are each by a different hand.</handNote>
+                  </handDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origDate>Nos. 1–3, 5–10: [second half of 13th cent.]; No. 4 (<locus>fols. 174v-175r</locus>) was added a little later; No. 11: [late 14th cent]; Nos. 12-13 (<locus>fols. 274–287</locus>): [early 16th cent.]</origDate>
+                     <origPlace>Nos. 1–3, 5–10: [France]; No. 11: [Ashkenaz]; Nos. 12-13 (<locus>fols. 274–287</locus>): [Ashkenaz]</origPlace>
+                  </origin>
+                  <provenance>
+                  </provenance>
+                  <acquisition>It belonged to David Oppenheimer's (1667-1735) library, which was purchased by the Bodleian Library in 1829.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
+                           <ref>No. 1465</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
+                                 <ref>No. 1465</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 16384</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 1465.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1465.</bibl>
+                  </listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>
