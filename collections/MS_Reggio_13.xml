@@ -49,8 +49,7 @@
                   <msItem xml:id="MS_Reggio_13-item1" n="1">
                      <locus>ff. 1r-84v</locus>
                      <title>Sefer ha-Kolel</title>
-                     <title>
-                        </title><title xml:lang="he">ספר הכולל</title>
+                     <title xml:lang="he">ספר הכולל</title>
                      
                      <note>Mainly extracts from <persName ref="http://viaf.org/viaf/90633023" key="person_90633023">Abraham ibn Ezra</persName>'s astrological treatises</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -59,8 +58,7 @@
                      <locus>ff. 1r-84v</locus>
                      <author ref="http://viaf.org/viaf/100189814" key="person_100189814">Arnaldus, de Villanova, -1311 ארנלדוס מוילהנובה</author>
                      <title>Panim be-mishpaṭ</title>
-                     <title>
-                        </title><title xml:lang="he">פנים במשפט</title>
+                     <title xml:lang="he">פנים במשפט</title>
                      
                      <note>Hebrew translation of Capitula Astrologiae by <persName key="person_78950824">Solomon ben Abraham Avigdor</persName> (<foreign xml:lang="he">אבהרם בן שלמה אביגדור</foreign>)</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -68,8 +66,7 @@
                   <msItem xml:id="MS_Reggio_13-item3" n="3">
                      <locus>ff. 1r-84v</locus>
                      <title>Sefer ha-Teḳufah</title>
-                     <title>
-                        </title><title xml:lang="he">ספר התקופה</title>
+                     <title xml:lang="he">ספר התקופה</title>
                      
                      <note>Astronomical rules, contains extracts from <persName ref="http://viaf.org/viaf/90633023" key="person_90633023">Abraham ibn Ezra</persName>'s works</note>
                      <textLang mainLang="he">Hebrew</textLang>

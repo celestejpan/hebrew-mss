@@ -49,8 +49,7 @@
                   <msItem xml:id="MS_Reggio_25-item1" n="1">
                      <locus>ff. 1r-11v</locus>
                      <title>Sefer ha-Temunah (Book 2)</title>
-                     <title>
-                        </title><title xml:lang="he">ספר התמונה (ספר ב)</title>
+                     <title xml:lang="he">ספר התמונה (ספר ב)</title>
                      
                      <note>With commentary.</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -58,48 +57,42 @@
                   <msItem xml:id="MS_Reggio_25-item2" n="2">
                      <locus>ff. 12v-26v</locus>
                      <title>Perush Shem ben Shivʿim ṿe-stayim</title>
-                     <title>
-                        </title><title xml:lang="he">פרוש שם בן שבעים ושתים</title>
+                     <title xml:lang="he">פרוש שם בן שבעים ושתים</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_25-item3" n="3">
                      <locus>ff. 27r-32r</locus>
                      <title>Perush Shemaʿ Yiśraʾel</title>
-                     <title>
-                        </title><title xml:lang="he">פרוש שמע ישראל</title>
+                     <title xml:lang="he">פרוש שמע ישראל</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_25-item4" n="4">
                      <locus>ff. 33r-39r</locus>
                      <title>Perush Hagadah shel Pesaḥ</title>
-                     <title>
-                        </title><title xml:lang="he">פרוש ההגדה של פסח</title>
+                     <title xml:lang="he">פרוש ההגדה של פסח</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_25-item5" n="5">
                      <locus>ff. 40r-41r</locus>
                      <title>Perush Shem ben arbayim ṿe-stayim otiyot</title>
-                     <title>
-                        </title><title xml:lang="he">פרוש שם בן ארבעים ושתים אותיות</title>
+                     <title xml:lang="he">פרוש שם בן ארבעים ושתים אותיות</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_25-item6" n="6">
                      <locus>ff. 41v-42r</locus>
                      <title>Perush ha-tefilot (extract)</title>
-                     <title>
-                        </title><title xml:lang="he">פרוש התפלות (קטע)</title>
+                     <title xml:lang="he">פרוש התפלות (קטע)</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_25-item7" n="7">
                      <locus>ff. 42v-43r</locus>
                      <title>Yetsirat ha-golem (extracts)</title>
-                     <title>
-                        </title><title xml:lang="he">יצירת הגולם</title>
+                     <title xml:lang="he">יצירת הגולם</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -107,16 +100,14 @@
                      <locus>ff. 44r-53r</locus>
                      <author ref="http://viaf.org/viaf/79054878" key="person_79054878">Abulafia, Abraham ben Samuel, 1240-approximately 1292 (attributed to) אבולעפיה, אברהם בן שמואל (מחבר משוער)</author>
                      <title>Perush Sefer yetsirah</title>
-                     <title>
-                        </title><title xml:lang="he">פרוש ספר יצירה</title>
+                     <title xml:lang="he">פרוש ספר יצירה</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_25-item9" n="9">
                      <locus>ff. 56r-59v</locus>
                      <title>Sefer yetsirah</title>
-                     <title>
-                        </title><title xml:lang="he">ספר יצירה</title>
+                     <title xml:lang="he">ספר יצירה</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -124,24 +115,21 @@
                      <locus>ff. 60r-87r</locus>
                      <author ref="http://viaf.org/viaf/8687273" key="person_8687273">Abraham ben David, of Posquières, approximately 1125-1198(attributed to) אברהם בן דוד מפוסקיר (מיוחס לו)</author>
                      <title>Perush Sefer yetsirah</title>
-                     <title>
-                        </title><title xml:lang="he">פרוש ספר יצירה</title>
+                     <title xml:lang="he">פרוש ספר יצירה</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_25-item11" n="11">
                      <locus>ff. 88r-101r</locus>
                      <title>Sefer ha-Bahir</title>
-                     <title>
-                        </title><title xml:lang="he">ספר הבהיר</title>
+                     <title xml:lang="he">ספר הבהיר</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_25-item12" n="12">
                      <locus>ff. 101v-102v</locus>
                      <title>Kabalah me-ʻinyan ha-tefilah</title>
-                     <title>
-                        </title><title xml:lang="he">קבלה מענין התפלה</title>
+                     <title xml:lang="he">קבלה מענין התפלה</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -150,8 +138,7 @@
                      <author ref="http://viaf.org/viaf/23539872" key="person_23539872">Neḥunya ben ha-Kanah, active 1st century(attributed to)</author>
                      <author key="person_23539872">נחוניה בן הקנה (מיוחס לו)</author>
                      <title>Tefilat ha-yiḥud</title>
-                     <title>
-                        </title><title xml:lang="he">תפלת היחוד</title>
+                     <title xml:lang="he">תפלת היחוד</title>
                      
                      <note>Probably later addition, written in different hand.</note>
                      <textLang mainLang="he">Hebrew</textLang>

@@ -50,8 +50,7 @@
                      <locus>ff. 1v-7v</locus>
                      <author ref="http://viaf.org/viaf/88961846" key="person_90633023">Ibn Ezra, Abraham ben Meïr, 1089-1164 עזרא, אברהם בן מאיר אבן</author>
                      <title>Sefer ha-ibur (The Book of Intercalation)</title>
-                     <title>
-                        </title><title xml:lang="he">ספר העבור</title>
+                     <title xml:lang="he">ספר העבור</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -59,8 +58,7 @@
                      <locus>ff. 14v-18r</locus>
                      <author ref="http://viaf.org/viaf/187455576" key="person_654">Ḥadab, Isaac ben Salomon חדב, יצחק בן שלמה (מחבר משוער)</author>
                      <title>Mapah asṭrologit</title>
-                     <title>
-                        </title><title xml:lang="he">מפה אסטרולוגית</title>
+                     <title xml:lang="he">מפה אסטרולוגית</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -68,8 +66,7 @@
                      <locus>ff. 24v-31v</locus>
                      <author key="person_80591625">Ibn al-Ṣaffār, Aḥmad ibn ʿAbd Allâh 09..-1035 אלצפאר, אחמד אבן</author>
                      <title>Manual on the Astrolabe</title>
-                     <title>
-                        </title><title xml:lang="he">פרוש האצטרולב</title>
+                     <title xml:lang="he">פרוש האצטרולב</title>
                      
                      <note>Translation by <persName key="person_79269165">Jacob ben Machir ibn Tibbon</persName>
                      </note>

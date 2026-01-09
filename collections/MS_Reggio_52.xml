@@ -89,8 +89,7 @@
                            <foreign xml:lang="he">לוצטו, משה חיים</foreign>
                         </author>
                         <title>Shir la-ḥatunat <persName key="person_477">Yitsḥaḳ ben Shabtai Marini</persName> (Poem for the wedding of <persName key="person_478">Isaac Marini</persName>)</title>
-                        <title>
-                           </title><title xml:lang="he">שיר לחתונת יצחק בן שבתי מריני</title>
+                        <title xml:lang="he">שיר לחתונת יצחק בן שבתי מריני</title>
                         
                         <note>Copied by <persName ref="http://viaf.org/viaf/2075341" key="person_2075341">Yisroel Simcha Schorr</persName>
                         </note>
@@ -144,8 +143,7 @@
                            <foreign xml:lang="he">לוצטו, משה חיים</foreign>
                         </author>
                         <title>Commentary on Tractate Rosh ha-Shanah</title>
-                        <title>
-                           </title><title xml:lang="he">פירוש מסכת ראש השנה</title>
+                        <title xml:lang="he">פירוש מסכת ראש השנה</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -156,8 +154,7 @@
                            <foreign xml:lang="he">לוצטו, משה חיים</foreign>
                         </author>
                         <title>ʿAśarah pirḳe Mishnah</title>
-                        <title>
-                           </title><title xml:lang="he">עשרה פרקי משנה</title>
+                        <title xml:lang="he">עשרה פרקי משנה</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -168,16 +165,14 @@
                            <foreign xml:lang="he">לוצטו, משה חיים</foreign>
                         </author>
                         <title>ʿEśrim ṿe-arbaʿah ḳushṭe kalah</title>
-                        <title>
-                           </title><title xml:lang="he">עשרים וארבעה קשוטי כלה</title>
+                        <title xml:lang="he">עשרים וארבעה קשוטי כלה</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
                      <msItem xml:id="MS_Reggio_52-part2-item4" n="5">
                         <locus>ff.53r-54v</locus>
                         <title>Kaṿanat le-tefilot ʿerev shabat</title>
-                        <title>
-                           </title><title xml:lang="he">כונות לתפלות ערב שבת</title>
+                        <title xml:lang="he">כונות לתפלות ערב שבת</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>

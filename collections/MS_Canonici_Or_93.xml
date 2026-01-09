@@ -49,8 +49,7 @@
                   <msItem xml:id="MS_Canonici_Or_93-item1" n="1">
                      <locus>ff. 1r-75r</locus>
                      <title>Hebrew Bible: Pentateuch (Exodus-Numbers)</title>
-                     <title>
-                        </title><title xml:lang="he">תורה (שמות-במדבר)</title>
+                     <title xml:lang="he">תורה (שמות-במדבר)</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

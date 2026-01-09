@@ -50,8 +50,7 @@
                      <locus>ff. 2r-54r</locus>
                      <author key="person_24669073">Rieti, Moses ben Isaac da, 1388-1460? ריאיטי, משה בן יצחק</author>
                      <title>Miḳdash meʿaṭ</title>
-                     <title>
-                        </title><title xml:lang="he">מקדש מעט</title>
+                     <title xml:lang="he">מקדש מעט</title>
                      
                      <colophon>Colophon on fol. 1r: <foreign xml:lang="he">"וליקוטים אחרים, נעתקו על ידי ... ברוך בכה"ר שלמה ז"ל כהן ז"ל פה אנגייארי ארץ טוסקאנה ... בחדש תמוז שנת יפתח ה’ לך את א’ו’צ’ר’ו’ ה’ט’ו’ב’ את השמים לאלף הששי"</foreign>. Italian translation of the colophon on fol. [v] verso.</colophon>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -60,8 +59,7 @@
                      <locus>ff. 55v-59r</locus>
                      <author key="person_24669073">Rieti, Moses ben Isaac da, 1388-1460? ריאיטי, משה בן יצחק</author>
                      <title>Igeret yaʿar ha-Levanon</title>
-                     <title>
-                        </title><title xml:lang="he">אגרת יער הלבנון</title>
+                     <title xml:lang="he">אגרת יער הלבנון</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -69,32 +67,28 @@
                      <locus>ff. 59v-60v</locus>
                      <author key="person_24669073">Rieti, Moses ben Isaac da, 1388-1460? ריאיטי, משה בן יצחק</author>
                      <title>Ḳinah</title>
-                     <title>
-                        </title><title xml:lang="he">קינה</title>
+                     <title xml:lang="he">קינה</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_97-item4" n="4">
                      <locus>ff. 61r-63v</locus>
                      <title>Alphabet of Ben Sira</title>
-                     <title>
-                        </title><title xml:lang="he">אלפא ביתא דבן סירא</title>
+                     <title xml:lang="he">אלפא ביתא דבן סירא</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_97-item5" n="5">
                      <locus>ff. 64r-66r</locus>
                      <title>Extracts of grammatical texts</title>
-                     <title>
-                        </title><title xml:lang="he">לקוטים בדקדוק</title>
+                     <title xml:lang="he">לקוטים בדקדוק</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_97-item6" n="6">
                      <locus>ff. 66v</locus>
                      <title>Ṭaʿame ha-mitsṿot</title>
-                     <title>
-                        </title><title xml:lang="he">טעמי מצוות</title>
+                     <title xml:lang="he">טעמי מצוות</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -102,16 +96,14 @@
                      <locus>ff. 67r-68v</locus>
                      <author key="person_577">Pontsibontsi, Shlomoh ben Eliyah פונציבונצי, שלמה בן אליה</author>
                      <title>Commentary on the Pentateuch (Genesis)</title>
-                     <title>
-                        </title><title xml:lang="he">פרוש התורה (בראשית)</title>
+                     <title xml:lang="he">פרוש התורה (בראשית)</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Canonici_Or_97-item8" n="8">
                      <locus>ff. 69r-172v</locus>
                      <title>Ergon</title>
-                     <title>
-                        </title><title xml:lang="he">אגרון</title>
+                     <title xml:lang="he">אגרון</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

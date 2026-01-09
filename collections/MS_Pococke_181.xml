@@ -88,8 +88,7 @@
                      </msItem>
                      <msItem xml:id="MS_Pococke_181-part1-item2" n="2">
                         <locus>ff. 36r-53v</locus>
-                        <title>
-                           </title><title xml:lang="he">אל כלאם עלי אל מסאיל אלתלת’</title>
+                        <title xml:lang="he">אל כלאם עלי אל מסאיל אלתלת’</title>
                         
                         <textLang mainLang="ar">Hebrew ?????????????/</textLang>
                      </msItem>
@@ -128,8 +127,7 @@
                      <msItem xml:id="MS_Pococke_181-part2-item1" n="3">
                         <locus>ff. 54r-61v</locus>
                         <author ref="http://viaf.org/viaf/89770781" key="person_89770781">Avicenna, 980?-1037 אבן סינא, אלחסין בן עבדאללה</author>
-                        <title>
-                           </title><title xml:lang="he">רסאלה פי אקסאם לעלוס</title>
+                        <title xml:lang="he">רסאלה פי אקסאם לעלוס</title>
                         
                         <note>The fifth of Avicenna's nine letters.</note>
                         <textLang mainLang="ar">Arabic in Hebrew characters</textLang>

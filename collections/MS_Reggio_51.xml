@@ -51,8 +51,7 @@
                      <author ref="http://viaf.org/viaf/95159227" key="person_95159227">Saʿadia ben Joseph, 882-942(debated authorship)</author>
                      <author key="person_95159227">סעדיה בן יוסף, אלפיומי, (מיוחס לו) ‬</author>
                      <title>Sidur Rasag</title>
-                     <title>
-                        </title><title xml:lang="he">סדור רס"ג</title>
+                     <title xml:lang="he">סדור רס"ג</title>
                      
                      <note>The manuscript was copied by Yehoshuaʿ Heshel Shor. According to Ś. Assaf (1941), it is not by Saʿadia gaon.</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -60,8 +59,7 @@
                   <msItem xml:id="MS_Reggio_51-item2" n="2">
                      <locus>ff. 8r-19v</locus>
                      <title>Sefer Yetsirah</title>
-                     <title>
-                        </title><title xml:lang="he">ספר יצירה</title>
+                     <title xml:lang="he">ספר יצירה</title>
                      
                      <note>The manuscript was copied by Yehoshuaʿ Heshel Shor.</note>
                      <note>Sefer Yetsirah (ff. 9r-10r) followed by the commentary attributed to <persName ref="http://viaf.org/viaf/211875786" key="person_298760665">Abu-Sahl Dunash ben Tamim</persName> (ff. 11r-19v).</note>
@@ -73,8 +71,7 @@
                      <author ref="http://viaf.org/viaf/219072992" key="person_219072992">Naḥmanides, approximately 1195-approximately 1270</author>
                      <author key="person_219072992">משה בן נחמן, 1194-1270</author>
                      <title>Derashot ha-Ramban (Sermons by Nahmanides)</title>
-                     <title>
-                        </title><title xml:lang="he">דרשות הרמב"ן</title>
+                     <title xml:lang="he">דרשות הרמב"ן</title>
                      
                      <note>The manuscript was copied by Yehoshuaʿ Heshel Shor.</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -84,8 +81,7 @@
                      <author ref="http://viaf.org/viaf/100185495" key="person_100185495">Maimonides, Moses, 1135-1204</author>
                      <author key="person_100185495">משה בן מימון</author>
                      <title>Perush ha-Mishnah le-Rambam (Pereḳ ḥeleḳ)</title>
-                     <title>
-                        </title><title xml:lang="he">פרוש המשנה לרמב"ם (פרק חלק)</title>
+                     <title xml:lang="he">פרוש המשנה לרמב"ם (פרק חלק)</title>
                      
                      <note>The manuscript was copied by Yehoshuaʿ Heshel Shor.</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -93,8 +89,7 @@
                   <msItem xml:id="MS_Reggio_51-item5" n="5">
                      <locus>ff. 39r-41r</locus>
                      <title>ʿOlam ḳaṭan</title>
-                     <title>
-                        </title><title xml:lang="he">עולם קטן</title>
+                     <title xml:lang="he">עולם קטן</title>
                      
                      <note>The manuscript was copied by Yehoshuaʿ Heshel Shor.</note>
                      <incipit>
@@ -107,16 +102,14 @@
                      <author ref="http://viaf.org/viaf/89245664" key="person_293459163">Moses, of Narbonne, -1362</author>
                      <author key="person_293459163">נרבוני, משה בן יהושע</author>
                      <title>Igeret ʿal shiʿur ḳomah</title>
-                     <title>
-                        </title><title xml:lang="he"/> אגרת על שעור קומה
+                     <title xml:lang="he"/> אגרת על שעור קומה
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem xml:id="MS_Reggio_51-item7" n="7">
                      <locus>ff. 47r-49v</locus>
                      <author/>
                      <title>Seder tanaʾim</title>
-                     <title>
-                        </title><title xml:lang="he">סדר התנאים</title>
+                     <title xml:lang="he">סדר התנאים</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

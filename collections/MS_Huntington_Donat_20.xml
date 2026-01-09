@@ -49,8 +49,7 @@
                   <msItem xml:id="MS_Huntington_Donat_20-item1" n="1">
                      <locus>ff. 1r-189r</locus>
                      <title>Midrash Tanḥuma</title>
-                     <title>
-                        </title><title xml:lang="he">מדרש תנחומא</title>
+                     <title xml:lang="he">מדרש תנחומא</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

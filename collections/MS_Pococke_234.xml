@@ -49,8 +49,7 @@
                   <msItem xml:id="MS_Pococke_234-item1" n="1">
                      <locus>ff. 2v-6r</locus>
                      <author ref="http://viaf.org/viaf/100186412" key="person_100186412">Ibn Gabirol, active 11th century אבן גבירול, שלמה בן יהודה</author>
-                     <title>
-                        </title><title xml:lang="he">כתר מלכות לרשב"ג</title>
+                     <title xml:lang="he">כתר מלכות לרשב"ג</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

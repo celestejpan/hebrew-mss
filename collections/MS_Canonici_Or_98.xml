@@ -84,8 +84,7 @@
                      <msItem xml:id="MS_Canonici_Or_98-part1-item1" n="1">
                         <locus>fols. 1r-44v</locus>
                         <title>Sidur according to the Ashkenaz rite</title>
-                        <title>
-                           </title><title xml:lang="he">סדור מנהג אשכנז</title>
+                        <title xml:lang="he">סדור מנהג אשכנז</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>
@@ -124,8 +123,7 @@
                         <locus>fols. 45r-298v</locus>
                         <author ref="http://viaf.org/viaf/312829121" key="person_292205904">Isaac ben Joseph, of Corbeil, active 13th century יצחק בן יוסף מקורביל</author>
                         <title>Sefer Mitsṿot Ḳaṭan (The Small Book of Commandments)</title>
-                        <title>
-                           </title><title xml:lang="he">ספר מצוות קטן</title>
+                        <title xml:lang="he">ספר מצוות קטן</title>
                         
                         <textLang mainLang="he">Hebrew</textLang>
                      </msItem>

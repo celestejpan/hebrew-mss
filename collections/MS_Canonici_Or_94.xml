@@ -49,8 +49,7 @@
                   <msItem xml:id="MS_Canonici_Or_94-item1" n="1">
                      <locus>ff. 1r-486r</locus>
                      <title>Hebrew Bible</title>
-                     <title>
-                        </title><title xml:lang="he">תנ"ך</title>
+                     <title xml:lang="he">תנ"ך</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>

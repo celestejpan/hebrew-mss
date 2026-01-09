@@ -50,8 +50,7 @@
                      <locus>ff. 1r-194r</locus>
                      <author ref="http://viaf.org/viaf/100391085" key="person_1163813">Shelomoh ben Yedidyah Aharon, ha-Ṭroḳi, approximately 1670-1745 טרוקי, ידידיה שלמה בן אהרן</author>
                      <title>Apiryon ʿaśah lo (part 2)</title>
-                     <title>
-                        </title><title xml:lang="he">אפריון עשה לו (חלק שני)</title>
+                     <title xml:lang="he">אפריון עשה לו (חלק שני)</title>
                      
                      <note>Begins with a poem and a small preface of the copyist (fols. 1r-2v): he is called <persName key="person_7029">Yehoshua Yosef ben Mosheh</persName> (fol. 2v); he started to write it on 8 Tamuz <date calendar="#AM-abbreviated">590</date> (<date calendar="#Gregorian">1830</date>) (fol. 1v); it was written for <persName key="person_7027">Shemuel Leyb Goldberg</persName> (fol. 1r)</note>
                      <textLang mainLang="he">Hebrew</textLang>

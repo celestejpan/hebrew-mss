@@ -50,8 +50,7 @@
                      <locus>ff. 1v-9r</locus>
                      <author ref="http://viaf.org/viaf/90633023" key="person_90633023">Ibn Ezra, Abraham ben Meïr, 1089-1164 אבן עזרא, אברהם בן מאיר, 1089-1164</author>
                      <title>Keli ha-Nehoshet</title>
-                     <title>
-                        </title><title xml:lang="he">כלי הנחשת</title>
+                     <title xml:lang="he">כלי הנחשת</title>
                      
                      <note>Book on the astrolabe.</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -60,8 +59,7 @@
                      <locus>ff. 17v-30r</locus>
                      <author ref="http://viaf.org/viaf/79269165" key="person_79269165">Ibn Tibbon, Jacob ben Machir, approximately 1236- יעקב בן מכיר</author>
                      <title>Rovaʿ Yiśraʾel (Quadrant of Israel)</title>
-                     <title>
-                        </title><title xml:lang="he">רובע ישראל</title>
+                     <title xml:lang="he">רובע ישראל</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -69,8 +67,7 @@
                      <locus>ff. 44r-46v</locus>
                      <author key="person_501">Mosheh Boṭaril Faritsol פריצול, בוטריל משה</author>
                      <title>Perush luḥot Paras</title>
-                     <title>
-                        </title><title xml:lang="he">פרוש לוחות פריס</title>
+                     <title xml:lang="he">פרוש לוחות פריס</title>
                      
                      <note>Commentary on the astronomical tables</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -79,8 +76,7 @@
                      <locus>ff. 47r-56r</locus>
                      <author key="person_501">Mosheh Boṭaril Faritsol פריצול, בוטריל משה</author>
                      <title>Perush luḥot</title>
-                     <title>
-                        </title><title xml:lang="he">פרוש לוחות</title>
+                     <title xml:lang="he">פרוש לוחות</title>
                      
                      <note>Commentary on the astronomical tables</note>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -88,8 +84,7 @@
                   <msItem xml:id="MS_Reggio_14-item5" n="5">
                      <locus>ff. 57r-102v</locus>
                      <title>Perush luḥot Paras</title>
-                     <title>
-                        </title><title xml:lang="he">פרוש לוחות פריס</title>
+                     <title xml:lang="he">פרוש לוחות פריס</title>
                      
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
