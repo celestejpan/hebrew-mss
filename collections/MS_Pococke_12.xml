@@ -1,12 +1,9 @@
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_00000">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_481">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title/>
-            <respStmt>
-               <resp>Cataloguer</resp>
-               <persName>[Name of cataloguer]</persName>
-            </respStmt>
+            <respStmt xml:id="BW"><resp when="2024">Cataloguer</resp><name type="person">Benjamin Whittle</name></respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
