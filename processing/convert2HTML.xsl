@@ -6,7 +6,10 @@
     xmlns:html="http://www.w3.org/1999/xhtml"
     xmlns:bod="http://www.bodleian.ox.ac.uk/bdlss" xpath-default-namespace="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei html xs bod" version="2.0">
 
-    <xsl:import href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc2html.xsl"/>
+    <!-- Import standard templates shared by all TEI catalogues. The relative path here will
+         only work once the consolidated-tei-schema repository has been downloaded by the 
+         index-all-qa.sh or index-all-prd.sh script (which avoids the script hanging if network is slow) -->
+    <xsl:import href="lib/msdesc2html.xsl"/>
 
     <!-- Only set this variable if you want full URLs hardcoded into the HTML
          on the web site (previewManuscript.xsl overrides this to do so when previewing.) -->
@@ -118,6 +121,44 @@
             </div>
         </xsl:if>
     </xsl:template>
+
+
+    <xsl:template match="msItem/title">
+        <xsl:if test="exists(.//text())">
+            <div class="tei-title">
+                <span class="tei-label">
+                    <xsl:copy-of select="bod:standardText('Title: ')"/>
+                </span>
+                <span class="italic">
+                    <xsl:copy-of select="bod:rtl(.)"/>
+                    <xsl:apply-templates/>
+                </span>
+            </div>
+        </xsl:if>
+    </xsl:template>
+
+    <!-- Override function of bod:direction - Rails now strips style attributes.  TODO move to lib/msdesc2html.xsl -->
+    <xsl:function name="bod:rtl" as="attribute()?">
+        <xsl:param name="elem" as="element()?"/>
+        <!-- This funtion returns a HTML style attribute if the TEI element has a @xml:lang 
+             specifying the script, as per BCP 47, is right-to-left (eg. "ar-Arab" or "per-Arab-x-lc"),
+             or if over half the characters within match a known right-to-left script, unless it contains
+             a foreign TEI element, indicating the contents are split between multiple scripts -->
+        <xsl:variable name="langcode" as="xs:string?" select="$elem/@xml:lang"/>
+        <xsl:variable name="stringval" as="xs:string" select="normalize-space($elem/string())"/>
+        <xsl:if test="not($elem//foreign or matches($langcode, '[^\-]+\-Latn', 'i')) and (
+            matches($langcode, '[^\-]+\-(Adlm|Arab|Aran|Armi|Avst|Cprt|Egyd|Egyh|Hatr|Hebr|Hung|Inds|Khar|Lydi|Mand|Mani|Mend|Merc|Mero|Narb|Nbat|Nkoo|Orkh|Palm|Phli|Phlp|Phlv|Phnx|Prti|Rohg|Samr|Sarb|Sogd|Sogo|Syrc|Syre|Syrj|Syrn|Thaa|Wole)', 'i') 
+            or string-length(replace($stringval, '[&#x600;-&#x6FF;&#xFE70;-&#xFEFF;&#x10b00;-&#x10b3f;&#x0591;-&#x05f4;&#x0700;-&#x074f;&#x860;-&#x86f;]', '')) lt string-length($stringval) div 2
+            )">
+            <!-- NOTE: The match against the language code above uses a list of codes for right-to-left 
+                 scripts taken from: https://en.wikipedia.org/wiki/ISO_15924#List_of_codes -->
+            <!-- NOTE: If all the ranges for Arabic symbols then this would make anything with a number 
+                 display as right-to-left. The above should be sufficient to cover most cases. -->
+            <!-- TODO: Add more unicode ranges for non-Middle-Eastern R-T-L scripts? -->
+            <xsl:attribute name="class">italic foreign</xsl:attribute>
+        </xsl:if>
+    </xsl:function>
+
 
 
 </xsl:stylesheet>
