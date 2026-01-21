@@ -6,9 +6,9 @@
       <fileDesc>
          <titleStmt>
             <title>Digital description of MS. Bodley Or. 802</title>
-            <respStmt>
+            <respStmt xml:id="CMH">
                <resp>Cataloguer</resp>
-               <persName>[Name of cataloguer]</persName>
+               <persName>César Merchan-Hamann</persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -44,24 +44,23 @@
                   <collection> Oriental Manuscripts Bodley Oriental</collection>
                   <idno>MS. Bodley Or. 802</idno><idno type="ieArk">ark:29072/x0cr56n143b4</idno><idno type="crArk">ark:29072/x0cn69m46018</idno>
                <altIdentifier type="other"><idno type="Neubauer">No. 3</idno></altIdentifier></msIdentifier>
-               <msContents>
-                  <summary>Pentateuch (Gen.-Lev. 3:1-)</summary>
+               <msContents>mary>
+                  <textLang mainLang="he">Hebrew</textLang>
                   <msItem xml:id="MS_Bodley_Or_802-item1" n="1">
                      <locus>ff. 1r-97v</locus>
-                     <title>Hebrew Bible: Pentateuch (Gen.-Lev. 3:1-) </title>
-                     <title xml:lang="he">תורה (בראשית-ויקרא ג:א)</title>                     
-                     <note>Second part of a three-volume Bible (<ref target="#MS_Bodl_Or_803">Bodl. Or. 803</ref>, <ref target="#MS_Bodl_Or_804">Bodl. Or. 804</ref>)</note>
-                     <textLang mainLang="he">Hebrew</textLang>
+                     <title>Hebrew Bible: Genesis – Leviticus 3:1</title>
+                     <title xml:lang="he">תורה: בראשית – ויקרא 3:1</title>
+                     <note>First part of a three-volume Bible, with the Aramaic translation Onkelos and both Masoras </note>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc material="perg">
                         <support>parchment</support>
-                        <extent>ff. 97 <dimensions type="leaf" unit="mm">
-                              <height quantity="000"/>
-                              <width quantity="000"/>
-                           </dimensions>
+                        <extent>ff. 97<dimensions unit="mm" type="leaf"><height>545</height>
+                              <width>380-385</width>
+                        </dimensions>
+                           <dimensions unit="mm" type="text"><height>350-358</height><width>255-269</width></dimensions>
                         </extent>
                         <foliation>Foliation in Arabic numerals and in Hebrew characters.</foliation>
                         <collation>Quires of mostly 8 leaves. <signatures>no signatures</signatures>
@@ -77,19 +76,21 @@
                      <handNote scope="sole" script="ashkenazi" rend="square"/>
                   </handDesc>
                   <decoDesc>
-                     <decoNote type="other">Micrography</decoNote>
-                     <decoNote type="other">Carmina figurata</decoNote>
+                     <decoNote>Micrography, with Ink drawings of various animals and floral and geometric decoration (e.g., fols. 1r, 54r, 96v)</decoNote>
+                     <decoNote>Carmina figurata (e.g., fols. 53v)</decoNote>
                   </decoDesc>
                   <bindingDesc>
-                     <p>Brown leather binding, gold-tooled, coat of arms of Westminster School (?): a cross flory between five martlets, on a chief quarterly France and England between two roses (see <hi rend="italic">Summary Catalogue</hi>)</p>
+                     <binding><p>Brown leather binding, blind-tooled, traces of four clasps, now lost, produced in the first half of the 16th century in Spain or Portugal, injured and re-backed (see <title>Summary Catalogue</title>)</p>
+                        
+                     </binding>
                   </bindingDesc>
                </physDesc>
                <history>
                   <origin>
                      <origPlace>[Germany?]</origPlace>
-                     <origDate notBefore="1300">[ca. 1300]</origDate>
+                     <origDate when="1300" cert="low" calendar="Gregorian">[ca. 1300]</origDate>
                   </origin>
-                  <acquisition>Bought from Isaac Abendana in 1668 for £37, a sum which perhaps included other Hebrew MSS (ch., S.C.).</acquisition>
+                  <acquisition>Bought from the executors of John Selden, 1659.</acquisition>
                </history>
                <additional>
                   <adminInfo>
