@@ -54,30 +54,28 @@
                     </msIdentifier>
                     <msContents>
                         <summary>Collection of halakhical texts</summary>
-                        <msItem n="1" xml:id="MS_Marsh_580_a">
+                        <msItem>
                             <locus>ff. 1r-141v</locus>
-                            <author>
-                                <persName ref="http://viaf.org/viaf/19684048" key="person_19684048">Rashi, 1040-1105     </persName>
-                                <persName xml:lang="he">שלמה בן יצחק (רש"י)</persName>
-                            </author>
-                            <title>Sefer ha-ʾOrah   </title>
-                            <title xml:lang="he"> ספר האורה</title>
-                            <note>Decisions of Rashi collected by one of his pupils.</note>
-                            <textLang mainLang="he">Hebrew</textLang>
+                            <author key="person_19684048">Rashi, 1040-1105</author>
+                            <title>Sefer ha-Orah (Responsa, teachings and practices)	</title>
+                            <title xml:lang="he">ספר האורה</title>
                         </msItem>
-                        <msItem n="2" xml:id="MS_Marsh_580_b">
-                            <locus>ff. 142r-146v</locus>
-                            <title>Masekhet derekh ʾerets zuṭa   </title>
-                            <title xml:lang="he"> מסכת דרך ארץ זוטא</title>
-                            <textLang mainLang="he">Hebrew</textLang>
+                        <msItem>
+                            <locus>ff. 141v-146v</locus>
+                            <author key="person_19684048">Rashi, 1040-1105</author>
+                            <title>Talmud. Minor tractates. Derekh ereẓ.	</title>
+                            <title xml:lang="he">דרך ארץ זוטא</title>
                         </msItem>
                     </msContents>
                     <physDesc>
                         <objectDesc form="codex">
                             <supportDesc material="chart">
-                                <support>paper; outer and inner sheets of quires made of parchment <watermark>(prewatermarked (Spanish?) paper)</watermark>
-                                </support>
-                                <extent>ff. 146</extent>
+                                <support>pre-watermarked (Spanish?) paper and parchment (outer and inner sheets of quires made of parchment)</support>
+                                <extent>ff. 146<dimensions unit="mm" type="leaf"><height>240-251</height>
+                                        <width>155-167</width>
+                                </dimensions>
+                                    <dimensions unit="mm" type="text"><height>210</height><width>126-128</width></dimensions>
+                                </extent>
                                 <foliation>Foliation in Arabic numerals.</foliation>
                             </supportDesc>
                             <layoutDesc>
@@ -94,11 +92,7 @@
                             <origPlace>[Spain]</origPlace>
                             <origDate notBefore="1276" notAfter="1300" calendar="Gregorian">[late 13th century]</origDate>
                         </origin>
-                        <provenance/>
-                        <acquisition>It was bequeathed to the Library by Narcissus Marsh
-                            (1638-1713), Church of Ireland archbishop of Armagh together with the
-                            rest of his Oriental MSS in 1714 (<hi rend="italic">Summary
-                                Catalogue</hi>, vol. III, p. 45).</acquisition>
+                        <acquisition>Part of the collection of Archbishop Narcissus Marsh. The manuscripts in the Marsh collection came to the Bodleian in 1713-1714.</acquisition>
                     </history>
                     <additional>
                         <adminInfo>

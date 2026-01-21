@@ -52,103 +52,76 @@
                     </msIdentifier>
                     <msContents>
                         <summary>Collection of Averroës' philosophical texts</summary>
-                        <msItem n="1" xml:id="MS_Marsh_472_a">
-                            <locus>ff. 1r-94v</locus>
-                            <author ref="http://viaf.org/viaf/19688718">
-                                <persName key="person_19688718">Averroës,
-                                1126-1198 </persName>
-                                <persName xml:lang="he">אבן רשד, מחמד בן
-                                    מחמד</persName>
-                            </author>
-                            <title>Middle commentary on Aristotle's Physics  </title>
-                            <title xml:lang="he"> באור אמצעי על ספר השמע הטבעי של אריסטו</title>
-                            <textLang mainLang="he">Hebrew</textLang>
+                        <msItem>
+                            <locus>ff. 1-94</locus>
+                            <title>Hebrew translation of Averroës’ middle commentary on Aristotle’s
+                                Physics. </title>
+                            <title xml:lang="he">אבן רשד, מחמד בן מחמד: באור אמצעי על ספר השמע הטבעי של
+                                אריסטו</title>
                         </msItem>
-                        <msItem n="2" xml:id="MS_Marsh_472_b">
-                            <locus>ff. 95r-96v</locus>
-                            <author ref="http://viaf.org/viaf/19688718">
-                                <persName key="person_19688718">Averroës,
-                                1126-1198 </persName>
-                                <persName xml:lang="he">אבן רשד, מחמד בן
-                                    מחמד</persName>
-                            </author>
-                            <title>Long commentary on Aristotle's Physics  </title>
-                            <title xml:lang="he"> באור הארוך על ספר השמע הטבעי של אריסטו</title>
-                            <textLang mainLang="he">Hebrew</textLang>
+                        <msItem>
+                            <locus>f. 95-96</locus>
+                            <title>Hebrew translation of Averroës’ long commentary on Aristotle’s Physics
+                                (Tafsīr/ Sharḥ al-Ṭabīʻī).</title>
+                            <title xml:lang="he"> אבן רשד, מחמד בן מחמד: באור ארוך על ספר השמע הטבעי של
+                                אריסטו</title>
                         </msItem>
-                        <msItem n="3" xml:id="MS_Marsh_472_c">
-                            <locus>ff. 97r-175r</locus>
-                            <author ref="http://viaf.org/viaf/19688718">
-                                <persName key="person_19688718">Averroës,
-                                1126-1198 </persName>
-                                <persName xml:lang="he">אבן רשד, מחמד בן
-                                    מחמד</persName>
-                            </author>
-                            <title>Medium commentary on Aristotle's De Coelo et Mundo  </title>
-                            <title xml:lang="he">  באור אצעי על ספר השמים והעולם של אריסטו</title>
-                            <textLang mainLang="he">Hebrew</textLang>
+                        <msItem>
+                            <locus>f. 97-174</locus>
+                            <title>Hebrew translation of Averroës’ middle commentary on Aristotle’s De
+                                caelo by Solomon ben Joseph Ibn Ayyub ha-Sefaradi.</title>
+                            <title xml:lang="he">והעולם של אריסטו</title>
                         </msItem>
-                        <msItem n="4" xml:id="MS_Marsh_472_d">
-                            <locus>ff. 175v-254v</locus>
-                            <author ref="http://viaf.org/viaf/19688718">
-                                <persName key="person_19688718">Averroës,
-                                1126-1198 </persName>
-                                <persName xml:lang="he">אבן רשד, מחמד בן
-                                    מחמד</persName>
-                            </author>
-                            <editor role="trl">
-                                <persName ref="http://viaf.org/viaf/314797824" key="person_79269165">Ibn Tibbon, Jacob ben Machir, approximately 1236- </persName>
-                            </editor>
-                            <title>Medium commentary on Aristotle's De Animalibus  </title>
-                            <title xml:lang="he">  באור ספר בעלי חיים של אריסטו</title>
-                            <textLang mainLang="he">Hebrew</textLang>
+                        <msItem>
+                            <locus>f. 175v-254r</locus>
+                            <title>Hebrew translation of Averroës’ commentary on Aristotle’s De animalibus. </title>
+                            <title xml:lang="he">אבן רשד, מחמד בן מחמד: באור על ספר בעלי חיים של
+                                אריסטו</title>
                         </msItem>
-                        <msItem n="5" xml:id="MS_Marsh_472_e">
-                            <locus>ff. 255r-284r</locus>
-                            <author ref="http://viaf.org/viaf/19688718">
-                                <persName key="person_19688718">Averroës,
-                                1126-1198 </persName>
-                                <persName xml:lang="he">אבן רשד, מחמד בן
-                                    מחמד</persName>
-                            </author>
-                            <editor role="trl">
-                                <persName ref="http://viaf.org/viaf/41078232" key="person_41078232">Qalonymos ben Qalonymos ben Meʼir, 1286-</persName>
-                            </editor>
-                            <title>Medium commentary on Aristotle's De generatione et corruptione  </title>
-                            <title xml:lang="he">  באור אמצעי על ספר ההויה וההפסד של אריסטו</title>
-                            <textLang mainLang="he">Hebrew</textLang>
+                        <msItem>
+                            <locus>f. 255-284</locus>
+                            <title>Hebrew translation of Averroës’ Talkhīṣ kitāb al-kawn wa-al-fasād by
+                                Qalonymos ben Qalonymos ben Meʼir (Middle commentary and epitome on
+                                Aristotle’s De generatione et corruptione)</title>
+                            <title xml:lang="he">אבן רשד, מחמד בן מחמד: באור אמצעי על ספר ההויה וההפסד של
+                                אריסטו</title>
                         </msItem>
                     </msContents>
                     <physDesc>
                         <objectDesc form="codex">
                             <supportDesc material="chart">
-                                <support>paper <watermark>(watermarks similar to Briquet no. 3547, dated 1467)</watermark>
-                                </support>
-                                <extent>ff. 284</extent>
-                                <foliation>Foliation in Arabic numerals. </foliation>
+                                <support>paper</support>
+                                <extent>ff. 264 (ff. 203-205 blank)<dimensions unit="mm" type="leaf">
+                                        <height>220</height>
+                                        <width>145-155</width>
+                                </dimensions>
+                                </extent>
+                                <foliation>Foliation in Arabic numerals.</foliation>
+                                
                             </supportDesc>
                             <layoutDesc>
-                                <layout columns="1"/>
+                                <layout/>
                             </layoutDesc>
                         </objectDesc>
+                        
                         <handDesc>
-                            <summary>Sephardi semi-cursive scripts.</summary>
-                            <handNote scope="major" script="sephardi" rend="semi-cursive">No. 1-2 (fols. 1-96) and no. 4 (fols. 17v5-254v) by the same hand on the same watermarked paper;</handNote>
-                            <handNote scope="minor" script="sephardi" rend="semi-cursive">no. 3 (fols. 97r-175r) by a different hand on different paper;</handNote>
-                            <handNote scope="minor" script="sephardi" rend="semi-cursive">no. 5 (fols. 255-284) by another hand, or perhaps two hands;</handNote>
-                            <handNote scope="minor" script="sephardi" rend="cursive">the end (fol. 284v) was completed in a cursive script.</handNote>
+                            <handNote>Sephardi semi-cursive scripts. Items 1-2 (ff. 1-96) and 4 (ff.
+                                175v-254v) by the same hand on paper with the same watermarks. Item 3 (ff.
+                                97-174) by a different hand on different paper. Item 5 (ff. 255-284 by
+                                another hand, or perhaps two hands; fol. 284v was completed in a cursive
+                                script.</handNote>
+                            
                         </handDesc>
+                        
+                        
                     </physDesc>
                     <history>
                         <origin>
                             <origPlace>[Spain]</origPlace>
-                            <origDate notBefore="1476" notAfter="1500" calendar="Gregorian">[late 15th century]</origDate>
+                            <origDate notAfter="1500" notBefore="1460" calendar="Gregorian">[Late 15th century]; [Watermarks similar to Briquet No. 3547, dated 1467].</origDate>
                         </origin>
-                        <provenance/>
-                        <acquisition>It was bequeathed to the Library by Narcissus Marsh
-                            (1638-1713), Church of Ireland archbishop of Armagh together with the
-                            rest of his Oriental MSS in 1714 (<hi rend="italic">Summary
-                                Catalogue</hi>, vol. III, p. 45).</acquisition>
+                        <acquisition>Part of the collection of Archbishop Narcissus Marsh. The manuscripts
+                            in the Marsh collection came to the Bodleian in 1713-1714.</acquisition>
                     </history>
                     <additional>
                         <adminInfo>
@@ -185,6 +158,9 @@
                                     of the Hebrew manuscripts in the Bodleian Library; Supplement of
                                     Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
                                 (Oxford: Clarendon Press, 1994), no. 1381.</bibl>
+                            <bibl>Steinschneider, Moritz, <title>Die hebräischen Übersetzungen des
+                                    Mittelalters</title> (Berlin: Kommissionsverlag des Bibliographischen
+                                Bureaus, 1893), 115, 128. </bibl>
                         </listBibl>
                     </additional>
                 </msDesc>

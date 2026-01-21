@@ -56,30 +56,34 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary>Hebrew Bible: Prophets (1Sam 2:3- 2Sam. 24:10) </summary>
-                        <msItem n="1" xml:id="MS_Marsh_91_a">
-                            <locus>ff. 1r-89v</locus>
-                            <title>Hebrew Bible: Prophets (1Sam 2:3- 2Sam. 24:10) </title>
-                            <title xml:lang="he">  נביאים (שמואל ב כד)</title>
-                            <textLang mainLang="he">Hebrew</textLang>
+                        <textLang mainLang="he">Hebrew</textLang>
+                        
+                        <msItem><title>Hebrew Bible: Former Prophets (1 Samuel 2:3 to 2 Samuel 24:10); Chronicles 1-2 (From 1 Chronicles 9:12 to 2 Chronicles 9:4). With vowels, cantillation signs and the Masora parva on the margin. </title>
+                            <title xml:lang="he">תורה: נביאים ראשונים (שמואל א ב:ג – שמואל ב כ"ד:י). עם נקוד, טעמים, מסורה קטנה. 	</title>
                         </msItem>
                     </msContents>
                     <physDesc>
                         <objectDesc form="codex">
                             <supportDesc material="chart">
-                                <support>paper <watermark/>
-                                </support>
-                                <extent>ff. 89</extent>
+                                <support>paper</support>
+                                <extent>ff. 89<dimensions unit="mm" type="leaf"><height>170</height>
+                                        <width>120-135</width>
+                                </dimensions>
+                                    <dimensions unit="mm" type="text"> <height>115-125</height><width>90</width></dimensions>
+                                </extent>
                                 <foliation>Foliation in Arabic numerals.</foliation>
+                                
+                                <condition>Last leaves damaged.</condition>
                             </supportDesc>
-                            <layoutDesc>
-                                <layout columns="1"/>
-                            </layoutDesc>
+                         
                         </objectDesc>
+                        
                         <handDesc>
-                            <summary>Oriental semi-cursive scripts.</summary>
-                            <handNote scope="major" script="oriental" rend="semi-cursive"/>
+                            <handNote>Oriental semi-cursive script.</handNote>
+                            
                         </handDesc>
+                        
+                        
                     </physDesc>
                     <history>
                         <origin>
@@ -87,10 +91,7 @@
                             <origDate notBefore="1201" notAfter="1400" calendar="Gregorian">[13th-14th century]</origDate>
                         </origin>
                         <provenance/>
-                        <acquisition>It was bequeathed to the Library by Narcissus Marsh
-                            (1638-1713), Church of Ireland archbishop of Armagh together with the
-                            rest of his Oriental MSS in 1714 (<hi rend="italic">Summary
-                                Catalogue</hi>, vol. III, p. 45).</acquisition>
+                        <acquisition>Part of the collection of Archbishop Narcissus Marsh, whose Greek motto πανταχῆ την ἀλήθειαν (truth everywhere) is found on fol. 1r. The manuscripts in the Marsh collection came to the Bodleian in 1713-1714.</acquisition>
                     </history>
                     <additional>
                         <adminInfo>

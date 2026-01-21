@@ -53,17 +53,12 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary>Commentary on the Pentateuch (Leviticus-Deuteronomy) by Abraham ibn Ezra</summary>
-                        <msItem n="1" xml:id="MS_Marsh_65_a">
-                            <locus>ff. 1r-63v</locus>
-                            <author ref="http://viaf.org/viaf/316731694">
-                                <persName key="person_90633023">Ibn Ezra, Abraham ben Meïr, 1089-1164 </persName>
-                                <persName xml:lang="he">  אבן עזרא, אברהם בן מאיר</persName>
-                            </author>
-                            <title>Commentary on the Pentateuch (Leviticus-Deuteronomy) </title>
-                            <title xml:lang="he"> פרוש התורה לראב"ע (ויקרא-דברים)</title>
-                            <note>Lacunae from Lev. 13:45-Num.23:13, Deut. 29:27 to the end.</note>
-                            <textLang mainLang="he">Hebrew</textLang>
+                        <textLang mainLang="he">Hebrew</textLang>
+                        
+                        <msItem>
+                            <author key="person_90633023">Ibn Ezra, Abraham ben Meïr, 1089-1164</author>
+                            <title>Commentary on the Pentateuch (Lev. 13:45 – Num. 23:13; Deu. 29:27 – 34:12)	</title>
+                            <title xml:lang="he">פרוש התורה (ויקרא י"ג:מ"ה – במדבר כ"ג:י"ג. דברים כ"ט:כ"ז – ל"ד:י"ב)</title>
                         </msItem>
                     </msContents>
                     <physDesc>
@@ -73,6 +68,7 @@
                                 </support>
                                 <extent>ff. 63</extent>
                                 <foliation>Foliation in Arabic numerals.</foliation>
+                                <condition>Many leaves damaged.</condition>
                             </supportDesc>
                             <layoutDesc>
                                 <layout columns="1"/>
@@ -88,11 +84,8 @@
                             <origPlace>[Orient]</origPlace>
                             <origDate notBefore="1301" notAfter="1400" calendar="Gregorian">[ca. 14th century]</origDate>
                         </origin>
-                        <provenance/>
-                        <acquisition>It was bequeathed to the Library by Narcissus Marsh
-                            (1638-1713), Church of Ireland archbishop of Armagh together with the
-                            rest of his Oriental MSS in 1714 (<hi rend="italic">Summary
-                                Catalogue</hi>, vol. III, p. 45).</acquisition>
+                        
+                        <acquisition>Part of the collection of Archbishop Narcissus Marsh. The manuscripts in the Marsh collection came to the Bodleian in 1713-1714.</acquisition>
                     </history>
                     <additional>
                         <adminInfo>

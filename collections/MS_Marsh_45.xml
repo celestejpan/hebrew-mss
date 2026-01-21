@@ -53,62 +53,53 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary>Commentary on the Writings (Job) by Maimonides.</summary>
-                        <msItem n="1" xml:id="MS_Marsh_45_a">
-                            <locus>ff. 1r-62v</locus>
-                            <author>
-                                <persName ref="http://viaf.org/viaf/100185495" key="person_100185495">Maimonides, Moses, 1135-1204 </persName>
-                                <persName xml:lang="he"> משה בן מימון</persName>
-                            </author>
-                            <title>Commentary on the Writings (Job) </title>
-                            <title xml:lang="he"> פרוש
-                                    כתובים לרמב"ן (איוב)</title>
-                            <textLang mainLang="he">Hebrew</textLang>
+                        <textLang mainLang="he">Hebrew</textLang>
+                        
+                        <msItem>
+                            <author key="person_219072992">Naḥmanides, approximately 1195-approximately 1270</author>
+                            <title>Commentary on Job</title>
+                            <title xml:lang="he">פרוש איוב</title>
+                            
                         </msItem>
                     </msContents>
                     <physDesc>
                         <objectDesc form="codex">
-                            <supportDesc material="chart">
-                                <support>paper, and two leaves of parchment (fols. 8 and 33).
-                                    <watermark/>
-                                </support>
-                                <extent>ff. 62</extent>
+                            <supportDesc material="mixed">
+                                <support>paper (2 leaves parchment)</support>
+                                <extent>ff. 70<dimensions unit="mm" type="leaf">
+                                        <height>209</height>
+                                        <width>130</width>
+                                </dimensions>
+                                    <dimensions unit="mm" type="text">
+                                        <height>140-180</height>
+                                        <width>95-115</width>
+                                    </dimensions>
+                                </extent>
                                 <foliation>Foliation in Arabic numerals.</foliation>
+                                
                             </supportDesc>
-                            <layoutDesc>
-                                <layout columns="1"/>
-                            </layoutDesc>
+                            
                         </objectDesc>
+                        
                         <handDesc>
-                            <summary>Sephardi scripts. </summary>
-                            <handNote scope="major" script="sephardi" rend="semi-cursive">The
-                                original MS was written in semi-cursive (fols. 9r-19v, line 9), </handNote>
-                            <handNote scope="minor" script="sephardi" rend="cursive">and cursive
-                                script,</handNote>
-                            <handNote scope="sole" script="sephardi" rend="semi-cursive">the
-                                completion in semi-cursive script.</handNote>
-                            <handNote scope="minor" script="byzantine" rend="semi-cursive">fol. 8
-                                (conjugate parchment leaf of the original parchment fol. 33):
-                                Byzantine semi-cursive script.</handNote>
+                            <handNote>Original manuscript: Sephardic semi-cursive (fols. 9r-19v, l. 9) and cursive script.</handNote><handNote>Completion: Sephardic semi-cursive script.</handNote>
+                            <handNote>Fol. 8 (conjugate parchment leaf of original parchment fol. 33): Byzantine semi-cursive script.</handNote>
+                            
+                            
                         </handDesc>
-                        <additions>
-                            <p>The original fragmentary MS was completed on different, later
-                                paper (fols. 3-7, 34-36, 58-70) in the late 15th
-                            century.</p>
-                        </additions>
+                        
+                        
+                        
+                        
                     </physDesc>
                     <history>
-                        <origin>
-                            <origPlace>[Sepharad]</origPlace>
-                            <origDate when="1400" calendar="Gregorian">[ca. 1400]</origDate>
+                        
+                        <origin>Trets (Provence); 1369.<origPlace>[Sepharad]</origPlace>
+                            <origDate notBefore="1400" notAfter="1500" calendar="Gregorian">[ca. 1400 (completed late 15th century)]</origDate>
                         </origin>
-                        <provenance>Ownership inscription on fol. XXX: <foreign xml:lang="he">"הצעיר דוד אזכנזי[!] יצ"ו" </foreign>; list of receipts in Ladino
-                            mentioning among others: <foreign xml:lang="he">"שמואל גאליקו", "יצחק
-                                יונה", "משה ביטון" </foreign> and some members of the family <foreign xml:lang="he">"טינאגה</foreign>.</provenance>
-                        <acquisition>It was bequeathed to the Library by Narcissus Marsh
-                            (1638-1713), Church of Ireland archbishop of Armagh together with the
-                            rest of his Oriental MSS in 1714 (<hi rend="italic">Summary
-                                Catalogue</hi>, vol. III, p. 45).</acquisition>
+                        <provenance> Completed on different, later paper (folios 3-7, 34-36, 58-70)</provenance>
+                        <acquisition>Part of the collection of Archbishop Narcissus Marsh, whose Greek motto πανταχῆ την ἀλήθειαν (truth everywhere) is found on fol. 1r. The manuscripts in the Marsh collection came to the Bodleian in 1713-1714.</acquisition>
+                        
                     </history>
                     <additional>
                         <adminInfo>
