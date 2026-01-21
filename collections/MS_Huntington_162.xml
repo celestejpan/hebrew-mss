@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xml:id="manuscript_570">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Huntington 162</title>
+
+            <respStmt xml:id="CMH">
+               <resp>Cataloguer</resp>
+               <persName>César Merchan-Hamann</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Huntington_162</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <idno>MS. Huntington 162</idno>
+                  <altIdentifier type="former">
+                     <idno><!-- insert or delete if not used --></idno>
+                  </altIdentifier>
+
+               </msIdentifier>
+               <msContents>
+                  <textLang mainLang="jrb" otherLangs="he">Judaeo-Arabic, Hebrew</textLang>
+
+                  <msItem n="1">
+                     <locus>f. 1</locus>
+                     <title>Three poems on Maimonides and the Guide for the Perplexed.</title>
+                  </msItem>
+                  <msItem n="2">
+                     <locus>ff. 1-200r</locus>
+                     <author key="person_100185495">Maimonides, Moses, 1135-1204</author>
+                     <title>Dalālat al-ḥāʾirīn (Guide for the Perplexed)</title>
+                     <title xml:lang="he">דלאלה אלחאירין</title>
+                  </msItem>
+                  <msItem n="3">
+                     <locus>f. 200-201r</locus>
+                     <title>Introductions to letters and sermons.</title>
+                     <title xml:lang="he">שלומות שלימות וברכות תמימית</title>
+                  </msItem>
+                  <msItem n="4">
+                     <locus>f. 200-201r</locus>
+                     <author>Abū al-Qāsim ibn Aḥmad al-Kirmanī</author>
+                     <title>Epistle on Suffering</title>
+                     <title xml:lang="he">רסאלה</title>
+                  </msItem>
+                  <msItem n="5">
+                     <locus>f. 202</locus>
+                     <title>Philosophical prayer attributed to Plato</title>
+                     <title xml:lang="he">דעא אפלאטן אלאלאהי עס</title>
+                  </msItem>
+
+                  <msItem>
+                     <locus>f. 202v-211</locus>
+                     <title>Ethical chapter</title>
+                     <title xml:lang="he">מקאלה וגיזה פי אלוקוף</title>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 212</locus>
+                     <title>Dalālat al-ḥāʾirīn. Part 2, chapter 29 (Guide for the
+                        Perplexed)</title>
+                     <title xml:lang="he">דלאלה אלחאירין. ב. כ"ט</title>
+                  </msItem>
+
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support>paper</support>
+                        <extent>ff. 212<dimensions unit="mm" type="leaf">
+                              <height>240-251</height>
+                              <width>155-167</width>
+                           </dimensions>
+                           <dimensions unit="mm" type="text">
+                              <height>210</height>
+                              <width>126-128</width>
+                           </dimensions>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals. Ff. 195-199 missed in the
+                           foliation.</foliation>
+                        <collation> </collation>
+                        <condition> </condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout/>
+                     </layoutDesc>
+                  </objectDesc>
+
+                  <handDesc>
+                     <handNote>Oriental (semi-)cursive script. Written by Joseph ha-Kohen ben ʽAli
+                        ben Aharon.</handNote>
+
+                  </handDesc>
+
+                  <bindingDesc>
+                     <binding>
+                        <p/>
+                     </binding>
+                  </bindingDesc>
+
+               </physDesc>
+               <history>
+                  <origin><origPlace>Erbil (Iraq)</origPlace>
+                     <origDate when="1275" calendar="Gregorian">1275</origDate>
+                  </origin>
+                  <provenance> </provenance>
+
+                  <acquisition>.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on Catalogue of the Hebrew Manuscripts
+                           in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No.
+                           1237, Catalogue of the Hebrew manuscripts in the Bodleian Library;
+                           Supplement of Addenda and Corrigenda to Vol. I, No. 1237, . ‘An Unknown
+                           Treatise on Suffering by Abū Al-Qāsim Al-Kirmānī’ (Hebrew) Jerusalem
+                           Studies in Jewish Thought 7 (1988) pp. 169-204 by Amos Goldreich, and on
+                           the data of the Institute of Microfilmed Hebrew Manuscripts, National
+                           Library of Israel with additional enhancements by the
+                           cataloguer.</source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm"> F 22051</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+
+                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian
+                        Library (Oxford, 1886), no. 1237.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
+                        manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to
+                        Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
+                        1237.</bibl>
+                     <bibl>Goldreich, Amos. ‘An Unknown Treatise on Suffering by Abū Al-Qāsim
+                        Al-Kirmānī’ (Hebrew) <title>Jerusalem Studies in Jewish Thought</title> 7 (1988) pp.
+                        169-204.</bibl>
+                  </listBibl>
+               </additional>
+
+
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change> </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_565">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Huntington 49</title>
+            
+            <respStmt xml:id="CMH">
+               <resp>Cataloguer</resp>
+               <persName>César Merchan-Hamann</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Huntington_49</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <idno>MS. Huntington 49</idno>
+                  <altIdentifier type="former">
+                     <idno><!-- insert or delete if not used --></idno>
+                  </altIdentifier>
+                  
+               </msIdentifier>
+               <msContents>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  
+                  <msItem>
+                     <author key="person_100185495">Maimonides, Moses, 1135-1204.</author>
+                     <title>Mishneh Torah VII.3 - XIV (Sefer Zeraʽim - Sefer Shofetim)</title>
+                     <title xml:lang="he">משנה תורה (ספר זרעים-ספר שופטים)</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>ff. 230<dimensions unit="mm" type="leaf"><height>310-316</height>
+                              <width>220-235</width>
+                        </dimensions>
+                           <dimensions unit="mm" type="text"><height>254-257</height><width>180</width></dimensions>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals.</foliation>
+                      
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>Text in two columns</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  
+                  <handDesc>
+                     <handNote>Sephardi square script.</handNote>
+                     
+                  </handDesc>
+      
+        
+              
+          
+                 
+               </physDesc>
+               <history>
+                  <origin><origPlace>[Provence?]
+                
+                     </origPlace>
+                     <origDate notAfter="1399" notBefore="1300" calendar="Gregorian">[14th century?]</origDate>
+              
+                  </origin>
+                  <provenance>
+              
+                  </provenance>
+             
+                  <acquisition>.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No. 599, Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I, No. 599, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm"> F 20189</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     
+                  <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 599.</bibl><bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 599.</bibl></listBibl>
+               </additional>
+              
+       
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            
+         </change>
+      </revisionDesc>
+</teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

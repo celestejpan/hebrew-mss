@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_568">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Huntington 74</title>
+            
+            <respStmt xml:id="CMH">
+               <resp>Cataloguer</resp>
+               <persName>César Merchan-Hamann</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Huntington_74</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <idno>MS. Huntington 74</idno>
+                  <altIdentifier type="former">
+                     <idno><!-- insert or delete if not used --></idno>
+                  </altIdentifier>
+                  
+               </msIdentifier>
+               <msContents>
+                  <textLang mainLang="he">Hebrew</textLang>
+                  
+                  <msItem>
+                     <title>Midrash Tanḥuma</title>
+                     <title xml:lang="he"> מדרש תנחומא</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="mixed">
+                        <support>paper and parchment (outer sheets of quires made of parchment)</support>
+                        <extent>ff. 251<dimensions unit="mm" type="leaf"><height>289-300</height>
+                              <width>210-215</width>
+                        </dimensions>
+                           <dimensions unit="mm" type="text"><height>210-220</height><width>145-150</width></dimensions>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals.</foliation>
+                        <collation> Ff. 1-27, 29-51, 52-77, 78-103, 104-129, 130-155, 156-181, 182-207, 208-233, 234-251 (addition, with two stubs between ff. 245 and 246)</collation>
+                        <condition> Incomplete, missing parts completed by a later hand on different paper (f. 27, replacing a parchment folio, and ff. 234r-251r)</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout/>
+                     </layoutDesc>
+                  </objectDesc>
+                  
+                  <handDesc>
+                     <handNote>Sephardi semi-cursive script. Completion by a later hand. End of the completion (ff. 249v-251r): Sephardi cursive script.</handNote>
+                     
+                  </handDesc>
+      
+                 
+                 
+               </physDesc>
+               <history>
+                  <origin>[Watermarks of the paper completion similar to Briquet No. 578, dated 1509-1511].<origPlace>[Spain or North Africa]</origPlace>
+                     <origDate notAfter="1400" notBefore="1340" calendar="Gregorian">[mid-late 14th century]</origDate>
+                  </origin>
+                  <provenance>
+              
+                  </provenance>
+             
+                  <acquisition>.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No. 2337, Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I, No. 2337, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 21029</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     
+                  <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 2337.</bibl><bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2337.</bibl></listBibl>
+               </additional>
+              
+       
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            
+         </change>
+      </revisionDesc>
+</teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

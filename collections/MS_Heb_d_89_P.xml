@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xml:id="manuscript_587">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Heb. d. 89(P)</title>
+
+            <respStmt xml:id="CMH">
+               <resp>Cataloguer</resp>
+               <persName>César Merchan-Hamann</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Heb_d_89_P</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <idno>MS. Heb. d. 89(P)</idno>
+
+               </msIdentifier>
+               <msContents>
+                  <summary/>
+                  <textLang mainLang="he" otherLangs="grc mis">All Hebrew, but for one in Greek and
+                     Nabatean.</textLang>
+
+                  <msItem>
+                     <note>Fragment (a) has three lines written along the vertical fibres, the verso
+                        has spots which do not seem to be ink. Fragments (b), (c), (f) and (h) seem
+                        to be part of the same leaf and are all written along the horizontal fibres.
+                        The versos of fragments (b) and (c) have traces of what may be ink, the
+                        versos of fragments (f) and (h) are blank. Fragment (d) has one undentified
+                        letter. Fragment (e) is in Greek and Nabatean, with Greek also on the verso.
+                        Fragment (g) has letters written along the horizontal fibres, with a blank
+                        verso. Fragment (i) has six lines of biblical text (Exodus 2: 23-25) written
+                        on parchment. Fragment (j) has faint traces of letters, written along the
+                        horizontal fibres, with a blank verse. Fragment (k) has letters written
+                        along the horizontal fibres, with a blank verse. Fragment (l) has seven
+                        lines of a document written across the vertical fibres with a blank verso.
+                        Fragments (m), (n), and (o) seem to be part of the same leaf and are all
+                        written along the horizontal fibres with blank versos. Fragments (p) and (q)
+                        are written along the horizontal fibres with blank versos.</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="other">
+                     <supportDesc material="papyrus">
+                        <support>papyrus (one on parchment)</support>
+                        <extent> 17 fragments </extent>
+
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout/>
+                     </layoutDesc>
+                  </objectDesc>
+
+                  <handDesc>
+                     <handNote> Oriental square script</handNote>
+
+                  </handDesc>
+
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace> [Orient] </origPlace>
+                  </origin>
+
+
+                  <acquisition>Given by Egypt Exploration Fund in May 1915 through A. S. Hunt.
+                  </acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source> Manuscript description based on<title> Les papyrus en caractères
+                           hébraïques trouvés en Égypte</title>, by Colette Sirat, Paris 1985, p. 123,
+                           ‘Notes on Hebrew Papyrus fragments from Oxyrhinchus’, by A. E. Cowley,
+                           <title>The Journal of Egyptian Archaeology</title> 1915, p. 209, and on the data of the
+                           Institute of Microfilmed Hebrew Manuscripts, National Library of Israel
+                           with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                     <availability status="restricted">
+                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                     </availability>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="S.F. Or." type="microfilm">S.F. Or. 1094</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl> 
+                     <bibl>Cowley, A. E., ‘Notes on Hebrew Papyrus fragments from Oxyrhinchus’ <title>The Journal of Egyptian Archaeology</title>, Vol. 2, No. 4 (October 1915), pp. 209-213.</bibl>
+                     <bibl>Sirat, Colette, <title>Les papyrus en caractères hébraïques trouvés en Égypte.</title> (Paris: Centre national de la recherche scientifique, 1985), p. 123.</bibl>
+                     
+                  </listBibl>
+               </additional>
+
+
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change> </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

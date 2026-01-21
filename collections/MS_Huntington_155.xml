@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_569">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Huntington 155</title>
+            
+            <respStmt xml:id="CMH">
+               <resp>Cataloguer</resp>
+               <persName>César Merchan-Hamann</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Huntington_155</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <idno>MS. Huntington 155</idno>
+                  <altIdentifier type="former">
+                     <idno><!-- insert or delete if not used --></idno>
+                  </altIdentifier>
+                  
+               </msIdentifier>
+               <msContents>
+                  <textLang mainLang="he" otherLangs="jrb">Hebrew, Judaeo-Arabic</textLang>
+                  
+                  <msItem>
+                     <author key="person_100213323">Kimhi, David, approximately 1160-approximately 1235</author>
+                     <title>Commentary on Ezekiel</title>
+                     <title xml:lang="he">פרוש יחזקאל לרד"ק</title>
+                   <note>  <list><head>Contains added marginalia in Judaeo-Arabic quoting:</head>
+                         <item><persName key="person_224145911275827062810">Ḥayyuj, Judah ben David, approximately 945-approximately 1000</persName>
+                         </item><item> <persName key="person_59070733">Ibn Balʻam, Judah ben Samuel, active 11th century</persName></item>
+                         <item> <persName key="person_305114808">Ibn Janāḥ, Abū al-Walīd Marwān, approximately 990-approximately 1050</persName></item>
+                         <item> <persName key="person_95159227">Saʻadia ben Joseph, Gaon, 882-942</persName></item>
+                           
+                     </list></note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support>paper</support>
+                        <extent>ff. 193<dimensions unit="mm" type="leaf"><height>260-266</height>
+                              <width>180-185</width>
+                        </dimensions>
+                           <dimensions unit="mm" type="text"><height>180-185</height><width>115-120</width></dimensions>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals.</foliation>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout/>
+                     </layoutDesc>
+                  </objectDesc>
+                  
+                  <handDesc>
+                     <handNote>Sephardi semi-cursive script. Written by Moses ben Nathan Narboni. Collated by Ḥiyya ben Berakhot ha-Kohen, who added the marginalia.</handNote>
+                     
+                  </handDesc>
+                 
+               </physDesc>
+               <history>
+                  <origin><origPlace>[Damascus?]</origPlace>
+                     <origDate when="1323" calendar="Gregorian">1323. [Date from the collator’s colophon, f. 194v]</origDate>
+              
+                  </origin>
+               
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No. 316, Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I, No. 316, ‘Notice sur la léxicographie hébraïque’ Journal asiatique, vol. 20 (1862), again by Neubauer,  ‘Le surnom du caraïte Ben-Sita’ Revue des Études Juives, vol. 23, nr. 45 (1891) pp.132-133 by J. Israelsohn,  and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm"> F 17235</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+                     
+                  <bibl>Israelsohn, J. ‘Le surnom du caraïte Ben-Sita’ <title>Revue des Études Juives</title>, vol. 23, nr. 45 (1891) pp.132-133</bibl><bibl>Neubauer, Adolphe. ‘Notice sur la léxicographie hébraïque’ <title>Journal asiatique</title>, vol. 20 (1862) pp. 201-267.</bibl><bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 316.</bibl><bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 316.</bibl></listBibl>
+               </additional>
+              
+       
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change>
+            
+         </change>
+      </revisionDesc>
+</teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

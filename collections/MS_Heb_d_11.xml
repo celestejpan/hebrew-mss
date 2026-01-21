@@ -1,0 +1,467 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xml:id="manuscript_578">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Heb. d. 11</title>
+
+            <respStmt xml:id="CMH">
+               <resp>Cataloguer</resp>
+               <persName>César Merchan-Hamann</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Heb_d_11</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <idno>MS. Heb. d. 11</idno>
+                  <altIdentifier type="former">
+                     <idno><!-- insert or delete if not used --></idno>
+                  </altIdentifier>
+
+               </msIdentifier>
+
+               <msContents>
+                  <textLang mainLang="he">Hebrew</textLang>
+
+
+                  <msItem>
+                     <locus>ff. 1r-1v</locus>
+                     <title>Extract from Josippon</title>
+                  </msItem>
+
+                  <msItem>
+                     <locus>ff. 1v-2r</locus>
+                     <title>Riddles</title>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 2v, 3r, 4r-6v</locus>
+                     <title>Calendar</title>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 3v</locus>
+                     <title> Table of contents </title>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 4ª</locus>
+                     <title> List of twenty-seven titles </title>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 7r-246v</locus>
+                     <title>Sefer Toledot	</title>
+                     <title xml:lang="he">ספר תולדות</title>
+                     <msItem>
+                        <locus>ff.7v-11r</locus>
+                        <title>Pirḳe d-Rabbi Eli’ezer iii-xi</title>
+                        <title xml:lang="he">פרקי דרבי אליעזר</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 11r-13r</locus>
+                        <title>Yetsirat ha-ṿalad (Toledot ha-adam)</title>
+                        <title xml:lang="he">יצירת הולד (תולדות האדם)</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 13r-14v</locus>
+                        <title>Uve-sha‘ah she-adam nifṭar</title>
+                        <title xml:lang="he">ובשעה שאדם נפטר</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 14v-15r</locus>
+                        <title>(Seder Gehinam) </title>
+                        <title xml:lang="he"> פרק מגיהנם לר' יצחק בן פרנך (סדר גיהנם)</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff.15r-15v</locus>
+                        <title>Masekhet Ḥibuṭ ha-Ḳever</title>
+                        <title xml:lang="he">מסכת חבוט הקבר (חיבוט הקבר)</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 15v-17r</locus>
+                        <title>Masekhet Gehinam (Seder Gehinam)</title>
+                        <title xml:lang="he">מסכת גיהנם (סדר גיהנם)</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 17r-19r</locus>
+                        <note>(Midrashim on the Garden of Eden)</note>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 19r-21v</locus>
+                        <note>Extract from Josippon. Story of Adam.</note>
+                     </msItem>
+                     <msItem>
+                        <locus>f. 21v</locus>
+                        <title>Shemḥaza’i ṿe-‘Aza’el (Midrash on Shemhazai and Azael)</title>
+                        <title xml:lang="he">שמחזאי ועזאל</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 22r-29v</locus>
+                        <note>Extract from <title>Josippon</title>. From Adam to Abraham.</note>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 29v-32r</locus>
+                        <title>Midrash Ṿa-Yisa‘u (Midrash on the Sons of Jacob)</title>
+                        <title xml:lang="he">מדרש ויסעו</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 32r-34v</locus>
+                        <title>Tsaṿa’at Naftali ben Ya‘aḳov (Testament of Naphtali ben Jacob)</title>
+                        <title xml:lang="he">צוואת נפתלי בן יעקב</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 35r-37r</locus>
+                        <note>Extract from <title>Josippon</title>. Up to the story of King Darius.</note>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 37r-46v</locus>
+                        <title>Divre ha-Yamim de-Mosheh Rabenu (Midrash on the life of Moses)</title>
+                        <title xml:lang="he">דברי הימים דמשה רבינו</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 47r-48r</locus>
+                        <title>Peṭirat Aharon (Midrash on the death of Aaron)</title>
+                        <title xml:lang="he">פטירת אהרן</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 48r-50v</locus>
+                        <title>Peṭirat Mosheh Rabenu (Midrash on the death of Moses)</title>
+                        <title xml:lang="he">פטירת משה רבנו</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 50v-54v</locus>
+                        <title>Midrashim on Moses and the journey through the wilderness.</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 55r-60v</locus>
+                        <title>Extract from Josippon. From the Ten Plagues to the period of the Judges.</title>
+                     </msItem>
+                     <msItem>
+                        <locus>f. 61r-61v</locus>
+                        <title>Shemoneh galuyot (Story of the Eight Exiles)</title>
+                        <title xml:lang="he">שמונה גלויות</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 62r-64r</locus>
+                        <title>Midrash ge’ulah ‘al bene Mosheh ṿe-‘aśeret ha-shevaṭim (Midrash on the sons of Moses and the Ten Tribes)</title>
+                        <title xml:lang="he">מדרש גאולה על בני משה ועשרת השבטים</title>
+                     </msItem>
+                     <msItem>
+                        <locus>f. 64r </locus><note>text on bottom half crossed out</note>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 64v-67r</locus>
+                        <title>Eldad ha-Dani (Elḥanan ha-Soḥer) (running title: Sheveṭ Dan)</title>
+                        <title> אלדד הדני (אלחנן הסוחר) (שבט דן)</title>
+                     </msItem>
+                     <msItem>
+                        <locus>f. 67v</locus><note>blank</note>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 68r-75r</locus>
+                        <note>Extract from <title>Josippon</title>. Including a Hebrew translation of the Aramaic parts of the Book of Daniel, and the Aramaic texts of the Song of the Three Children and Bel and the Dragon, both apocryphal additions to the Book of Daniel. It ends with the story of Ahab.</note>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 75r-75v</locus>
+                        <title>Ma‘aśeh Shoshanah (History of Susanna, an apocryphal addition to the Book of Daniel)</title>
+                        <title xml:lang="he">מעשה שושנה</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 76r-90v</locus>
+                        <note>Extract from <title>Josippon</title>. Starts with the story of the Babylonian Kings Nebuchadnezzar and Evil-Merodach, continues and concludes with the apocryphal Letter of Haman and the Dream of Ahasverus.</note>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 90v-91v</locus>
+                        <title>Kise’ Shelomoh (Midrashim. Selection)</title>
+                        <title xml:lang="he">כסא שלמה</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 91v-199r</locus>
+                        <title>Extract from Josippon. Starts with the story of the Maccabees, continues with the Hasmoneans, the story of Orodus, the story of Agrippa, the Destruction of the Second Temple by the Romans, and ends with stories concerning Titus and Hadrian in Betar.</title>
+                     </msItem>
+                     <msItem>
+                        <locus>f. 199v</locus>
+                        <note>Three words: <quote>Tsintsenet ha-kokhavim pesantrin</quote></note>
+                        <note xml:lang="he">צנצנת הכוכבים פסנתרין</note>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 200r-218v</locus>
+                        <title>Midrash Rabba. Ekhah (Midrash on Lamentations. Selections)</title>
+                        <title xml:lang="he">מדרש רבה (אגדות איכה רבתי)</title>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 218v-219v</locus>
+                        <note>List containing the chain of transmission of the Torah from Moses to Rabbi Solomon ben Judah, Head of the Jerusalem Yeshiva in the year 4,807 (1,046-1,047 in the Gregorian calendar)</note>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 220r-227r</locus>
+                        <title>List of Prophets and Sages who prophesied and received the Torah, with chronicles of the Second Temple period and its destruction.</title>
+                     </msItem>
+                     <msItem>
+                        <locus>f. 227v</locus><note>blank</note>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 228r-230v</locus>
+                        <title>Ma‘aśeh ‘aśarah haruge malkhut (Midrash Eleh ezkerah)(Midrash on the Ten Martyrs)</title>
+                        <title xml:lang="he">מעשה עשרה הרוגי מלכות (מדרש אלה אזכרה)</title>
+                     </msItem>
+                     <msItem>
+                        <locus>f. 231r-231v</locus><note>blank</note>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 232r-236r</locus>
+                        <title>Chronicle on the massacres in the Rhineland in 4,856 (1,096 in the Gregorian calendar) at the beginning of the First Crusade by Eliezer ben Nathan of Mainz.</title>
+                     </msItem>
+                     <msItem>
+                        <locus>f. 236r-236v</locus>
+                        <title>Ma‘aśeh Rabi Amnon (Midrash on Rabbi Amnon)</title>
+                        <title xml:lang="he">מעשה רבי אמנון</title>
+                     </msItem>
+                     <msItem>
+                        <locus>f. 237r</locus>
+                        <title>Sefer ha-Zekhirah (A short chronicle on the massacres of 1,096, continued on fol. 239r, by Ephraim ben Jacob of Bonn)</title>
+                        <title xml:lang="he">ספר הזכירה</title>
+                     </msItem>
+                     <msItem>
+                        <locus>f. 237v</locus><note>Three scribbled words</note>
+                     </msItem>
+                     <msItem>
+                        <locus>f. 238r-238v</locus>
+                        <title>Mishneh Torah. XIV Sefer Shofṭim. 5. Hilkhot Melakhim. 12 (Fragment of Maimonides’ legal code)</title>
+                        <title xml:lang="he">משנה תורה. ספר שופטים. הלכות מלכים י"ב </title>
+                     </msItem>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 247r-247v</locus>
+                     <note>Calculations for the date of the arrival of the Messiah from <title>Sefer ha-Gan</title></note>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 248r-251r</locus>
+                     <title>Sefer Zerubavel (Prophecy and Dream of Zerubbabel)</title>
+                     <title xml:lang="he">ספר זרובבל (נבואת וחלום של זרובבל)</title>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 251r-255r</locus>
+                     <title>Otiyot shel ha-Kets (Signs of messianic days)</title>
+                     <title xml:lang="he">אותיות של הקץ</title>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 255v-256v</locus>
+                     <title>ʻEśrim midot ṭovot (Sidre Araḳim)</title>
+                     <title xml:lang="he">עשרים מידות טובות (סדרי ארקים)</title>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 257r-257v</locus>
+                     <title>Ḥamesh-‘eśreh otot lifne yom ha-din mi-sefer Ye[ra]ḥmi’el (Fifteen signs before the Day of Judgment)</title>
+                     <title xml:lang="he">חמש-עשרה אותות לפני יום הדין מספר י[ר]מאל</title>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 257v</locus>
+                     <title>Ketsad ‘atid ha-Ḳadosh barukh Hu’ le-hiyot doresh ṿe-yoshev be-Gan ‘Eden (Midrash on the Garden of Eden)</title>
+                     <title xml:lang="he"> כיצד עתיד הקדוש ברוך הוא להיות יושב ודורש בגן עדן</title>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 258r-258v</locus>
+                     <title>Ḳumi ori ki ba’ orekha (Midrash on the Garden of Eden)</title>
+                     <title xml:lang="he">קומי אורי כי בא אורך</title>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 259r-264v</locus>
+                     <title>Sefer Yehudit (Book of Judith from the Apocrypha)</title>
+                     <title xml:lang="he">ספר יהודית</title>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 265r-277v</locus>
+                     <title>Sefer Aleḳsandros Muḳdon (The Story of Alexander the Great)</title>
+                     <title xml:lang="he">ספר אלקסנדרוס מוקדון</title>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 278</locus><note>blank</note>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 279r-289r</locus>
+                     <title>Alfa-Beta de-Ben Sira (Alphabet of Sirach)</title>
+                     <title xml:lang="he">אלפא-ביתא דבן סירא</title>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 289r-294v</locus>
+                     <title>Mishle Sendebar (The Fables of Sendebar)</title>
+                     <title xml:lang="he">משלי סנדבר</title>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 295r-319r</locus>
+                     <title>Sefer Mivḥar ha-Peninim (The Choice of Pearls with commentary)</title>
+                     <title xml:lang="he">ספר מבחר הפנינים</title>
+                     <note>This work has been variously attributed to Solomon ben Judah Ibn Gabirol and to Jedaiah ben Abraham Bedersi </note>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 319v</locus><note>List of books (20 items, mostly Talmudic tractates and commentaries) bought by the writer’s brother, Asher ha-Levi</note>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 320r-336v</locus>
+                     <title>Mishle Shuʻalim (The Fables of Berechiah ben Natronai Ha-Naḳdan)</title>
+                     <title xml:lang="he"> משלי שועלים</title>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 337r-337v</locus>
+                     <title>Minḥat Yehudah Śoneh ha-Nashim</title>
+                     <title xml:lang="he">מנחת יהודה שונה הנשים</title>
+                     <note>(The Gift of Judah the Misogynist by Judah ben Isaac ibn Shabbetai, the beginning only)</note>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 338r-348v</locus>
+                     <title>Sefer Pitron Ḥalomot (Book of Interpretation of Dreams)</title>
+                     <title xml:lang="he">ספר פתרון חלומות</title>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 349r-349v</locus>
+                     <note>Fragment of a treatise on the liturgies for the Days of Awe (Rosh Ha-Shanah and Yom Kippur).</note>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 350r-351v</locus>
+                     <title>Igeret el Kohane Afriḳi she-hayu mitpartsim be-yoter (Fragment of a letter on priests and priesthood)</title>
+                     <title xml:lang="he">אגרת אל כהני אפקריקי שהיו מתפרצים ביותר</title>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 352r-358v</locus>
+                     <title>Sefer ha-Avanim (Book of Precious Stones, originally the Liber de lapidibus by Marbode, Bishop of Rennes)</title>
+                     <title xml:lang="he">ספר האבנים</title>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 359r-361v</locus>
+                     <title>Simane Geshamim u-Re‘amim (Treatise on favourable days and months)</title>
+                     <title xml:lang="he">סימני גשמים ורעמים</title>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 362a-363r</locus>
+                     <title>(Treatise on urine) </title>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 363v-364r</locus>
+                     <title>(Treatise on pulse and bleeding) </title>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 364v</locus>
+                     <title>Beriʼat ha-adam (Treatise on procreation)</title>
+                     <title xml:lang="he">בריאת האדם</title>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 365r-377r</locus>
+                     <title>Treatise on the calendar</title><note>(f. 371v blank)</note>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 377v</locus>
+                     <title>Masoret shel Targum (fragment)</title>
+                     <title xml:lang="he">מסורת של תרגום</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>ff. 388<dimensions unit="mm" type="leaf"><height>220-223</height>
+                              <width>160-168</width>
+                           </dimensions>
+                           <dimensions unit="mm" type="text"><height>166(mostly)-198</height><width>115-130</width></dimensions>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals.</foliation>
+                        <collation> </collation>
+                        <condition> </condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout>Text in two columns (except ff. 88v-246v, 247r-294v,
+                           320r-377r)</layout>
+                     </layoutDesc>
+                  </objectDesc>
+
+                  <handDesc>
+                     <handNote>Ashkenazi square script. Various hands, including the compiler,
+                        Eleazar ben Asher. After f. 377v, a later hand.</handNote>
+
+                  </handDesc>
+
+                
+
+               </physDesc>
+               <history>
+                  <origin><origPlace>[Italy]</origPlace>
+                     <origDate notAfter="1325" notBefore="1300" calendar="Gregorian">[1300-1325]</origDate>
+                  </origin>
+                  <provenance> 
+                     Ownership inscriptions: Samuel Treves (שמואל טריווש) 1730 (fol. 1).
+                     Lieberman Marignano[?] (ליברמן מריניאנו) bought it in Asti (Italy) on 6 Shevat
+                     [5]251 (26 January 1491 in the Gregorian calendar) from Heshlen/Heitlen [?]
+                     (השלין/הייטלן) bat Rabbi Gershom z”l and from her son Gershom ben Moses; he
+                     then sold it to Joab ben Baruch ben Neriah on 2 Iyyar [5]261 (30 April 1501 in
+                     the Gregorian calendar) (fols. 4, 376v). Gershom קונציאו at Asti (Italy) in
+                     [5]362 (1601-1602 in the Gregorian calendar) (fols. 4, 7r, 125r, 231r).
+                     Gedaliah Isaac Treves bought it from the estate of Mordecai de’Rossi (מהאדומים)
+                     in the year [5]469 (1708-1709 in the Gregorian calendar) (fol.
+                     238r).
+                  </provenance>
+
+                  <acquisition></acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts
+                           in the Bodleian Library, vol. II</title>, by Adolf Neubauer and Arthur Ernest
+                           Cowley, Oxford 1906, No. 2797 and on the data of the Institute of
+                           Microfilmed Hebrew Manuscripts, National Library of Israel with
+                           additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm"> F 16716</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+
+                     <bibl>Neubauer, Adolf and Arthur Ernest Cowley <title>Catalogue of the Hebrew
+                        Manuscripts in the Bodleian Library. Vol. II</title> (Oxford, 1906), no.
+                        2797.</bibl>
+                  </listBibl>
+               </additional>
+
+
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change> </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

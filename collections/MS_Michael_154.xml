@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xml:id="manuscript_572">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Michael 154</title>
+
+            <respStmt xml:id="CMH">
+               <resp>Cataloguer</resp>
+               <persName>César Merchan-Hamann</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Michael_154</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection">Michael Collection</idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <idno>MS. Michael 154</idno>
+                  <altIdentifier type="former">
+                     <idno><!-- insert or delete if not used --></idno>
+                  </altIdentifier>
+
+               </msIdentifier>
+               <msContents>
+                  <textLang mainLang="he" otherLangs="yid">Hebrew, Yiddish</textLang>
+
+                  <msItem>
+                     <locus>ff. 1-316r</locus>
+                     <author key="person_100224138">Luria, Solomon ben Jehiel, 1510?-1573 or 1574</author>
+                     <title>‘Amude Shelomoh (Commentary on the Sefer Mitsṿot Gadol) </title>
+                     <title xml:lang="he">עמודי שלמה : באור על ספר מצוות גדול</title>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 316r</locus>
+                     <note>Hildebrandslied (fragment; 7 lines; stanzas 1 and 3)</note>
+                  </msItem>
+                  <msItem>
+                     <locus>f.316v</locus>
+                     <note>Notes in Yiddish</note>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support>paper</support>
+                        <extent>ff. 316<dimensions unit="mm" type="leaf">
+                              <height>196</height>
+                              <width>153</width>
+                           </dimensions>
+                           <dimensions unit="mm" type="text">
+                              <height>145-160</height>
+                              <width>113</width>
+                           </dimensions>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals.</foliation>
+
+                        <condition>On f. 316r, colophon (torn so the scribe’s name, date and place
+                           are missing).</condition>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout/>
+                     </layoutDesc>
+                  </objectDesc>
+
+                  <handDesc>
+                     <handNote>Ashkenazi cursive script.</handNote>
+
+                  </handDesc>
+
+
+               </physDesc>
+               <history>
+                  <origin><origPlace>[Ashkenaz]</origPlace>
+                     <origDate when="1600" calendar="Gregorian">[c. 1600 (watermarks: Briquet No.
+                        13958, dated 1593)]</origDate>
+                  </origin>
+
+                  <provenance>Michael, Heimann Joseph, 1792-1846</provenance>
+                  <provenance>Zalman Beiṭ[?] (זלמן בייט).</provenance>
+
+                  <acquisition>It belonged to the library of Heimann Joseph Michael (1792-1846),
+                     which was purchased en bloc (altogether 862 manuscript volumes) by the Bodleian
+                     Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on Catalogue of the Hebrew Manuscripts
+                           in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No. 870,
+                           Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement
+                           of Addenda and Corrigenda to Vol. I, No. 870, and on the data of the
+                           Institute of Microfilmed Hebrew Manuscripts, National Library of Israel
+                           with additional enhancements by the cataloguer. The Yiddish fragment of
+                           the Hildebrandslied was edited by W.B. Lockwood, ‘Die Textgestalt des
+                           jüngeren Hildebrandliedes in jüdisch-deutscher Sprache’, <title>Beiträge zur
+                           Geschichte der deutschen Sprache und Literatur</title>, lxxxv (1963), pp.
+                           433-447, together with the fuller version to be found in MS. Opp. Add. 4o
+                           136.</source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm"> F 21631</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+
+                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian
+                        Library (Oxford, 1886), no. 870.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
+                        manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to
+                        Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
+                        870.</bibl>
+                     <bibl>Lockwood, W.B., ‘Die Textgestalt des jüngeren Hildebrandliedes in
+                        jüdisch-deutscher Sprache’, <title>Beiträge zur Geschichte der deutschen Sprache
+                        und Literatur</title>, lxxxv (1963), pp. 433-447.</bibl>
+                  </listBibl>
+               </additional>
+
+
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change> </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

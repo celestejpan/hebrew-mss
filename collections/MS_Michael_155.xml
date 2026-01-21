@@ -1,0 +1,243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xml:id="manuscript_573">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Michael 155</title>
+
+            <respStmt xml:id="CMH">
+               <resp>Cataloguer</resp>
+               <persName>César Merchan-Hamann</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Michael_155</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <idno>MS. Michael 155</idno>
+                  <altIdentifier type="former">
+                     <idno>MS. Michael 107</idno>
+                  </altIdentifier>
+
+               </msIdentifier>
+               <msContents>
+                  <summary>Diṿ’an <foreign xml:lang="he">דיואן</foreign></summary>
+
+                  <textLang mainLang="he">Hebrew</textLang>
+
+
+
+
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support>paper</support>
+                        <extent>ff. 285<dimensions unit="mm" type="leaf">
+                              <height>195-200</height>
+                              <width>135-140</width>
+                           </dimensions>
+                           <dimensions unit="mm" type="text">
+                              <height>145</height>
+                              <width>80</width>
+                           </dimensions>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals.</foliation>
+
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout/>
+                     </layoutDesc>
+                  </objectDesc>
+
+
+
+
+
+
+               </physDesc>
+               <history>
+                 
+
+                  <provenance>Michael, Heimann Joseph, 1792-1846</provenance>
+
+
+                  <acquisition>It belonged to the library of Heimann Joseph Michael (1792-1846),
+                     which was purchased en bloc (altogether 862 manuscript volumes) by the Bodleian
+                     Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on Catalogue of the Hebrew Manuscripts
+                           in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No.
+                           1984, Catalogue of the Hebrew manuscripts in the Bodleian Library;
+                           Supplement of Addenda and Corrigenda to Vol. I, No. 1984, and on the data
+                           of the Institute of Microfilmed Hebrew Manuscripts, National Library of
+                           Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm"> F 19146</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+
+                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian
+                        Library (Oxford, 1886), no. 1984.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
+                        manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to
+                        Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
+                        1984.</bibl>
+
+                  </listBibl>
+               </additional>
+               <msPart>
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno>MS. Michael 155, fols 1-260</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus>ff. 1-122</locus>
+                        <note>Poems and letters</note>
+                        <author key="person_299292058"> Bonafed, Solomon ben Reuben, active 14th-15th century</author>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 123v-149</locus>
+                        <note>Letters and poems.</note>
+                        <author key="person_67522257"> Benveniste, Vidal, active 14th century-15th century</author>
+                        <author key="person_7051"> Vidal ben Lavi, active 14th century-15th century</author>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 150-207</locus>
+                        <note>Poems</note>
+                        <author key="person_101482285"> Da-Piera, Salomo, approximately 1342-approximately 1418</author>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 207-239</locus>
+                        <note>Letters</note>
+                        <author> Crescas, Astruc</author>
+                        <author key="person_101482285"> Da-Piera, Salomo, approximately 1342-approximately 1418</author>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 240v-245</locus>
+                        <note>Letters</note>
+                        <author> Rimoc, Astruc</author>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 246-256</locus>
+                        <note>Letters</note>
+                        <author> Benveniste ben Lavi</author>
+                        <author> Solomon ben Lavi</author>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 257-260</locus>
+                        <note>Letters and poems</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <handDesc>
+                        <handNote>Sephardi cursive script</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history> <origin><origPlace>[Provence?]</origPlace>
+                        <origDate notBefore="1400" notAfter="1425" calendar="Gregorian">early 15th
+                           century (watermarks similar to Briquet No. 3528, dated 1429-1453)</origDate>
+                  </origin>
+                  </history>
+               </msPart>
+               <msPart>
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno>MS. Michael 155, fols 261-278</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus>ff. 261-275</locus>
+                        <note>Letters and poems</note>
+                     </msItem>
+                     <msItem>
+                        <locus>ff. 276-278</locus>
+                        <note>Letter and poems</note>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <handDesc>
+                        <handNote>Second hand: Provençal cursive scripts</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history> <origin><origPlace>[Provence?]</origPlace>
+                        <origDate notBefore="1440" notAfter="1460" calendar="Gregorian">mid-15th century (second hand ca. 1453)</origDate>
+                  </origin>
+                  </history>
+               </msPart>
+
+               <msPart>
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno>MS. Michael 155, fols 279-283</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus>ff. 279-285</locus>
+                        <author key="person_4155464786402041075">Judah ben Samuel, approximately 1150-1217 </author>
+                        <title>Sefer ḥasidim</title>
+                        <title xml:lang="he">ספר חסידי</title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <handDesc>
+                        <handNote> Sephardi semi-cursive script (ff. 279-283).</handNote>
+                     </handDesc>
+                  </physDesc>
+                  <history> <origin>
+                        <origDate notBefore="1460" notAfter="1500" calendar="Gregorian">[late 15th century]</origDate>
+                  </origin>
+                  </history>
+               </msPart>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change> </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,261 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xml:id="manuscript_576">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Michael 551</title>
+
+            <respStmt xml:id="CMH">
+               <resp>Cataloguer</resp>
+               <persName>César Merchan-Hamann</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Michael_551</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <idno>MS. Michael 551</idno>
+                  <altIdentifier type="former">
+                     <idno>MS. Michael 414</idno>
+                  </altIdentifier>
+
+               </msIdentifier>
+               <msContents>
+                  <textLang mainLang="he">Hebrew</textLang>
+
+                  <msItem>
+                     <locus>ff. 1-145v</locus>
+                     <author key="person_39272010">Matkah, Judah ben Solomon, ha-Kohen, active 13th century</author>
+                     
+                     <title>Midrash ha-Ḥokhmah</title>
+                     <title xml:lang="he">מדרש החחמה</title>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 146r-156r</locus>
+                     <author key="person_176184097">Euclid</author>
+                     <title>Elements. Hebrew (part).</title>
+                     <title xml:lang="he">החלק השני מספר כללות של ספר היסודות</title>
+                     <note>(there is a gap in the text between f. 155v and 156r).</note>
+                     
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 156v-161r</locus>
+                     <author key="person_54152998">Ptolemy, active 2nd century</author>
+                     <title>Almagest (part).</title>
+                     <title xml:lang="he">ספר גדול מתלמי</title>
+                     
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 161v-187v</locus>
+                     <author key="person_265088688">Biṭrūjī, active 12th century</author>
+                     <title>Kitāb fī al-hayʼah. Hebrew (part).</title>
+                     <title xml:lang="he">ספר התכונה</title>
+                     
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 187v-192v</locus>
+                     <title>Perush ha-Otiyot</title>
+                     <title xml:lang="he">פירוש האותיות</title>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 192v-193r</locus>
+                     <note>Fragment beginning:</note>
+                     <incipit xml:lang="he">שתעין תהלה לדוד שהוא בא באלף בית</incipit>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 193r-195r</locus>
+                     <note>Fragment beginning:</note>
+                     <incipit xml:lang="he">כשאתה מעיין ימי ספירת העומר </incipit>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 195v-197v</locus>
+                     <note>Fragment beginning:</note>
+                     <incipit xml:lang="he">שאלני חכם אחד מחכמי האומות אם אליכם[!] בחר בכם ואתם גוי קדוש</incipit>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 197v</locus>
+                     <note>Fragment beginning:</note>
+                     <incipit xml:lang="he">פרק. והאיש משה עניו מאד</incipit>
+                  </msItem>
+                  <msItem>
+                     <locus>ff. 198v-209r</locus>
+                     <title>Notes on Aggadic passages.</title>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 209r-v</locus>
+                     <note>Fragment beginning:</note>
+                     <incipit xml:lang="he">שלשה נקראו טוב ונקראו בשבעים שמות</incipit>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 209v</locus>
+                     <note>Poem in seven lines starting:</note>
+                     <incipit xml:lang="he">גזרת ספיר לא האפילה</incipit>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 210r</locus>
+                     <note>Inscription starting:</note>
+                     <incipit xml:lang="he">אני שר שלום בן נחמו החזן</incipit>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 210v</locus>
+                     <note>Inscription starting:</note>
+                     <incipit xml:lang="he">עדות שהיתה בפנינו</incipit>
+                  </msItem>
+                  <msItem>
+                     <locus>f. 211r</locus>
+                     <msItem><note>Inscription starting:</note>
+                     <incipit xml:lang="he">עדות שהיתה בפנינו</incipit></msItem>
+                     <msItem><incipit xml:lang="he">עדות שהיתה לפנינו</incipit>
+                  </msItem>
+                     <msItem><incipit xml:lang="he">העתקתי כפי להרבני הדיין החסיד מ' מאיר בן מ' מיכל בק"ק שארנג דבאם יודפס הספר ההיא בחיי א"א לשלוח לו ספר אחד בחנם מהם</incipit></msItem>
+                     <msItem><incipit xml:lang="he">ה הספר שלי נאם מרדכי בן נחמו החזן</incipit>
+                  </msItem>
+                     <msItem><note>Poem in six lines starting:</note><incipit>הן יהודא</incipit></msItem></msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>ff. 211<dimensions unit="mm" type="leaf">
+                              <height>245-260</height>
+                              <width>160-180</width>
+                           </dimensions>
+                           <dimensions unit="mm" type="text">
+                              <height>190-195</height>
+                              <width>125-130</width>
+                           </dimensions>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals.</foliation>
+
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout/>
+                     </layoutDesc>
+                  </objectDesc>
+
+                  <handDesc>
+                     <handNote>Byzantine semi-cursive script.</handNote>
+
+                  </handDesc>
+
+
+
+               </physDesc>
+               <history>
+                  <origin><origPlace>[Byzantium]</origPlace>
+                     <origDate when="1300" calendar="Gregorian">ca. 1300.</origDate>
+                  </origin>
+
+                  <provenance>On ff. 210-211 there are several acquisition
+                     inscriptions:</provenance>
+                  <provenance> f. 210r: אני שר שלום ב"ר נחמו החזן זצ"ל מודה שמכרתי זה הספר הנקרא
+                     מדרש חכמות לבה"ר יוסף בן הקדוש ב'ר מרדכי ... פה בטראקי ביום ו לשבוע ח לחדש שבט
+                     בשנת ישמ"ח [שנ"ח =1598 ] ישראל בעושיו לפ"ק </provenance>
+                  <provenance> f. 210v: עדות שהיתה בפנינו אנו חתומי משה ביום חמישי לשבוע בחודש אדר
+                     שני בשבעה עשר יום בו שנת חמשת אלפים ותשעים שנה ליצירה [1330] איך בא שלומית בת
+                     שמריא עם כלתה מלכה ובנה שמואל והעידה זאת מלכה אשתו של אברהם בן שמריא כי מכרה
+                     ל..שלומית זה הספר מדרש החכמות שנשאר לה מאישה ר' אברהם במאה ועשרה כספי ... יוסף
+                     בן ר' שארית צבי יצחק בן אברהם עד' שמואל הכהן בן ר' אליא הכהן עד' אליא הכהן בן
+                     ר' שמואל הכהן עד' משה בן אברהם</provenance>
+                  <provenance> f.211r: עדות שהיתה בפנינו ...יוסף הכהן ב'ר שמואל הכהן עם לשומית בת
+                     יעקב אשת אבו ... וכתבו וחתמו ותנו לידי ר' שמואל ב'ר אברהם ... ומכרו ... לר'
+                     יהודה הכהן הספרדי ... משה הפרנס בן אליא עע, חזקיא הלוי בן אליא הלוי, יהודה ב'ר
+                     אליקים קוסטנדי עע</provenance>
+                  <provenance> f. 211v: [?]ין עדות שהיתה לפנינו אנו חותמי מיטה ביום רביעי לשבוע בחדש
+                     סיון בשבעה ועשרים יום בו שנת חמשת אלפים ומאה ותשע וארבעים שנה [1389] לבריאת
+                     העולם כפי המנין שאנו מונים בו פה בקהל קיריס איך כ"ר ישועה בכ"ר אברהם מכר ספר
+                     מדרש החכמות בחמשה וחמשים כספים לכ"ר יוסף בכ"ר יהודה קקרינו י"ל מכיה שלמה והגיעו
+                     הכספים מיד כ"ר יוסף הקונה ליד כ"ר ישועה המוכר מפרוטה ומעלה ומכירה זו קבל עליו
+                     ועל יורשיו אחריו ואשר יקום ויערער יהיו דברין כחרש הנשבר שאין בו תקנה וכל מה
+                     ששמענו מפי כ"ר ישועה הנזכר כתבנו וחתמנו וחזקנו כדי להיותו זכרות ליום אחרון שריר
+                     וקיים כ"ר יוסף בכ"ר אברהם צוה לחתום כ"ר ישראל בכ"ר אברהם נ' צוה לחתום ואני
+                     תולעת איש יהודה בן אליהו האדרינופוליטי נבתוי"א</provenance>
+                  <provenance> העתקתי[?] כפי להרבני הדיין החסיד מר[?] מאיר מר[?] מיכל בק"ק שאריג[?]
+                     דבאם יודפב הספר ההיא [!] בחיי א"א[?] לשלוח לו ספר אחד בחנם מהם</provenance>
+                  <provenance>זה הספר שלי נאם מרדכי במוה"ר נחמו החזן</provenance>
+                  <provenance>
+                     Previous owners:</provenance>
+                     <provenance>Malkah, widow of Abraham ben Shemarya’</provenance>
+                     <provenance>Shlomit bat Shemarya’</provenance>
+                     <provenance>Yeshu‘ah ben Avraham</provenance>
+                     <provenance>Yosef ben Yehudah</provenance>
+                     <provenance>Yosef ben Shemu’el ha-Kohen</provenance>
+                     <provenance>Shlomit bat Ya’aḳov</provenance>
+                     <provenance>Shemu’el ben Avraham</provenance>
+                     <provenance>Śar Shalom ben Naḥmu he-Ḥazan</provenance>
+                     <provenance>Yosef ben Mordekhai</provenance>
+                     <provenance>Mordekhai ben Naḥmu Ḥazan</provenance>
+                     <provenance>Michael, Heimann Joseph, 1792-1846</provenance>
+                  <acquisition>It belonged to the library of Heimann Joseph Michael (1792-1846),
+                     which was purchased en bloc (altogether 862 manuscript volumes) by the Bodleian
+                     Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on Catalogue of the Hebrew Manuscripts
+                           in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No.
+                           1321, Catalogue of the Hebrew manuscripts in the Bodleian Library;
+                           Supplement of Addenda and Corrigenda to Vol. I, No. 1321, and on the data
+                           of the Institute of Microfilmed Hebrew Manuscripts, National Library of
+                           Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm"> F 22135</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+
+                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian
+                        Library (Oxford, 1886), no. 1321.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
+                        manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to
+                        Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
+                        1321.</bibl>
+                  </listBibl>
+               </additional>
+
+
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change> </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

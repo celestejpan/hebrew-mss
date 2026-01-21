@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xml:id="manuscript_577">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Michael 568</title>
+
+            <respStmt xml:id="CMH">
+               <resp>Cataloguer</resp>
+               <persName>César Merchan-Hamann</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Michael_568</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <idno>MS. Michael 568</idno>
+                  <altIdentifier type="former">
+                     <idno><!-- insert or delete if not used --></idno>
+                  </altIdentifier>
+
+               </msIdentifier>
+               <msContents>
+                  <textLang mainLang="he">Hebrew</textLang>
+
+                  <msItem>
+                     <locus> ff. 1-200r </locus>
+                     <author key="person_316878946">Hezekiah ben Manoah, active 13th century.</author>
+                     <title>Ḥizḳuni (Commentary on the Pentateuch)</title>
+                     <title xml:lang="he">חזקוני</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="perg">
+                        <support>parchment</support>
+                        <extent>ff. 218<dimensions unit="mm" type="leaf">
+                              <height>300-305</height>
+                              <width>215-225</width>
+                           </dimensions>
+                           <dimensions unit="mm" type="text">
+                              <height>200-208</height>
+                              <width>130-135</width>
+                           </dimensions>
+                        </extent>
+                        <foliation>Foliation in Arabic numerals.</foliation>
+
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout/>
+                     </layoutDesc>
+                  </objectDesc>
+
+                  <handDesc>
+                     <handNote>Ashkenazi semi-cursive script. Ff. 215v-218v by a different
+                        hand.</handNote>
+
+                  </handDesc>
+
+
+               </physDesc>
+               <history>
+                  <origin><origPlace>[France]</origPlace>
+                     <origDate notAfter="1300" notBefore="1250" calendar="Gregorian">[second half of
+                        the 13th century].</origDate>
+                  </origin>
+                  <provenance>There are several acquisition inscriptions:</provenance>
+                  <provenance><locus>Third upper flyleaf recto:</locus> אליעזר בר מור"ר דוד
+                     סקוטל</provenance>
+                  <provenance><locus>f. 1r:</locus>זה הספר נפל ל[ור?]ל יצחק ב"ר שמואל
+                     ז"ל</provenance>
+                  <provenance><locus>f. 214v:</locus> זאת [!] הספר חזקוני קניתי מן מחותני וייש
+                     פאפינהיים בקניין גמור יום ד' ? חשון ת[מ?]ד [1683] לפ"ק נאים משה ב"ר יהודא פה
+                     איטינגי[ן]</provenance>
+                  <provenance>בני יהודא המכונא ליב נולד ביום ? ז אלול תנ"ב [1692] לפ"ק ... אברהם ...
+                     אלול תנ"ה [1695] ... בלומ[א?] ...</provenance>
+
+                  <provenance>Previous owners:</provenance>
+                  <provenance>Eli‘ezer ben Daṿid Sḳuṭal</provenance>
+                  <provenance>Heidenheim, Wolf, 1757-1832</provenance>
+                  <provenance> Michael, Heimann Joseph, 1792-1846 </provenance>
+                  <provenance>Yitsḥaḳ ben Shemu’el</provenance>
+                  <acquisition>It belonged to the library of Heimann Joseph Michael (1792-1846),
+                     which was purchased en bloc (altogether 862 manuscript volumes) by the Bodleian
+                     Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on Catalogue of the Hebrew Manuscripts
+                           in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No. 243,
+                           Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement
+                           of Addenda and Corrigenda to Vol. I, No. 243, and on the data of the
+                           Institute of Microfilmed Hebrew Manuscripts, National Library of Israel
+                           with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm"> F 16379</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+
+                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian
+                        Library (Oxford, 1886), no. 243.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
+                        manuscripts in the Bodleian Library; Supplement of Addenda and >Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press,
+                        1994), no. 243.</bibl>
+                     <bibl><title>Reshimat ha-sefarim asher hini’aḥ aḥaraṿ … Ṿolf Haidenhaim</title> [Hebrew]
+                        (Rödelheim, 1833). No. 17. </bibl>
+                  </listBibl>
+               </additional>
+
+
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change> </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>

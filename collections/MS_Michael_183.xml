@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
+   xml:id="manuscript_574">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Michael 183</title>
+
+            <respStmt xml:id="CMH">
+               <resp>Cataloguer</resp>
+               <persName>César Merchan-Hamann</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Michael_183</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <idno>MS. Michael 183</idno>
+                  <altIdentifier type="former">
+                     <idno>MS. Michael 553</idno>
+                  </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>MS. Michael 730</idno>
+                  </altIdentifier>
+
+               </msIdentifier>
+               <msContents>
+                  <textLang mainLang="he">Hebrew</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support>paper</support>
+                        <extent>ff. 214<dimensions unit="mm" type="leaf"><height>195-200</height>
+                              <width>155</width>
+                           </dimensions>
+                           
+                        </extent>
+                        <foliation>Foliation in Arabic numerals. Ff. 208-214 blank.</foliation>
+
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout/>
+                     </layoutDesc>
+                  </objectDesc>
+                
+
+               </physDesc>
+               <history>
+                  <provenance> Ḥayim ben K”h Yosef [Mikhl] (f. 134r), dated 3 Av [5]582, i.e., 21
+                     July 1822. </provenance>
+                  <provenance>Michael, Heimann Joseph, 1792-1846.</provenance>
+
+                  <acquisition>It belonged to the library of Heimann Joseph Michael (1792-1846),
+                     which was purchased en bloc (altogether 862 manuscript volumes) by the Bodleian
+                     Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on Catalogue of the Hebrew Manuscripts
+                           in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No.
+                           1572, Catalogue of the Hebrew manuscripts in the Bodleian Library;
+                           Supplement of Addenda and Corrigenda to Vol. I, No. 1572, and on the data
+                           of the Institute of Microfilmed Hebrew Manuscripts, National Library of
+                           Israel with additional enhancements by the cataloguer.</source>
+                     </recordHist>
+                  </adminInfo>
+                  <surrogates>
+                     <bibl>
+                        <idno n="MSS R.R. Film No." type="microfilm"> F 16940</idno>
+                     </bibl>
+                  </surrogates>
+                  <listBibl>
+
+                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian
+                        Library (Oxford, 1886), no. 1572.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
+                        manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to
+                        Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
+                        1572.</bibl>
+                     <bibl>Dan, Joseph, <title>Torat ha-Sod shel Ḥasidut Ashkenaz</title> (Jerusalem: Mossad
+                        Bialik, 1968), pp. 62-64.</bibl>
+                  </listBibl>
+               </additional>
+               <msPart>
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno>MS. Michael 183, fols 1-133</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem><locus>ff. 1-133</locus>
+                        <author key="person_301948260">Eleazar ben Judah, of Worms, approximately 1176-1238</author>
+                        <title>Sode Razaya’</title>
+                        <title xml:lang="he">סודי רזייא
+                           
+                        </title>
+                     </msItem>
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="codex">
+                        <supportDesc material="chart">
+                           <extent>  <dimensions unit="mm" type="text"><height>150-165</height><width>105-155</width></dimensions></extent></supportDesc></objectDesc></physDesc>
+                  <history>
+                     <origin><origPlace>[Ashkenaz]</origPlace><origDate when="1700"
+                           calendar="Gregorian">[ca. 1700]</origDate></origin>
+                  </history>
+                  
+               </msPart>
+               <msPart>
+                  <msIdentifier>
+                     <altIdentifier type="part">
+                        <idno>MS. Michael 183, fols 134-206</idno>
+                     </altIdentifier>
+                  </msIdentifier>
+                  <msContents>
+                     <msItem>
+                        <locus>ff. 134r-169r</locus>
+                        <author key="person_82152450">Emden, Jacob, 1697-1776</author>
+                        <title>Sefer Tsitsim u-feraḥim</title><title xml:lang="he">ציצים ופרחים</title>
+                        
+                        <note>Additions to <persName>Meir ben Judah Loeb Poppers'</persName> <title>Sefer Me’ore Or</title></note>
+                     </msItem>
+                    <msItem> <locus>ff. 169v-206v</locus>
+                       <author key="person_82152450">Emden, Jacob, 1697-1776</author>
+                       <title>Notes on the Zohar, Tiḳune ha-Zohar and the Zohar ḥadash</title>
+                       <title xml:lang="he">הגהות על הזהר, תיקוני הזהר וזהר חדש</title>
+                   
+                    </msItem> 
+                  </msContents>
+                  <physDesc>
+                     <objectDesc form="codex">
+                        <supportDesc material="chart">
+                           <extent>  <dimensions unit="mm" type="text"><height>195-200</height><width>155</width></dimensions></extent></supportDesc></objectDesc></physDesc>
+                  <history>
+                     <origin><origPlace>[Altona]</origPlace><origDate notBefore="1740"
+                           notAfter="1760" calendar="Gregorian">[mid-18th
+                        century]</origDate></origin>
+                  </history>
+                 
+               </msPart>
+
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change> </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>
