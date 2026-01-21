@@ -41,17 +41,17 @@
                   <idno>MS. Michael 571</idno>
                <altIdentifier type="other"><idno type="cat_no">1097</idno></altIdentifier></msIdentifier>
                <msContents>
-                  <summary>Siddur according to the French rite</summary>
+                  <summary>Siddur (Western Ashkenazi rite) with commentary</summary>
+                  <textLang mainLang="he">Hebrew</textLang>
                   <msItem>
-                     <title xml:lang="he">סדור מנהג צרפת</title>
-                     <title xml:lang="he-Latn-x-lc">Siddur minhag Tsarfat</title>
-                     <textLang mainLang="he">Hebrew</textLang>
+                     <title>Siddur</title>
+                     <title xml:lang="he">סדור</title>
                      <note>The comm. on the prayers and ḳinot on <locus>fols. 103v-125r</locus> is identical with the anonymous comm. in MS. Hamburg Staats- und Universitatsbibliothek, hebr. 17 (Cat. Steinschneider, no. 152), <locus>fols. 90v-105r</locus>, but the order of the liturgies is different.</note>
                   </msItem>                  
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
-                     <supportDesc>
+                     <supportDesc material="perg">
                         <support>parchment</support>
                         <extent>ff. 134</extent>
                      </supportDesc>
@@ -65,11 +65,12 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate>c.1288/9</origDate>
-                     <origPlace>Germany</origPlace>
+                     <origDate notAfter="1289" notBefore="1288" calendar="Gregorian">[c.
+                        1288/89]</origDate>
+                     <origPlace>[Germany]</origPlace>
                   </origin>
-                  <provenance>
-                  </provenance>
+                  <provenance> The manuscript is the first part of a three part work, which
+                     continues with MS. Michael 569 and MS. Michael 573. </provenance>
                   <acquisition>It belonged to the library of <persName key="person_17140230">Heimann Joseph Michael</persName> (1792-1846), which was purchased en bloc (altogether 862 volumes) by the Bodleian Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
                </history>
                <additional>
@@ -86,6 +87,7 @@
                   <surrogates>
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 17704</idno>
+                        <idno n="S.F. Or." type="microfilm">S.F. Or. 254</idno>
                      </bibl>
                   </surrogates>
                   <listBibl>
