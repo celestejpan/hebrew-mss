@@ -20,7 +20,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -39,37 +40,37 @@
                   <repository>Bodleian Library</repository>
                   <collection>Oppenheim Collection</collection>
                   <idno>MS. Oppenheim 338</idno>
-               <altIdentifier type="other">
-                  <idno type="cat_no">874</idno>
-               </altIdentifier>
-               <altIdentifier type="former">
-                  <idno>MS. Oppenheim 725</idno>
-               </altIdentifier>                  
+                  <altIdentifier type="other">
+                     <idno type="cat_no">874</idno>
+                  </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>MS. Oppenheim 725</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Sefer Mitsṿot Ḳaṭan by Isaac ben Joseph of Corbeil, and Sefer Tashbets by
+                     Samson ben Zadok</summary>
                   <msItem n="1">
-                     <locus>Fols. 1a-159b</locus>
+                     <locus>ff. 1r-159v</locus>
                      <title>The Small Book of Commandments</title>
                      <title xml:lang="he">ספר מצוות קטן</title>
                      <title xml:lang="he-Latn-x-lc">Sefer Mitsṿot Ḳaṭan</title>
-                  <author key="person_292205904">
-                     <persName>Isaac ben Joseph, of Corbeil, active 13th century</persName>
-                     <persName xml:lang="he">יצחק בן יוסף מקורביל</persName>
-                  </author>
+                     <author key="person_292205904">
+                        <persName>Isaac ben Joseph, of Corbeil, active 13th century</persName>
+                        <persName xml:lang="he">יצחק בן יוסף מקורביל</persName>
+                     </author>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="2">
-                     <locus>Fols. 160b-190b</locus>
-                     <title>The Small Crossword</title>
+                     <locus>ff. 160v-190v</locus>
                      <title xml:lang="he">תשב"ץ</title>
-                     <title xml:lang="he-Latn-x-lc">Tashba"ts</title>
+                     <title xml:lang="he-Latn-x-lc">Tashbets</title>
                      <author key="person_8698827">
                         <persName>Samson ben Zadok, -1312</persName>
                         <persName xml:lang="he">שמשון בן צדוק</persName>
                      </author>
                      <textLang mainLang="he">Hebrew</textLang>
-                  </msItem>                   
+                  </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
@@ -80,29 +81,61 @@
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic square script</summary>
-                     <handNote>The colophon at the end of no. 1, which is written in a micrographic disposition on <locus>fol. 155r</locus>, indicates only the scribe's name, <persName>Judah</persName>, which is frequently pointed out in the copied text (e.g. <locus>fols. 29r, 103v, 162v</locus>).</handNote>
+                     <handNote>The colophon at the end of no. 1, which is written in micrography on
+                           <locus>fol. 155r</locus>, indicates only the scribe's name,
+                           <persName>Yehudah</persName>, which is frequently pointed out in the
+                        copied text (e.g. <locus>fols. 29r, 103v, 162v</locus>).</handNote>
                   </handDesc>
 
                </physDesc>
                <history>
                   <origin>
-                     <origDate>late 13th century?</origDate>
-                     <note>The codicological features (the tpye of parchment as well as the technique of pricking and ruling) match late 13th-cent. dating, which is contradicted by the 1384 date of the second letter of divorce on <locus>fol. 68r</locus> (in addition to the first letter of divorce on <locus>fol. 67v</locus>, dated 1284). But since both letters share the same place of writing and the same date, apart from the extra century in the second one, this might well have been added by mistake.</note>
-                     <origPlace>France?</origPlace>
+                     <origDate when="1284">[ca. 1284]</origDate>
+                     <note>The first letter of divorce on <locus>f. 67v</locus> is dated 1284. The
+                        paleographical and codicological features are consistent with a
+                        late-13th-century dating; the 1384 date of the second letter of divorce on
+                           <locus>fol. 68r</locus> was presumably a mistake.</note>
+                     <origPlace>[France, probably Saint-Symphorien-d'Ozon (Rhône)]</origPlace>
+                     <note>This place name <foreign xml:lang="he">(שנשפורין מתא דיתבא על נהר
+                           אוזון)</foreign> is mentioned in the letters of divorce on <locus>ff.
+                           67v-68r</locus>.</note>
                   </origin>
-                  <provenance>
-                  </provenance>
-                  <acquisition>It belonged to David Oppenheimer's (1667-1735) library, which was purchased by the Bodleian Library in 1829.</acquisition>
+                  <provenance>There are numerous ownership inscriptions, including, on the binding,
+                     one by יוסף בן משה הלוי נקרא יוספא אשכנזי ציון; on the front flyleaf, the
+                     names משה בן יששכר בער and ישראל בן נחמן כ׳׳ץ; on <locus>f. 48r</locus>, the
+                     name <persName>Asher/Anshel ben Shelomoh Zalman Heilprin</persName> אשר/אנשל בן
+                     שלמה זלמן היילפרין. On <locus>f. 160r</locus>, Anshel ben Shelomoh's
+                     brother-in-law notes that he received the book from Anshel on the occasion of
+                     his marriage to Anshel's sister, Elka <foreign xml:lang="he">(עלקא)</foreign>;
+                     he subsequently recorded the birth of his children, including Roza <foreign
+                        xml:lang="he">(רוזה)</foreign> who was born in 1709 as the family was
+                     fleeing from the plague in the town of <foreign xml:lang="he">'ליסא'</foreign>,
+                     probably Leszno (German: Lissa) in western Poland. There are further registers
+                     of births by earlier owners dated between 1530 and 1547 at the beginning of the
+                     manuscript. On the back flyleaf, there is another note stating that
+                     the manuscript was in the posession of מורינו הרב מהורר׳ ליב.</provenance>
+                  <acquisition>It belonged to David Oppenheimer's (1667-1735) library, which was
+                     purchased by the Bodleian Library in 1829.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
-                           <ref>No. 874</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
-                                 <ref>No. 874</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref>No. 874</ref>, <title>Catalogue of the Hebrew
+                              manuscripts in the Bodleian Library; Supplement of Addenda and
+                              Corrigenda to Vol. I,</title>
+                           <ref>No. 874</ref>, and on the data of the Institute of Microfilmed
+                           Hebrew Manuscripts, National Library of Israel with additional
+                           enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -111,14 +144,18 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 874.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 874.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
+                           the Bodleian Library</hi> (Oxford, 1886), no. 874.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
+                           Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                           Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                        Press, 1994), no. 874.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      </teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>
