@@ -82,9 +82,12 @@
                   <handDesc>
                      <summary>Ashkenazic square script</summary>
                      <handNote>The colophon at the end of no. 1, which is written in micrography on
-                           <locus>fol. 155r</locus>, indicates only the scribe's name,
+                           <locus>f. 155r</locus>, indicates only the scribe's name,
                            <persName>Yehudah</persName>, which is frequently pointed out in the
-                        copied text (e.g. <locus>fols. 29r, 103v, 162v</locus>).</handNote>
+                        copied text (e.g. <locus>fols. 29r, 103v, 162v</locus>). <note>Many of the
+                           enlarged initial words have not been executed and some of them have been
+                           added by a later hand.</note>
+                     </handNote>
                   </handDesc>
 
                </physDesc>
@@ -101,9 +104,9 @@
                            67v-68r</locus>.</note>
                   </origin>
                   <provenance>There are numerous ownership inscriptions, including, on the binding,
-                     one by יוסף בן משה הלוי נקרא יוספא אשכנזי ציון; on the front flyleaf, the
-                     names משה בן יששכר בער and ישראל בן נחמן כ׳׳ץ; on <locus>f. 48r</locus>, the
-                     name <persName>Asher/Anshel ben Shelomoh Zalman Heilprin</persName> אשר/אנשל בן
+                     one by יוסף בן משה הלוי נקרא יוספא אשכנזי ציון; on the front flyleaf, the names
+                     משה בן יששכר בער and ישראל בן נחמן כ׳׳ץ; on <locus>f. 48r</locus>, the name
+                        <persName>Asher/Anshel ben Shelomoh Zalman Heilprin</persName> אשר/אנשל בן
                      שלמה זלמן היילפרין. On <locus>f. 160r</locus>, Anshel ben Shelomoh's
                      brother-in-law notes that he received the book from Anshel on the occasion of
                      his marriage to Anshel's sister, Elka <foreign xml:lang="he">(עלקא)</foreign>;
@@ -112,8 +115,8 @@
                      fleeing from the plague in the town of <foreign xml:lang="he">'ליסא'</foreign>,
                      probably Leszno (German: Lissa) in western Poland. There are further registers
                      of births by earlier owners dated between 1530 and 1547 at the beginning of the
-                     manuscript. On the back flyleaf, there is another note stating that
-                     the manuscript was in the posession of מורינו הרב מהורר׳ ליב.</provenance>
+                     manuscript. On the back flyleaf, there is another note stating that the
+                     manuscript was in the posession of מורינו הרב מהורר׳ ליב.</provenance>
                   <acquisition>It belonged to David Oppenheimer's (1667-1735) library, which was
                      purchased by the Bodleian Library in 1829.</acquisition>
                </history>
