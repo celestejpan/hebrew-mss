@@ -37,7 +37,7 @@
                   <settlement>Oxford</settlement>
                   <institution>Oxford University</institution>
                   <repository>Bodleian Library</repository>
-                  <collection>Oppenheimer Collection</collection>
+                  <collection>Oppenheim Collection</collection>
                   <idno>MS. Oppenheim 340</idno>
                <altIdentifier type="other">
                   <idno type="cat_no">875</idno>
@@ -47,9 +47,9 @@
                </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary/>
+                  <summary>Halakhic and liturgical compendium</summary>
                   <msItem n="1">
-                     <locus>Fols. 1v-124r</locus>
+                     <locus>ff. 1v-124r</locus>
                      <title>The Small Book of Commandments</title>
                      <title xml:lang="he">ספר מצוות קטן</title>
                      <title xml:lang="he-Latn-x-lc">Sefer mitsṿot ḳatan</title>
@@ -59,18 +59,18 @@
                      </author>
                   </msItem>
                   <msItem n="2">
-                     <locus>Fols. 125v-131v</locus>
+                     <locus>ff. 125v-131v</locus>
                      <title>The Book of Awe</title>
                      <title xml:lang="he">ספר היראה</title>
                      <title xml:lang="he-Latn-x-lc">Sefer ha-Yirah</title>
                      <author key="person_25683756">
                         <persName>Jonah ben Abraham Gerondi, approximately 1200-1263</persName>
-                        <persName xml:lang="he">גירונדי, יונה בן אברהם</persName>
+                        <persName xml:lang="he">יונה בן אברהם גירונדי</persName>
                      </author>
                   </msItem>
                   <msItem n="3">
-                     <locus>Fols. 131v-151v</locus>
-                     <title>The Book of Hasidim</title>
+                     <locus>ff. 131v-151v</locus>
+                     <title>The Book of the Pious</title>
                      <title xml:lang="he">ספר חסידים</title>
                      <title xml:lang="he-Latn-x-lc">Sefer ḥasidim</title>
                      <author key="person_4155464786402041075">
@@ -79,28 +79,28 @@
                      </author>
                   </msItem>
                   <msItem n="4">
-                     <locus>Fols. 151r-154r</locus>
+                     <locus>ff. 151r-154r</locus>
                      <title>Prayers</title>
                      <title xml:lang="he">תפלות לאבלים, לחתנים ולמילה</title>
-                     <title xml:lang="he-Latn-x-lc">Tefilot le-'avilim, le-ḥatanim ṿele-milah</title>
+                     <title xml:lang="he-Latn-x-lc">Tefilot le-'avelim, le-ḥatanim ṿele-milah</title>
                      <author key="">
                         <persName/>
                         <persName xml:lang="he"/>
                      </author>
                   </msItem>
                   <msItem n="5">
-                     <locus>Fols. 155v-157v</locus>
+                     <locus>ff. 155v-157v</locus>
                      <title>Order of reading of the Torah</title>
                      <title xml:lang="he">סדר קריאת התורה במועדים</title>
-                     <title xml:lang="he-Latn-x-lc">Siddur ḳeri'at ha-Torah be-mo'edim</title>
+                     <title xml:lang="he-Latn-x-lc">Siddur ḳeri'at ha-Torah be-mo'adim</title>
                      <author key="">
                         <persName/>
                         <persName xml:lang="he"/>
                      </author>
                   </msItem>
                   <msItem n="6">
-                     <locus>Fols. 157v-171v</locus>
-                     <title type="desc">Banknote forms</title>
+                     <locus>ff. 157v-171v</locus>
+                     <title type="desc">Formulae for civil documents</title>
                      <title type="desc" xml:lang="he">טופסי שטרות</title>
                      <title type="desc" xml:lang="he-Latn-x-lc">Ṭofsey shetarot</title>
                      <textLang mainLang="he">Hebrew</textLang>
@@ -114,8 +114,8 @@
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <summary>Ashkenazic 'cursive' script</summary>
-                     <handNote>The scribe copied this for his personal use (colophon on <locus>fol. 157r</locus>.</handNote>
+                     <summary>Ashkenazic semi-cursive script</summary>
+                     <handNote>The scribe copied this for his personal use (colophon on <locus>f. 157r</locus>.</handNote>
                   </handDesc>
 
                </physDesc>
