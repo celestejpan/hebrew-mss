@@ -48,10 +48,10 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Sefer Mitsṿot Ḳaṭan by Isaac ben Joseph of Corbeil, and Sefer Tashbets by
-                     Samson ben Zadok</summary>
+                  <summary>Sefer Mitsṿot Ḳaṭan (SeMaK) by Isaac ben Joseph of Corbeil, and Sefer
+                     Tashbets by Samson ben Zadok</summary>
                   <msItem n="1">
-                     <locus>ff. 1r-159v</locus>
+                     <locus>ff. 1v-159v</locus>
                      <title>The Small Book of Commandments</title>
                      <title xml:lang="he">ספר מצוות קטן</title>
                      <title xml:lang="he-Latn-x-lc">Sefer Mitsṿot Ḳaṭan</title>
@@ -82,6 +82,9 @@
                         <support>parchment</support>
                         <extent>ff. 190</extent>
                      </supportDesc>
+                     <layoutDesc>
+                        <layout columns="2"/>
+                     </layoutDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic square script</summary>
@@ -93,7 +96,14 @@
                            added by a later hand.</note>
                      </handNote>
                   </handDesc>
-
+                  <decoDesc>
+                     <decoNote> Simple, abstract penwork decoration above chapter numbers and around
+                        catchwords, often formed from short, tick-like strokes; embellished
+                        descenders for letters at the bottom of the text block; near the end of the
+                        SeMaK, <hi rend="italic">carmen figuratum</hi> in the form of a pitcher on
+                           <locus>f. 154r</locus>, and two full-page abstract micrographical designs
+                        on <locus>ff. 154v, 155r.</locus></decoNote>
+                  </decoDesc>
                </physDesc>
                <history>
                   <origin>
