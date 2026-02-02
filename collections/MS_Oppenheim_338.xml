@@ -59,6 +59,8 @@
                         <persName>Isaac ben Joseph, of Corbeil, active 13th century</persName>
                         <persName xml:lang="he">יצחק בן יוסף מקורביל</persName>
                      </author>
+                     <note>With the annotations of <persName key="person_70348690">Perez ben Elijah,
+                           of Corbeil</persName> and a few other glosses.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="2">
@@ -69,6 +71,8 @@
                         <persName>Samson ben Zadok, -1312</persName>
                         <persName xml:lang="he">שמשון בן צדוק</persName>
                      </author>
+                     <note>With glosses by <persName key="person_70348690">Perez ben Elijah, of
+                           Corbeil</persName>.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                </msContents>
@@ -96,7 +100,10 @@
                      <origDate when="1284">[ca. 1284]</origDate>
                      <note>The first letter of divorce on <locus>f. 67v</locus> is dated 1284. The
                         paleographical and codicological features are consistent with a
-                        late-13th-century dating; the 1384 date of the second letter of divorce on
+                        late-13th-century dating; this dating is also supported by the fact that the
+                        colophon on <locus>f. 156r</locus> uses a formula for the living for
+                           <persName key="person_70348690">Perez ben Elijah, of Corbeil</persName>,
+                        who died around 1297. The 1384 date of the second letter of divorce on
                            <locus>fol. 68r</locus> was presumably a mistake.</note>
                      <origPlace>[France, probably Saint-Symphorien-d'Ozon (Rhône)]</origPlace>
                      <note>This place name <foreign xml:lang="he">(שנשפורין מתא דיתבא על נהר
@@ -153,6 +160,9 @@
                            Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
                            Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon
                         Press, 1994), no. 874.</bibl>
+                     <bibl>Galinsky, Judah D., <hi rend="italic">The Making of a Medieval
+                           Bestseller: Rabbi Isaac of Corbeil's Pillars of Exile and its
+                           Readers</hi> (Oxford University Press, 2025), pp. 114, 139-141.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
