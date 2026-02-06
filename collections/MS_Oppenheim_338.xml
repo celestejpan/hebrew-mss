@@ -53,8 +53,8 @@
                   <msItem n="1">
                      <locus>ff. 1v-159v</locus>
                      <title>The Small Book of Commandments</title>
-                     <title xml:lang="he">ספר מצוות קטן</title>
-                     <title xml:lang="he-Latn-x-lc">Sefer Mitsṿot Ḳaṭan</title>
+                     <title xml:lang="he" key="work_43">ספר מצוות קטן</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_43">Sefer Mitsṿot Ḳaṭan</title>
                      <author key="person_292205904">
                         <persName>Isaac ben Joseph, of Corbeil, active 13th century</persName>
                         <persName xml:lang="he">יצחק בן יוסף מקורביל</persName>
@@ -65,8 +65,8 @@
                   </msItem>
                   <msItem n="2">
                      <locus>ff. 160v-190v</locus>
-                     <title xml:lang="he">תשב"ץ</title>
-                     <title xml:lang="he-Latn-x-lc">Tashbets</title>
+                     <title xml:lang="he" key="work_389">תשב"ץ</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_389">Tashbets</title>
                      <author key="person_8698827">
                         <persName>Samson ben Zadok, -1312</persName>
                         <persName xml:lang="he">שמשון בן צדוק</persName>
