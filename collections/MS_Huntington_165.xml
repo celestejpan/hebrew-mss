@@ -50,16 +50,18 @@
                   </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Dalālat al-ḥā'irīn: in Arabic</summary>
+                  <summary>The Guide for the Perplexed: in Judeo-Arabic</summary>
                   <msItem>
-                     <title xml:lang="he">דלאלה אלחאירין: בערבית</title>
-                     <title xml:lang="he-Latn-x-lc">Dalālat al-ḥā'irīn : be-'aravit</title>
+                     <title xml:lang="he" key="work_67">דלאלה אלחאירין</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_67">Dalālat al-ḥā'irīn (Guide for the
+                        Perplexed)</title>
                      <author key="person_100185495">
                         <persName>Moses ben Maimon, 1138-1204</persName>
                         <persName xml:lang="he">משה בן מימון, 1138-1204 </persName>
                      </author>
                      <textLang>Judeo-Arabic</textLang>
-                     <note><locus>between fols 65 and 66, </locus>three liturgical pieces in a modern hand</note>
+                     <note><locus>between ff. 65 and 66,</locus> a loose leaf containing three
+                        liturgical poems in a modern hand</note>
                   </msItem>
                </msContents>
                <physDesc>
@@ -72,19 +74,21 @@
                   <handDesc>
                      <summary> Yemenite semi-square script</summary>
                      <handNote> Written and collated by <persName>Joseph ben Saadiah ben Samuel
-                           Themani</persName>, finished in the month of Av (no year). </handNote>
+                           haThemani</persName>
+                        <persName xml:lang="he">יוסף בן סעדיה בן שמואל התימני</persName>, finished
+                        in the month of Av (no year). </handNote>
                   </handDesc>
 
                </physDesc>
                <history>
                   <origin>
                      <origDate>[15th century]</origDate>
-                     <origPlace>[Orient]</origPlace>
+                     <origPlace>[Orient, outside of Yemen]</origPlace>
                   </origin>
                   <provenance> </provenance>
                   <acquisition>It belonged to the oriental collection of <persName
                         ref="http://viaf.org/viaf/34684157" key="person_131">Robert
-                        Huntington</persName> (1636/7-1701), and was bought in 1693 together with
+                        Huntington</persName> (1637-1701), and was bought in 1693 together with
                      645 other MSS for £752 10s.</acquisition>
                </history>
                <additional>
