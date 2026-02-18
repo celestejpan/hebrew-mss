@@ -3,7 +3,14 @@
       <fileDesc>
          <titleStmt>
             <title/>
-            <respStmt xml:id="BW"><resp when="2024">Cataloguer</resp><name type="person">Benjamin Whittle</name></respStmt>
+            <respStmt xml:id="BW">
+               <resp when="2024">Cataloguer</resp>
+               <name type="person">Benjamin Whittle</name>
+            </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
@@ -16,7 +23,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -35,49 +43,93 @@
                   <repository>Bodleian Library</repository>
                   <collection>Michael Collection</collection>
                   <idno>MS. Michael 436</idno>
-               <altIdentifier type="other">
-                  <idno type="Neubauer">No. 1025</idno>
-               </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">No. 1025</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
                   <summary>Mahzor according to the Ashkenazi rite, for the whole year</summary>
                   <msItem>
-                     <title type="desc" xml:lang="he">מחזור מנהג אשכנז לכל השנה</title>
-                     <title type="desc" xml:lang="he-Latn-x-lc">Maḥzor minhag ashkenaz le-khol ha-shanah</title>
+                     <title type="desc" xml:lang="he" key="work_3330">מחזור מנהג אשכנז לכל
+                        השנה</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc" key="work_3330">Maḥzor minhag
+                        ashkenaz le-khol ha-shanah</title>
                      <textLang mainLang="he">Hebrew</textLang>
-                  </msItem>                  
+                     <note>Used by Daniel Goldschmidt in his edition of the High Holiday services
+                        (Jerusalem, 1970).</note>
+                  </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent>ff. 347</extent>
+                        <extent>ff. 340; <dim>342 x 260 mm</dim>;
+                           <note>between <locus>ff. 213v-214r</locus>, a small piece of parchment
+                              containing liturgical corrections in a fourteenth-century hand has
+                              been sewn to <locus>f. 213v</locus>.</note></extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic square script</summary>
-                     <handNote/>
+                     <handNote>
+                        <p>Vocalised by Yehudah <foreign xml:lang="he">יהודה</foreign>, who left a
+                           colophon on <locus>f. 159v</locus>.</p>
+                        <p>Throughout the manuscript, many liturgical additions in a
+                           fourteenth-century, non-calligraphic hand (writing in both square script
+                           and semi-cursive) belonging to an early owner, who signed his name,
+                           Yehudah ben Yerahmeel haKohen <foreign xml:lang="he">יהודה בן ירחמיאל
+                              הכהן</foreign>, on <locus>f. 9r</locus>. There are also later
+                           additions in the rites of Posen and Frankfurt.</p>
+                        <p><locus>ff. 40-43</locus> are by a later hand.</p></handNote>
                   </handDesc>
-
+                  <bindingDesc>
+                     <p>Light brown leather over thin paper boards.</p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
                      <origDate>[c. 1300]</origDate>
                      <origPlace>[Germany]</origPlace>
                   </origin>
-                  <provenance>
-                  </provenance>
-                  <acquisition>It belonged to the library of <persName key="person_17140230">Heimann Joseph Michael</persName> (1792-1846), which was purchased en bloc (altogether 862 volumes) by the Bodleian Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
+                  <provenance>On <locus>f. 168r</locus>, Meir ben Avraham haLevi <foreign
+                        xml:lang="he">מאיר בן אברהם הלוי</foreign> recorded the deaths of his family
+                     members, including that of his grandfather in 1519 in <foreign xml:lang="he"
+                        >ורידבורג</foreign> (most likely Friedberg in Hessen), and of his father in
+                     1559 in <foreign xml:lang="he">גלהויזן</foreign> (probably Gelnhausen in
+                     Hessen); there is also a record of the sale of the manuscript from Meir ben
+                     Avraham haLevi to <foreign xml:lang="he">מאיר ס׳׳ל</foreign> in 1555; the
+                     witness was Yitsik ben Shmuel haKohen <foreign xml:lang="he">יציק בן שמואל
+                        הכהן</foreign>. But if Meir ben Avraham already sold the manuscript in 1555,
+                     he would not have been able to record his father's death in it in 1559 (an
+                     honorific for the living is used for his father in the 1555 deed of sale,
+                     confirming that the date of the father's death was most likely correct); it is
+                     possible that the sale did not take place as planned.</provenance>
+                  <acquisition>It belonged to the library of <persName
+                        ref="http://viaf.org/viaf/17140230" key="person_17140230">Heimann Joseph
+                        Michael</persName>
+                     <date calendar="#Gregorian">(1792-1846)</date>, which was purchased en bloc
+                     (altogether 862 volumes) by the Bodleian Library in <date calendar="#Gregorian"
+                        >1848</date> through Messrs. Asher and Co. for £1030.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
-                           <ref>No. 1025</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
-                                 <ref>No. 1025</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref>No. 1025</ref>, <title>Catalogue of the
+                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                              Corrigenda to Vol. I,</title>
+                           <ref>No. 1025</ref>, and on the data of the Institute of Microfilmed
+                           Hebrew Manuscripts, National Library of Israel with additional
+                           enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -86,14 +138,18 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 1025.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1025.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
+                           the Bodleian Library</hi> (Oxford, 1886), no. 1025.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
+                           Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                           Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                        Press, 1994), no. 1025.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      </teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>

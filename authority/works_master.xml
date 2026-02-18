@@ -16,6 +16,28 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3330">
+               <title type="uniform">Mahzor according to the Ashkenazi rite</title>
+               <title type="variant">מחזור מנהג אשכנז לכל השנה</title>
+               <ref target="MS_Michael_436-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Michael_436.xml#MS_Michael_436-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3329">
+               <title type="uniform">Mahzor according the Western Ashkenazi rite for the High Holidays and Sukkot</title>
+               <title type="variant">מחזור מנהג אשכנז המערבי לימים נוראים ולסוכות</title>
+               <ref target="MS_Michael_433-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Michael_433.xml#MS_Michael_433-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3328">
+               <title type="uniform">Mahzor according to the North African (Algiers) rite for the High
+                  Holidays</title>
+               <title type="variant">מחזור מנהג צפון אפריקה (אלג׳יר) לימים נוראים</title>
+               <ref target="MS_Arch_Selden_sup_108-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Arch_Selden_sup_108.xml#MS_Arch_Selden_sup_108-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_2438">
                <title type="uniform">(ס' נח?)</title>
                <ref target="MS_Heb_c_18-part12-item1"/>

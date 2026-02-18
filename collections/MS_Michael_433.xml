@@ -3,7 +3,14 @@
       <fileDesc>
          <titleStmt>
             <title/>
-            <respStmt xml:id="BW"><resp when="2024">Cataloguer</resp><name type="person">Benjamin Whittle</name></respStmt>
+            <respStmt xml:id="BW">
+               <resp when="2024">Cataloguer</resp>
+               <name type="person">Benjamin Whittle</name>
+            </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
@@ -16,7 +23,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -35,49 +43,84 @@
                   <repository>Bodleian Library</repository>
                   <collection>Michael Collection</collection>
                   <idno>MS. Michael 433</idno>
-               <altIdentifier type="other">
-                  <idno type="Neubauer">No. 1040</idno>
-               </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">No. 1040</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Mahzor according the Western Ashkenazi rite for high holidays and Sukkot</summary>
+                  <summary>Mahzor according the Western Ashkenazi rite for the High Holidays and
+                     Sukkot</summary>
                   <msItem>
-                     <title type="desc" xml:lang="he">מחזור מנהג אשכנז המערבי לימים נוראים ולסוכות</title>
-                     <title type="desc" xml:lang="he-Latn-x-lc">Maḥzor minhag ashkenaz ha-maʻravi le-yamim noraim ṿele-sukkot</title>
+                     <title type="desc" xml:lang="he" key="work_3329">מחזור מנהג אשכנז המערבי לימים
+                        נוראים ולסוכות</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc" key="work_3329">Maḥzor minhag
+                        ashkenaz ha-maʻaravi le-yamim noraim ṿele-sukkot</title>
                      <textLang mainLang="he">Hebrew</textLang>
-                  </msItem>                  
+                  </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent>ff. 243</extent>
+                        <extent>ff. 243; <dim>336 x 270 mm</dim>; <note><locus>ff. 234-243</locus>
+                              were added from another manuscript and there is some overlap in
+                              content.</note></extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic square script</summary>
                      <handNote/>
                   </handDesc>
-
+                  <decoDesc>
+                     <decoNote>On <locus>f. 117r</locus>, the enlarged initial word <hi
+                           rend="italic">kol</hi>
+                        <foreign xml:lang="he">כל</foreign> from <hi rend="italic">kol nidrei</hi>
+                        <foreign xml:lang="he">כל נדרי</foreign> is decorated with monochrome
+                        penwork; the strokes of the letters enclose tiny quadrupeds and drgaons
+                        executed in the spared ground technique. </decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Light brown leather over thin paper boards.</p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
                      <origDate>[c. 1300]</origDate>
                      <origPlace>[Germany]</origPlace>
                   </origin>
-                  <provenance>
-                  </provenance>
-                  <acquisition>It belonged to the library of <persName key="person_17140230">Heimann Joseph Michael</persName> (1792-1846), which was purchased en bloc (altogether 862 volumes) by the Bodleian Library in 1848 through Messrs. Asher and Co. for £1030.</acquisition>
+                  <provenance>Owned by Zadok ben Yitsḥaḳ <foreign xml:lang="he">צדוק בן
+                        יצחק</foreign> of <foreign xml:lang="he">פערקיס</foreign>, who recorded the
+                     death of his mother in <date calendar="#Gregorian">1694</date> in
+                     Schlettstadt/Sélestat on <locus>f. 1r</locus>. On <locus>f. 144r</locus>, a
+                     small decorated ownership inscription by Avraham ben Shmuel <foreign
+                        xml:lang="he">אברהם בן שמואל</foreign> underneath an initial
+                     word.</provenance>
+                  <acquisition>It belonged to the library of <persName
+                        ref="http://viaf.org/viaf/17140230" key="person_17140230">Heimann Joseph
+                        Michael</persName>
+                     <date calendar="#Gregorian">(1792-1846)</date>, which was purchased en bloc
+                     (altogether 862 volumes) by the Bodleian Library in <date calendar="#Gregorian"
+                        >1848</date> through Messrs. Asher and Co. for £1030.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
-                           <ref>No. 1040</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
-                                 <ref>No. 1040</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref>No. 1040</ref>, <title>Catalogue of the
+                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                              Corrigenda to Vol. I,</title>
+                           <ref>No. 1040</ref>, and on the data of the Institute of Microfilmed
+                           Hebrew Manuscripts, National Library of Israel with additional
+                           enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -86,14 +129,18 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 1040.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1040.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
+                           the Bodleian Library</hi> (Oxford, 1886), no. 1040.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
+                           Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                           Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                        Press, 1994), no. 1040.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      </teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>

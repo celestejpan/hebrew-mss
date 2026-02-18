@@ -7,6 +7,10 @@
                <resp when="2024">Cataloguer</resp>
                <name type="person">Benjamin Whittle</name>
             </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
@@ -67,14 +71,19 @@
                         <support>paper</support>
                         <extent>ff. 20 <note>(<locus>F. i</locus> of this MS. was formerly <locus>f.
                                  38</locus> of <idno type="msID">MS Opp. Add. 4o 151</idno>, and was
-                              removed in 1967.)</note></extent>
-                        <condition>Some leaves are slightly damaged.</condition>
+                              removed in 1967);</note>
+                           <dim>223 x 165 mm</dim></extent>
+                        <condition>Some of the leaves are slightly damaged, which has resulted in
+                           some loss of text.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Oriental semi-cursive script</summary>
                      <handNote/>
                   </handDesc>
+                  <bindingDesc>
+                     <p>Dark red fine-grained leather over thin paper boards.</p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>

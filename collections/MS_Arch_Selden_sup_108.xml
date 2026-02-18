@@ -7,6 +7,10 @@
                <resp when="2024">Cataloguer</resp>
                <name type="person">Benjamin Whittle</name>
             </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
@@ -61,10 +65,6 @@
                      <note>Beginning with the liturgy <foreign xml:lang="he">אחות קטנה</foreign>,
                         headed <foreign xml:lang="he">פתיחה לערב ראש השנה</foreign>; the rest like
                         the Amsterdam edition of the Maḥzor of Algiers, published in 1685.</note>
-                     <note>Copied by <persName key="person_7041"> Nathan ben R. Samʻael
-                           Nono</persName>
-                        <persName xml:lang="he">נתן בן סמעאל נונו</persName>
-                     </note>
                      <colophon><foreign xml:lang="he">כתיבת ידי ... נתן בן ... ר' סמעאל נונו י"ץ
                            וכתבתיו בבית מדרשו של מורי ורבי הר' יוסף בהה"ר שלמה דוראן נר"ו ותהי
                            השלמתו יום רביעי שבעה עשר לחדש אלול שנת יהי שלום בחילך ש'ל'ו'ה' [=שמ"א]
@@ -75,13 +75,21 @@
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>paper</support>
-                        <extent>ff. 412</extent>
+                        <extent>ff. 412; <dim>84 x 117 mm;</dim>
+                           <note>the manuscript opens in landscape format.</note>
+                        </extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Sephardic semi-cursive script</summary>
-                     <handNote/>
+                     <handNote>Copied by <persName key="person_7041"> Nathan ben R. Samʻael
+                           Nono</persName>
+                        <persName xml:lang="he">נתן בן סמעאל נונו</persName>
+                     </handNote>
                   </handDesc>
+                  <bindingDesc>
+                     <p>Dark brown blind-tooled leather over thin paper boards.</p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
