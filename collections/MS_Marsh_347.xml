@@ -201,12 +201,12 @@
                     <additional>
                         <adminInfo>
                             <recordHist>
-                                <source>Manuscript description based on Catalogue of the Hebrew Manuscripts
+                                <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts
                                     in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No.
-                                    2133, Catalogue of the Hebrew manuscripts in the Bodleian Library;
-                                    Supplement of Addenda and Corrigenda to Vol. I, No. 2133, <title>Les écrivains
+                                    2133</bibl>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library;
+                                    Supplement of Addenda and Corrigenda to Vol. I, No. 2133</bibl>, <bibl><title>Les écrivains
                                         juifs français du XIVe siècle</title> by Ernest Renan, Paris 1893, pp. 415-416
-                                    [761-762]. and on the data of the Institute of Microfilmed Hebrew
+                                    [761-762]</bibl> and on the data of the Institute of Microfilmed Hebrew
                                     Manuscripts, National Library of Israel with additional enhancements by
                                     the cataloguer.</source>
                             </recordHist>
@@ -218,11 +218,8 @@
                         </surrogates>
                         <listBibl>
                             
-                            <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian
-                                Library (Oxford, 1886), no. 2133.</bibl>
-                            <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
-                                manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to
-                                Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
+                            <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), no. 2133.</bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
                                 2133.</bibl>
                             <bibl>Renan, Ernest. <title>Les écrivains juifs français du XIVe siècle</title> (Paris :
                                 Imprimerie nationale, 1893), pp. 415-416 [761-762]. </bibl>

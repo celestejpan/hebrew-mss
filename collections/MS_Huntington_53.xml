@@ -105,12 +105,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on Catalogue of the Hebrew Manuscripts
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts
                            in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No.
-                           1290, Catalogue of the Hebrew manuscripts in the Bodleian Library;
-                           Supplement of Addenda and Corrigenda to Vol. I, No. 1290, Benjamin
-                           Richler, ‘Ketuve-yad ʽivriyim she-nitfatselu’ Asufot 1 (1987), p. 124,
-                           Charles Touati, Les Guerres du Seigneur (1968), p. 33, and on the data of
+                           1290</bibl>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library;
+                           Supplement of Addenda and Corrigenda to Vol. I, No. 1290</bibl>, <bibl>Benjamin
+                           Richler, ‘Ketuve-yad ʽivriyim she-nitfatselu’ Asufot 1 (1987), p. 124</bibl>,
+                           <bibl>Charles Touati, Les Guerres du Seigneur (1968), p. 33</bibl>, and on the data of
                            the Institute of Microfilmed Hebrew Manuscripts, National Library of
                            Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
@@ -122,11 +122,8 @@
                   </surrogates>
                   <listBibl>
 
-                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian
-                        Library (Oxford, 1886), no. 1290.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
-                        manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to
-                        Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
+                     <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), no. 1290.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
                         1290.</bibl>
                      <bibl>Richler, Benjamin. ‘Ketuve-yad ʽivriyim she-nitfatselu’ Asufot 1 (1987),
                         pp. 105-158. </bibl>

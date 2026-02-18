@@ -138,12 +138,12 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on Catalogue of the Hebrew Manuscripts
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts
                            in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No.
-                           1237, Catalogue of the Hebrew manuscripts in the Bodleian Library;
-                           Supplement of Addenda and Corrigenda to Vol. I, No. 1237, . ‘An Unknown
+                           1237</bibl>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library;
+                           Supplement of Addenda and Corrigenda to Vol. I, No. 1237</bibl>,<bibl>‘An Unknown
                            Treatise on Suffering by Abū Al-Qāsim Al-Kirmānī’ (Hebrew) Jerusalem
-                           Studies in Jewish Thought 7 (1988) pp. 169-204 by Amos Goldreich, and on
+                           Studies in Jewish Thought 7 (1988) pp. 169-204 by Amos Goldreich</bibl>, and on
                            the data of the Institute of Microfilmed Hebrew Manuscripts, National
                            Library of Israel with additional enhancements by the
                            cataloguer.</source>
@@ -156,11 +156,8 @@
                   </surrogates>
                   <listBibl>
 
-                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian
-                        Library (Oxford, 1886), no. 1237.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
-                        manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to
-                        Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
+                     <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), no. 1237.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
                         1237.</bibl>
                      <bibl>Goldreich, Amos. ‘An Unknown Treatise on Suffering by Abū Al-Qāsim
                         Al-Kirmānī’ (Hebrew) <title>Jerusalem Studies in Jewish Thought</title> 7 (1988) pp.

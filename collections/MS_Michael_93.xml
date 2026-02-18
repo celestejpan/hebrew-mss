@@ -135,10 +135,10 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on Catalogue of the Hebrew Manuscripts
-                           in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No. 428,
-                           Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement
-                           of Addenda and Corrigenda to Vol. I, No. 428 and on the data of the
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts
+                           in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No. 428</bibl>,
+                           <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement
+                           of Addenda and Corrigenda to Vol. I, No. 428</bibl> and on the data of the
                            Institute of Microfilmed Hebrew Manuscripts, National Library of Israel
                            with additional enhancements by the cataloguer.</source>
                      </recordHist>
@@ -150,11 +150,8 @@
                   </surrogates>
                   <listBibl>
 
-                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian
-                        Library (Oxford, 1886), no. 428.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
-                        manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to
-                        Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
+                     <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), no. 428.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
                         428.</bibl>
                      <bibl>Abramson, Shraga. ‘Mahadurot Tosafot Shants le-Masekhet Eduyot’, <title>Sinai</title>
                         93, 1-2 (1983), pp. 25-38. </bibl>
