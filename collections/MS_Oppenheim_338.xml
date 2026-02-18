@@ -8,6 +8,10 @@
                <resp when="2024">Cataloguer</resp>
                <persName>Benjamin Whittle</persName>
             </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
@@ -53,8 +57,8 @@
                   <msItem n="1">
                      <locus>ff. 1v-159v</locus>
                      <title>The Small Book of Commandments</title>
-                     <title xml:lang="he">ספר מצוות קטן</title>
-                     <title xml:lang="he-Latn-x-lc">Sefer Mitsṿot Ḳaṭan</title>
+                     <title xml:lang="he" key="work_43">ספר מצוות קטן</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_43">Sefer Mitsṿot Ḳaṭan</title>
                      <author key="person_292205904">
                         <persName>Isaac ben Joseph, of Corbeil, active 13th century</persName>
                         <persName xml:lang="he">יצחק בן יוסף מקורביל</persName>
@@ -65,8 +69,8 @@
                   </msItem>
                   <msItem n="2">
                      <locus>ff. 160v-190v</locus>
-                     <title xml:lang="he">תשב"ץ</title>
-                     <title xml:lang="he-Latn-x-lc">Tashbets</title>
+                     <title xml:lang="he" key="work_389">תשב"ץ</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_389">Tashbets</title>
                      <author key="person_8698827">
                         <persName>Samson ben Zadok, -1312</persName>
                         <persName xml:lang="he">שמשון בן צדוק</persName>
@@ -92,8 +96,7 @@
                            <locus>f. 155r</locus>, indicates only the scribe's name,
                            <persName>Yehudah</persName>, which is frequently pointed out in the
                         copied text (e.g. <locus>fols. 29r, 103v, 162v</locus>). <note>Many of the
-                           enlarged initial words have not been executed and some of them have been
-                           added by a later hand.</note>
+                           enlarged initial words have not been executed as planned.</note>
                      </handNote>
                   </handDesc>
                   <decoDesc>
@@ -104,6 +107,10 @@
                            <locus>f. 154r</locus>, and two full-page abstract micrographical designs
                         on <locus>ff. 154v, 155r.</locus></decoNote>
                   </decoDesc>
+                  <bindingDesc>
+                     <p>Dark brown blind-tooled leather over wooden boards, rebacked with an
+                        alum-tawed skin in a quarter leather style.</p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
@@ -114,28 +121,28 @@
                         colophon on <locus>f. 156r</locus> uses a formula for the living for
                            <persName key="person_70348690">Perez ben Elijah, of Corbeil</persName>,
                         who died around 1297. The 1384 date of the second letter of divorce on
-                           <locus>fol. 68r</locus> was presumably a mistake.</note>
+                           <locus>fol. 68r</locus> was presumably a mistake</note>
                      <origPlace>[France, probably Saint-Symphorien-d'Ozon (Rhône)]</origPlace>
                      <note>This place name <foreign xml:lang="he">(שנשפורין מתא דיתבא על נהר
                            אוזון)</foreign> is mentioned in the letters of divorce on <locus>ff.
                            67v-68r</locus>.</note>
                   </origin>
-                  <provenance>There are numerous ownership inscriptions, including, on the binding,
-                     one by יוסף בן משה הלוי נקרא יוספא אשכנזי ציון; on the front flyleaf, the names
-                     משה בן יששכר בער and ישראל בן נחמן כ׳׳ץ; on <locus>f. 48r</locus>, the name
-                        <persName>Asher/Anshel ben Shelomoh Zalman Heilprin</persName> אשר/אנשל בן
-                     שלמה זלמן היילפרין. On <locus>f. 160r</locus>, Anshel ben Shelomoh's
-                     brother-in-law notes that he received the book from Anshel on the occasion of
-                     his marriage to Anshel's sister, Elka <foreign xml:lang="he">(עלקא)</foreign>;
-                     he subsequently recorded the birth of his children, including Roza <foreign
-                        xml:lang="he">(רוזה)</foreign> who was born in 1709 as the family was
-                     fleeing from the plague in the town of <foreign xml:lang="he">'ליסא'</foreign>,
-                     probably Leszno (German: Lissa) in western Poland. There are further registers
-                     of births by earlier owners dated between 1530 and 1547 at the beginning of the
-                     manuscript. On the back flyleaf, there is another note stating that the
-                     manuscript was in the posession of מורינו הרב מהורר׳ ליב.</provenance>
-                  <acquisition>It belonged to David Oppenheimer's (1667-1735) library, which was
-                     purchased by the Bodleian Library in 1829.</acquisition>
+                  <provenance>There are numerous ownership inscriptions throughout the manuscript
+                     including, on <locus>f. 48r</locus>, the name <persName>Asher/Anshel ben
+                        Shelomoh Zalman Heilprin</persName> אשר/אנשל בן שלמה זלמן היילפרין. On
+                        <locus>f. 160r</locus>, Anshel ben Shelomoh's brother-in-law notes that he
+                     received the book from Anshel on the occasion of his marriage to Anshel's
+                     sister, Elka <foreign xml:lang="he">(עלקא)</foreign>; he subsequently recorded
+                     the birth of his children, including Roza <foreign xml:lang="he"
+                        >(רוזה)</foreign> who was born in 1709 as the family was fleeing from the
+                     plague in the town of <foreign xml:lang="he">'ליסא'</foreign>, probably Leszno
+                     (German: Lissa) in western Poland. There are further registers of births by
+                     earlier owners dated between 1530 and 1547 at the beginning of the
+                     manuscript.</provenance>
+                  <acquisition>It belonged to <persName ref="https://viaf.org/viaf/7753200"
+                        key="person_7753200">David ben Abraham Oppenheim</persName>'s <date
+                        calendar="#Gregorian">(1664-1736)</date> library, which was purchased by the
+                     Bodleian Library in <date calendar="#Gregorian">1829</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
