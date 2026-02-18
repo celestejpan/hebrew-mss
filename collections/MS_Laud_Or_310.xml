@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 310</idno><idno type="ieArk">ark:29072/x02r36tz406z</idno><idno type="crArk">ark:29072/x02b88qd28w5</idno>
-               <altIdentifier type="other"><idno type="Neubauer">No. 2031</idno></altIdentifier></msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">2031</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Mishpaṭe ha-Kokhavim (4-8)</summary>
                   <msItem xml:id="MS_Laud_Or_310-item1" n="1">
