@@ -136,7 +136,20 @@
             </div>
         </xsl:if>
     </xsl:template>
-
+    <xsl:template match="msDesc/msIdentifier/altIdentifier[@type='former' and child::idno[not(@subtype)]]">
+        <p>
+            <xsl:text>Former shelfmark: </xsl:text>
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+    
+    <xsl:template match="msDesc/msIdentifier/altIdentifier[@type='other' and child::idno[@type='Neubauer']]">
+        <p>
+            <xsl:text>Neubauer no: </xsl:text>
+            <xsl:apply-templates/>
+        </p>
+    </xsl:template>
+    
     <!-- Override function of bod:direction - Rails now strips style attributes.  TODO move to lib/msdesc2html.xsl -->
     <xsl:function name="bod:rtl" as="attribute()?">
         <xsl:param name="elem" as="element()?"/>
