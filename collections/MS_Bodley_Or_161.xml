@@ -45,11 +45,11 @@
                         <altIdentifier type="other">
                             <idno type="Neubauer">2020</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
+                        <altIdentifier type="internal">
                             <idno type="SCN">3728</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno type="uri">Uri 438</idno>
+                        <altIdentifier type="internal">
+                            <idno type="uri">438</idno>
                         </altIdentifier>
                         <altIdentifier type="former">
                             <idno>e Museo 71(262)</idno>

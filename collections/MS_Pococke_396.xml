@@ -46,11 +46,11 @@
                         <altIdentifier type="other">
                             <idno type="Neubauer">29</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
+                        <altIdentifier type="internal">
                             <idno type="SCN">5349</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno type="uri">Uri 14</idno>
+                        <altIdentifier type="internal">
+                            <idno type="uri">14</idno>
                         </altIdentifier>
                         <altIdentifier type="former">
                             <idno>Kennicott 6</idno>

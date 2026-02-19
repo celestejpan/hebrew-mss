@@ -45,14 +45,14 @@
                         <altIdentifier type="other">
                             <idno type="Neubauer">552</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
+                        <altIdentifier type="internal">
                             <idno type="SCN">8779</idno>
                         </altIdentifier>
                         <altIdentifier type="former">
                             <idno>MS. Bodl. 106 - NE.E.3.4</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno type="uri">Uri 203</idno>
+                        <altIdentifier type="internal">
+                            <idno type="uri">203</idno>
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>

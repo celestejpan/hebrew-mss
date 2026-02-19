@@ -45,14 +45,14 @@
                         <altIdentifier type="other">
                             <idno type="Neubauer">610</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
+                        <altIdentifier type="internal">
                             <idno type="SCN">3163</idno>
                         </altIdentifier>
                         <altIdentifier type="former">
                             <idno>MS. Arch. Selden A. infra 4</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno type="uri">Uri 200</idno>
+                        <altIdentifier type="internal">
+                            <idno type="uri">200</idno>
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>

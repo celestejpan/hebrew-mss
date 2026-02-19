@@ -45,11 +45,11 @@
                         <altIdentifier type="other">
                             <idno type="Neubauer">1153</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
+                        <altIdentifier type="internal">
                             <idno type="SCN"/>
                         </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno type="uri">Uri 303</idno>
+                        <altIdentifier type="internal">
+                            <idno type="uri">303</idno>
                         </altIdentifier>
                         <altIdentifier type="former">
                             <idno>Bodley Or. 1</idno>

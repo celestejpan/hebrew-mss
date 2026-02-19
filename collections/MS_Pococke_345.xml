@@ -45,11 +45,11 @@
                         <altIdentifier type="other">
                             <idno type="Neubauer">1236</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
+                        <altIdentifier type="internal">
                             <idno type="SCN">5422</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno type="uri">Uri 320</idno>
+                        <altIdentifier type="internal">
+                            <idno type="uri">320</idno>
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
