@@ -1,8 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_479">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title />
+            <title/>
             <respStmt xml:id="BW">
                <resp when="2024">Cataloguer</resp>
                <name type="person">Benjamin Whittle</name>
@@ -23,14 +24,11 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref
-                                target="http://www.bodleian.ox.ac.uk/libraries/collections"
-                            >Bodleian
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
                         Library</ref>
                   </addrLine>
                   <addrLine>
-                     <email
-                            >specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
                   </addrLine>
                </address>
             </pubPlace>
@@ -51,25 +49,15 @@
                </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary
-                        >Mahzor according to the Western Ashkenazi rite for the whole
+                  <summary>Mahzor according to the Western Ashkenazi rite for the whole
                      year</summary>
                   <msItem>
-                     <title
-                                type="desc"
-                                xml:lang="he"
-                                key="work_221"
-                            >מחזור מנהג אשכנז המערבי לכל
+                     <title type="desc" xml:lang="he" key="work_221">מחזור מנהג אשכנז המערבי לכל
                         השנה</title>
-                     <title
-                                type="desc"
-                                xml:lang="he-Latn-x-lc"
-                                key="work_221"
-                            >Maḥzor minhag
+                     <title type="desc" xml:lang="he-Latn-x-lc" key="work_221">Maḥzor minhag
                         Ashkenaz ha-maʻaravi le-khol ha-shanah</title>
                      <textLang mainLang="he">Hebrew</textLang>
-                     <note
-                            >Used for variants in Daniel Goldschmidt's edition of the High Holiday
+                     <note>Used for variants in Daniel Goldschmidt's edition of the High Holiday
                         services (Jerusalem, 1970).</note>
                   </msItem>
                </msContents>
@@ -82,27 +70,17 @@
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic square script</summary>
-                     <handNote
-                            >Copied by Shlomoh ben Shimon haSofer haHazan <foreign
-                                    xml:lang="he"
-                                >שלמה בן שמעון הסופר החזן</foreign> (colophon on <locus
-                                >f. 396v</locus>);
-                           <locus
-                                >ff. 375v-381v and 397r-400v</locus> are by another
+                     <handNote>Copied by Shlomoh ben Shimon haSofer haHazan <foreign xml:lang="he">שלמה בן שמעון הסופר החזן</foreign> (colophon on <locus>f. 396v</locus>);
+                           <locus>ff. 375v-381v and 397r-400v</locus> are by another
                         hand.</handNote>
                   </handDesc>
                   <decoDesc>
-                     <decoNote
-                            >A few initial words are decorated with penwork; some of these,
-                        including <locus
-                                >ff. 19r, 99v, 252v, 312v,</locus> are coloured with a light
+                     <decoNote>A few initial words are decorated with penwork; some of these,
+                        including <locus>ff. 19r, 99v, 252v, 312v,</locus> are coloured with a light
                         yellow wash. The catchwords are embellished with monochrome penwork animal,
-                        vegetal or abstract motifs. On <locus
-                                >f. 375v</locus>, within the portion of
+                        vegetal or abstract motifs. On <locus>f. 375v</locus>, within the portion of
                         the manuscript that has been copied by a different scribe, the initial word
-                           <foreign
-                                    xml:lang="he"
-                                >אאמיץ</foreign> is decorated with much more
+                           <foreign xml:lang="he">אאמיץ</foreign> is decorated with much more
                         intricate penwork and coloured with light washes in red and
                         green.</decoNote>
                   </decoDesc>
@@ -115,72 +93,46 @@
                      <origDate>[late 13th cent.]</origDate>
                      <origPlace>[Germany]</origPlace>
                   </origin>
-                  <provenance>On both sides of <locus
-                            >f. 1</locus>, numerous ownership inscriptions
-                     including those of Asher ben Israel Yosef Yitsḥaḳ from Eggingen <foreign
-                                xml:lang="he"
-                            >אנשיל בן ישראל יוסף יצחק דעקינגן</foreign>, and of Eliezer ben
-                     Asher Oppenheim <foreign
-                                xml:lang="he"
-                            >אליעזר בן אשר אופנהיים</foreign> and his
+                  <provenance>On both sides of <locus>f. 1</locus>, numerous ownership inscriptions
+                     including those of Asher ben Israel Yosef Yitsḥaḳ from Eggingen <foreign xml:lang="he">אנשיל בן ישראל יוסף יצחק דעקינגן</foreign>, and of Eliezer ben
+                     Asher Oppenheim <foreign xml:lang="he">אליעזר בן אשר אופנהיים</foreign> and his
                      sons, Yehudah, Shlomoh, Simeon and Asher ben Eliezer Oppenheim and possibly
                      also a grandson who was also called Eliezer ben Asher Oppenheim.</provenance>
-                  <acquisition>It belonged to <persName
-                                ref="https://viaf.org/viaf/7753200"
-                                key="person_7753200"
-                            >David ben Abraham Oppenheim</persName>'s <date
-                                calendar="#Gregorian"
-                            >(1664-1736)</date> library, which was purchased by the
-                     Bodleian Library in <date
-                                calendar="#Gregorian"
-                            >1829</date>.</acquisition>
+                  <acquisition>It belonged to <persName ref="https://viaf.org/viaf/7753200" key="person_7753200">David ben Abraham Oppenheim</persName>'s <date calendar="#Gregorian">(1664-1736)</date> library, which was purchased by the
+                     Bodleian Library in <date calendar="#Gregorian">1829</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <title
-                                    >Catalogue of the Hebrew
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
                               Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
-                           Neubauer, Oxford 1886, <ref>No. 1029</ref>, <title
-                                    >Catalogue of the
+                           Neubauer, Oxford 1886, <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=163">No. 1029</ref>, <title>Catalogue of the
                               Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
                               Corrigenda to Vol. I,</title>
-                           <ref
-                                    >No. 1029</ref>, and on the data of the Institute of Microfilmed
+                           <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=137">No. 1029</ref>, and on the data of the Institute of Microfilmed
                            Hebrew Manuscripts, National Library of Israel with additional
                            enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p
-                                >Entry to read in the Library is permitted only on presentation of a valid
-                           reader's card (for admissions procedures contact <ref
-                                        target="http://www.bodleian.ox.ac.uk/services/admissions/"
-                                    >Bodleian
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
                               Admissions</ref>). Contact
-                              <email
-                                    >specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
                            further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
                      <bibl>
-                        <idno
-                                    n="MSS R.R. Film No."
-                                    type="microfilm"
-                                >F 22615</idno>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 22615</idno>
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi
-                                    rend="italic"
-                                >Catalogue of the Hebrew Manuscripts in
-                           the Bodleian Library</hi> (Oxford, 1886), no. 1029.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi
-                                    rend="italic"
-                                >Catalogue of the
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
+                           the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=163">no. 1029.</ref></bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
                            Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
                            Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon
-                        Press, 1994), no. 1029.</bibl>
+                        Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=137">no. 1029.</ref></bibl>
                   </listBibl>
                </additional>
             </msDesc>
@@ -189,8 +141,7 @@
    </teiHeader>
    <text>
       <body>
-         <p
-            ><!--Body paragraph provided for validation and future transcription--></p>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
       </body>
    </text>
 </TEI>

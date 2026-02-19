@@ -116,11 +116,11 @@
                                 <source> Manuscript description based on <bibl>Catalogue of the
                                         Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
                                         Neubauer, Oxford 1886, </bibl>
-                                    <ref facs="bej0302.jpg">No.
+                                    <ref facs="bej0302.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=503">No.
                                         2527 </ref>, <bibl>Catalogue of the Hebrew manuscripts in the
                                         Bodleian Library; Supplement of Addenda and Corrigenda to
                                         Vol. I, </bibl>
-                                    <ref facs="beo0491.jpg">No. 2527</ref>, and
+                                    <ref facs="beo0491.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=302">No. 2527</ref>, and
                                     on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000128598&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
                                     Library of Israel with additional enhancements by the
                                     cataloguer. </source>
@@ -145,12 +145,12 @@
                         </surrogates>
                         <listBibl>
                             <bibl>Neubauer, Adolf. <hi rend="italic">Catalogue of the Hebrew
-                                    Manuscripts in the Bodleian Library</hi> (Oxford 1886), no.
-                                2527.</bibl>
+                                    Manuscripts in the Bodleian Library</hi> (Oxford 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=503">no.
+                                2527.</ref></bibl>
                             <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
                                     of the Hebrew manuscripts in the Bodleian Library; Supplement of
                                     Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue).
-                                Oxford 1994. no. 2527.</bibl>
+                                Oxford 1994. <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=302">no. 2527.</ref></bibl>
                         </listBibl>
                     </additional>
                 </msDesc>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_352">
@@ -100,8 +100,8 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl> (<ref facs="bej0045.jpg bej0046.jpg">No. 117</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
-                           <ref facs="beo0063.jpg">No. 117</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl> (<ref facs="bej0045.jpg bej0046.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=45">No. 117</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                           <ref facs="beo0063.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=63">No. 117</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
@@ -114,9 +114,9 @@
                   </surrogates>
                   <listBibl>
                      <bibl>Kennicott, Benjamin, Dissertatio generalis in Vetus Testamentum Hebraicum: cum variis lectionibus, ex codicibus manuscriptis et impressis. Recudi curavit et notas adiecit Paulus Iacobus Bruns. Brunovici: Orphanotrophei, 1783.</bibl>
-                     <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), no. 117</bibl>
+                     <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=45">no. 117</ref></bibl>
                      <bibl>Cf. M.R. James, On the Abbey of St. Edmund at Bury (Cambridge: Cambridge Antiquarian Society, 1895), pp. 87-88, no. 268</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 117</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=63">no. 117</ref></bibl>
                      <bibl>Skemer, Don C. Binding Words: Textual Amulets in the Middle Ages (University Park, PA: Pennsylvania State University Press, 2006), 113 n116</bibl>
                      <bibl>Hillaby, Caroline, ed. The Palgrave Dictionary of Medieval Anglo-Jewish History (Basingstoke: Palgrave Macmillan, 2013), 70-71, fig. 3</bibl>
                   </listBibl>

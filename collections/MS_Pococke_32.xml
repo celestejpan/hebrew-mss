@@ -105,9 +105,9 @@
                                 <source> Manuscript description based on <bibl>Catalogue of the
                                         Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
                                         Neubauer, Oxford 1886, </bibl>
-                                    <ref facs="bej0051.jpg">No. 182</ref>, <bibl>Catalogue
+                                    <ref facs="bej0051.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=53">No. 182</ref>, <bibl>Catalogue
                                         of the Hebrew manuscripts in the Bodleian Library;
-                                        Supplement of Addenda and Corrigenda to Vol. I <ref facs="beo0069.jpg">No. 182. </ref>
+                                        Supplement of Addenda and Corrigenda to Vol. I <ref facs="beo0069.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=69">No. 182. </ref>
                                     </bibl> and on the
                                     data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000088070&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
                                     Library of Israel with additional enhancements by the
@@ -133,11 +133,11 @@
                         </surrogates>
                         <listBibl>
                             <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue  of the Hebrew Manuscripts in the
-                                Bodleian Library </hi>(Oxford,, 1886), no. 182.</bibl>
+                                Bodleian Library </hi>(Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=53">no. 182.</ref></bibl>
                             <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew
                                 manuscripts in the Bodleian Library; Supplement of Addenda and
                                 Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon
-                                Press, 1994), no. 182.</bibl>
+                                Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=69">no. 182.</ref></bibl>
                         </listBibl>
                     </additional>
                 </msDesc>

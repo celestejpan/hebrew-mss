@@ -96,11 +96,11 @@
                                 <source> Manuscript description based on <bibl>Catalogue of the
                                         Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
                                         Neubauer, Oxford 1886, </bibl>
-                                    <ref facs="bej0462.jpg bej0463.jpg">No.
+                                    <ref facs="bej0462.jpg bej0463.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=474">No.
                                         2422/5</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
                                         Bodleian Library; Supplement of Addenda and Corrigenda to
                                         Vol. I, </bibl>
-                                    <ref facs="beo0292.jpg beo0293.jpg">No. 2422/5</ref>, and
+                                    <ref facs="beo0292.jpg beo0293.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=292">No. 2422/5</ref>, and
                                     on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000099521&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
                                     Library of Israel with additional enhancements by the
                                     cataloguer. </source>
@@ -124,7 +124,7 @@
                             <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
                                     of the Hebrew manuscripts in the Bodleian Library; Supplement of
                                     Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
-                                (Oxford: Clarendon Press, 1994), no. 2422/5.</bibl>
+                                (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=292">no. 2422</ref>/5.</bibl>
                         </listBibl>
                     </additional>
                 </msDesc>

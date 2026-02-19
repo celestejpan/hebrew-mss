@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_217">
@@ -175,8 +175,8 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl> (<ref facs="bej0251.jpg bej0252.jpg">No. 1217</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
-                           <ref facs="beo0155.jpg">No. 1217</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000092847&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl> (<ref facs="bej0251.jpg bej0252.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=263">No. 1217</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                           <ref facs="beo0155.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=155">No. 1217</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000092847&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
@@ -188,7 +188,7 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), no. 1217.</bibl>
+                     <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=263">no. 1217.</ref></bibl>
                      <bibl>
                         <foreign xml:lang="he">נ’ שטיף, "פירוט רב", צייטשריפט (אינסטיטוט פאר ווייסרוסלענדישע קולטור, יידישע אפטיילונג), מינסק 1926, כרכים א, עמ’ 141-158, ב-ג (1928), עמ’ 525-54</foreign>
                      </bibl>
@@ -197,7 +197,7 @@
                      <bibl>
                         <foreign xml:lang="he">צפתמן,ש., הסיפורת ביידיש ... (ירושלים, תשמ"ה), 13-14 ‬</foreign>
                      </bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1217.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=155">no. 1217.</ref></bibl>
                      <bibl>Turniansky, Chava and Erika Timm, ed. Yiddish in Italia: Yiddish manuscripts and printed books from the 15th to the 17th century (Milano: Associazione italiana Amici dell'Università di Gerusalemme, 2003), 35.</bibl>
                      <bibl>Birnbaum, Salomo, "Specimens of Yiddish from Eight Centuries" Ein Leben für die Wissenschaft: Linguistik. 1, ed. Erika Timm (Berlin: Walter de Gruyter, 2011), 212-213.</bibl>
                   </listBibl>

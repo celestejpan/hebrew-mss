@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_436">
@@ -93,9 +93,9 @@
                   <adminInfo>
                      <recordHist>
                         <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs=".jpg">No. 1023</ref>
+                           <ref facs=".jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=157">No. 1023</ref>
                            <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
-                           <ref facs=".jpg">No. 1023</ref>
+                           <ref facs=".jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=136">No. 1023</ref>
                            <bibl>Database of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel</bibl>
                            <bibl>with additional enhancements by the cataloguer.</bibl>
                         </source>
@@ -110,9 +110,9 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), no. 1023.</bibl>
+                     <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=157">no. 1023.</ref></bibl>
                      <bibl>Metzger, Thérèse, and Mendel Metzger, <hi rend="italic">Jewish Life in the Middle Ages: Illuminated Hebrew Manuscripts of the Thirteenth to the Sixteenth Centuries</hi> (New York: Alpine Fine Arts Collection, 1982), p. 307</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1023.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=136">no. 1023.</ref></bibl>
                   </listBibl>
                </additional>
             </msDesc>

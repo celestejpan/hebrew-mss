@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_438">
@@ -60,8 +60,8 @@
                   <adminInfo>
                      <recordHist>
                         <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0266.jpg">No. 1306</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
-                           <ref facs="beo0164.jpg">No. 1306</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=directamp;doc_number=000093032amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                           <ref facs="bej0266.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=278">No. 1306</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                           <ref facs="beo0164.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=164">No. 1306</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=directamp;doc_number=000093032amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
@@ -73,12 +73,12 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 1306.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=278">no. 1306.</ref></bibl>
                      <bibl>
                         <foreign xml:lang="he">מ’ בניהו, כתבי הקבלה שלרמח"ל (ירושלים, תש"ל), עמק 156-157</foreign>
                      </bibl>
                      <bibl>Ruderman, David B. “The Receptivity of Jewish Thought to the New Astronomy of the Sixteenth and Seventeenth Centuries: The Case ofAbraham B. Hananiah Yagel", in <hi rend="italic">Jews in Italy. Studies Dedicated to the Memory of Umberto Cassuto</hi> (Jerusalem: Magnes, 1988), 73-93.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1306.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=164">no. 1306.</ref></bibl>
                      <bibl>Weinstein, Roni, "The Rise of the Body in Early Modern Jewish Society", in <hi rend="italic">The Jewish Body: Corporeality, Society, and Identity in the Renaissance and Early Modern Period</hi>, ed. Giuseppe Veltri and Maria Diemling (), 46-52.</bibl>
                   </listBibl>
                </additional>

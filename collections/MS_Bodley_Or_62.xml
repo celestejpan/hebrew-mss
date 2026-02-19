@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_77">
@@ -92,8 +92,8 @@
                   <adminInfo>
                      <recordHist>
                         <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0145.jpg">No. 88</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0135.jpg">No. 88</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000075726&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                           <ref facs="bej0145.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=43">No. 88</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0135.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=62">No. 88</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000075726&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
@@ -106,8 +106,8 @@
                   </surrogates>
                   <listBibl>
                      <bibl>Kennicott, Benjamin, <hi rend="italic">Dissertatio generalis in Vetus Testamentum Hebraicum: cum variis lectionibus, ex codicibus manuscriptis et impressis.</hi> Recudi curavit et notas adiecit Paulus Iacobus Bruns. Brunovici: Orphanotrophei, 1783.</bibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 88.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 88.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=43">no. 88.</ref></bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=62">no. 88.</ref></bibl>
                      <bibl>Judith Olszowy-Schlanger, "The knowledge and practice of Hebrew grammar among Christian scholars in pre-expulsion England: The evidence of 'bilingual' Hebrew–Latin manuscripts", in <hi rend="italic">Hebrew Scholarship and the Medieval World</hi>, ed. Nicholas de Lange (Cambridge: Cambridge University Press, 2001), 107-128.</bibl>
                      <bibl>Judith Olszowy-Schlanger, "“With that, you can grasp all the Hebrew language”: Hebrew sources of an anonymous Hebrew-Latin grammar from thirteenth-century England", in <hi rend="italic">A Universal Art. Hebrew Grammar across Disciplines and Faiths (Studies in Jewish History and Culture) by Nadia Vidro, Irene E. Zwiep and Judith Olszowy-Schlanger (Leiden: Brill, 2008), 177-195, esp. 182.</hi>
                      </bibl>

@@ -26,8 +26,7 @@
                         <settlement>Oxford</settlement>
                         <postCode>OX1 3BG</postCode>
                         <addrLine>
-                            <ref target="http://www.bodleian.ox.ac.uk/libraries/collections"
-                                >Bodleian Library</ref>
+                            <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
                         </addrLine>
                         <addrLine>
                             <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -218,9 +217,9 @@
                         </surrogates>
                         <listBibl>
                             
-                            <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), no. 2133.</bibl>
-                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
-                                2133.</bibl>
+                            <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=414">no. 2133.</ref></bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=254">no.
+                                2133.</ref></bibl>
                             <bibl>Renan, Ernest. <title>Les écrivains juifs français du XIVe siècle</title> (Paris :
                                 Imprimerie nationale, 1893), pp. 415-416 [761-762]. </bibl>
                         </listBibl>

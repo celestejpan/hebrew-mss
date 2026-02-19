@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_469">
@@ -52,8 +52,8 @@
                      <author key="person_21765128">Yitsḥaḳ ben Yosef, active 13th-14th century ישראלי, יצחק בן יוסף</author>
                      <note>Beginning and end wanting; lacunae. The chronological chapter (iv.18 of the edition) is to be found in the MS. at the end of iii. There are marginal notes added headed נ"א.</note>
                      <listBibl>
-                        <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), no. 2045.</bibl>
-                        <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2045.</bibl>
+                        <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=399">no. 2045.</ref></bibl>
+                        <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=244">no. 2045.</ref></bibl>
                      </listBibl>
                   </msItem>
                </msContents>
@@ -95,9 +95,9 @@
                <additional><surrogates><bibl type="digital-facsimile" subtype="full"><ref target="https://digital.bodleian.ox.ac.uk/objects/1b31feda-8e1e-4c3c-ac0b-86d6f3ce10a4/"><title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note></bibl></surrogates>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886 <ref facs="bej0387.jpg">No. 2045</ref>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. i, by Adolf Neubauer, Oxford 1886 <ref facs="bej0387.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=399">No. 2045</ref>
                            </bibl>
-                           <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I <ref facs="beo0244.jpg">No. 2045</ref>
+                           <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I <ref facs="beo0244.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=244">No. 2045</ref>
                            </bibl>
                            <bibl>Database of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel</bibl>
                            <bibl>with additional enhancements by the cataloguer.</bibl>

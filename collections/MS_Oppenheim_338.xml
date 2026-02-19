@@ -1,9 +1,9 @@
-<?xml version='1.0' encoding='UTF-8' ?>
+<?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_505">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title />
+            <title/>
             <respStmt xml:id="BW">
                <resp when="2024">Cataloguer</resp>
                <persName>Benjamin Whittle</persName>
@@ -24,14 +24,11 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref
-                                target="http://www.bodleian.ox.ac.uk/libraries/collections"
-                            >Bodleian
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
                         Library</ref>
                   </addrLine>
                   <addrLine>
-                     <email
-                            >specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                     <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
                   </addrLine>
                </address>
             </pubPlace>
@@ -55,42 +52,30 @@
                </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary
-                        >Sefer Mitsṿot Ḳaṭan (SeMaK) by Isaac ben Joseph of Corbeil, and Sefer
+                  <summary>Sefer Mitsṿot Ḳaṭan (SeMaK) by Isaac ben Joseph of Corbeil, and Sefer
                      Tashbets by Samson ben Zadok</summary>
                   <msItem n="1">
                      <locus>ff. 1v-159v</locus>
                      <title>The Small Book of Commandments</title>
                      <title xml:lang="he" key="work_43">ספר מצוות קטן</title>
-                     <title
-                                xml:lang="he-Latn-x-lc"
-                                key="work_43"
-                            >Sefer Mitsṿot Ḳaṭan</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_43">Sefer Mitsṿot Ḳaṭan</title>
                      <author key="person_292205904">
-                        <persName
-                                >Isaac ben Joseph, of Corbeil, active 13th century</persName>
+                        <persName>Isaac ben Joseph, of Corbeil, active 13th century</persName>
                         <persName xml:lang="he">יצחק בן יוסף מקורביל</persName>
                      </author>
-                     <note>With the annotations of <persName
-                                    key="person_70348690"
-                                >Perez ben Elijah,
+                     <note>With the annotations of <persName key="person_70348690">Perez ben Elijah,
                            of Corbeil</persName> and a few other glosses.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="2">
                      <locus>ff. 160v-190v</locus>
                      <title xml:lang="he" key="work_389">תשב"ץ</title>
-                     <title
-                                xml:lang="he-Latn-x-lc"
-                                key="work_389"
-                            >Tashbets</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_389">Tashbets</title>
                      <author key="person_8698827">
                         <persName>Samson ben Zadok, -1312</persName>
                         <persName xml:lang="he">שמשון בן צדוק</persName>
                      </author>
-                     <note>With glosses by <persName
-                                    key="person_70348690"
-                                >Perez ben Elijah, of
+                     <note>With glosses by <persName key="person_70348690">Perez ben Elijah, of
                            Corbeil</persName>.</note>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
@@ -102,144 +87,93 @@
                         <extent>ff. 190</extent>
                      </supportDesc>
                      <layoutDesc>
-                        <layout columns="2" />
+                        <layout columns="2"/>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic square script</summary>
-                     <handNote
-                            >The colophon at the end of no. 1, which is written in micrography on
-                           <locus
-                                >f. 155r</locus>, indicates only the scribe's name,
-                           <persName
-                                >Yehudah</persName>, which is frequently pointed out in the
-                        copied text (e.g. <locus
-                                >fols. 29r, 103v, 162v</locus>). <note
-                                >Many of the
+                     <handNote>The colophon at the end of no. 1, which is written in micrography on
+                           <locus>f. 155r</locus>, indicates only the scribe's name,
+                           <persName>Yehudah</persName>, which is frequently pointed out in the
+                        copied text (e.g. <locus>fols. 29r, 103v, 162v</locus>). <note>Many of the
                            enlarged initial words have not been executed as planned.</note>
                      </handNote>
                   </handDesc>
                   <decoDesc>
-                     <decoNote
-                            > Simple, abstract penwork decoration above chapter numbers and around
+                     <decoNote> Simple, abstract penwork decoration above chapter numbers and around
                         catchwords, often formed from short, tick-like strokes; embellished
                         descenders for letters at the bottom of the text block; near the end of the
-                        SeMaK, <hi
-                                    rend="italic"
-                                >carmen figuratum</hi> in the form of a pitcher on
-                           <locus
-                                >f. 154r</locus>, and two full-page abstract micrographical designs
+                        SeMaK, <hi rend="italic">carmen figuratum</hi> in the form of a pitcher on
+                           <locus>f. 154r</locus>, and two full-page abstract micrographical designs
                         on <locus>ff. 154v, 155r.</locus></decoNote>
                   </decoDesc>
                   <bindingDesc>
-                     <p
-                            >Dark brown blind-tooled leather over wooden boards, rebacked with an
+                     <p>Dark brown blind-tooled leather over wooden boards, rebacked with an
                         alum-tawed skin in a quarter leather style.</p>
                   </bindingDesc>
                </physDesc>
                <history>
                   <origin>
                      <origDate when="1284">[ca. 1284]</origDate>
-                     <note>The first letter of divorce on <locus
-                                >f. 67v</locus> is dated 1284. The
+                     <note>The first letter of divorce on <locus>f. 67v</locus> is dated 1284. The
                         paleographical and codicological features are consistent with a
                         late-13th-century dating; this dating is also supported by the fact that the
-                        colophon on <locus
-                                >f. 156r</locus> uses a formula for the living for
-                           <persName
-                                    key="person_70348690"
-                                >Perez ben Elijah, of Corbeil</persName>,
+                        colophon on <locus>f. 156r</locus> uses a formula for the living for
+                           <persName key="person_70348690">Perez ben Elijah, of Corbeil</persName>,
                         who died around 1297. The 1384 date of the second letter of divorce on
-                           <locus
-                                >fol. 68r</locus> was presumably a mistake</note>
-                     <origPlace
-                            >[France, probably Saint-Symphorien-d'Ozon (Rhône)]</origPlace>
-                     <note>This place name <foreign
-                                    xml:lang="he"
-                                >(שנשפורין מתא דיתבא על נהר
-                           אוזון)</foreign> is mentioned in the letters of divorce on <locus
-                                >ff.
+                           <locus>fol. 68r</locus> was presumably a mistake</note>
+                     <origPlace>[France, probably Saint-Symphorien-d'Ozon (Rhône)]</origPlace>
+                     <note>This place name <foreign xml:lang="he">(שנשפורין מתא דיתבא על נהר
+                           אוזון)</foreign> is mentioned in the letters of divorce on <locus>ff.
                            67v-68r</locus>.</note>
                   </origin>
-                  <provenance
-                        >There are numerous ownership inscriptions throughout the manuscript
-                     including, on <locus>f. 48r</locus>, the name <persName
-                            >Asher/Anshel ben
+                  <provenance>There are numerous ownership inscriptions throughout the manuscript
+                     including, on <locus>f. 48r</locus>, the name <persName>Asher/Anshel ben
                         Shelomoh Zalman Heilprin</persName> אשר/אנשל בן שלמה זלמן היילפרין. On
-                        <locus
-                            >f. 160r</locus>, Anshel ben Shelomoh's brother-in-law notes that he
+                        <locus>f. 160r</locus>, Anshel ben Shelomoh's brother-in-law notes that he
                      received the book from Anshel on the occasion of his marriage to Anshel's
-                     sister, Elka <foreign
-                                xml:lang="he"
-                            >(עלקא)</foreign>; he subsequently recorded
-                     the birth of his children, including Roza <foreign
-                                xml:lang="he"
-                            >(רוזה)</foreign> who was born in 1709 as the family was fleeing from the
-                     plague in the town of <foreign
-                                xml:lang="he"
-                            >'ליסא'</foreign>, probably Leszno
+                     sister, Elka <foreign xml:lang="he">(עלקא)</foreign>; he subsequently recorded
+                     the birth of his children, including Roza <foreign xml:lang="he">(רוזה)</foreign> who was born in 1709 as the family was fleeing from the
+                     plague in the town of <foreign xml:lang="he">'ליסא'</foreign>, probably Leszno
                      (German: Lissa) in western Poland. There are further registers of births by
                      earlier owners dated between 1530 and 1547 at the beginning of the
                      manuscript.</provenance>
-                  <acquisition>It belonged to <persName
-                                ref="https://viaf.org/viaf/7753200"
-                                key="person_7753200"
-                            >David ben Abraham Oppenheim</persName>'s <date
-                                calendar="#Gregorian"
-                            >(1664-1736)</date> library, which was purchased by the
-                     Bodleian Library in <date
-                                calendar="#Gregorian"
-                            >1829</date>.</acquisition>
+                  <acquisition>It belonged to <persName ref="https://viaf.org/viaf/7753200" key="person_7753200">David ben Abraham Oppenheim</persName>'s <date calendar="#Gregorian">(1664-1736)</date> library, which was purchased by the
+                     Bodleian Library in <date calendar="#Gregorian">1829</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <title
-                                    >Catalogue of the Hebrew
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
                               Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
-                           Neubauer, Oxford 1886, <ref>No. 874</ref>, <title
-                                    >Catalogue of the Hebrew
+                           Neubauer, Oxford 1886, <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=139">No. 874</ref>, <title>Catalogue of the Hebrew
                               manuscripts in the Bodleian Library; Supplement of Addenda and
                               Corrigenda to Vol. I,</title>
-                           <ref
-                                    >No. 874</ref>, and on the data of the Institute of Microfilmed
+                           <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=125">No. 874</ref>, and on the data of the Institute of Microfilmed
                            Hebrew Manuscripts, National Library of Israel with additional
                            enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p
-                                >Entry to read in the Library is permitted only on presentation of a valid
-                           reader's card (for admissions procedures contact <ref
-                                        target="http://www.bodleian.ox.ac.uk/services/admissions/"
-                                    >Bodleian
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
                               Admissions</ref>). Contact
-                              <email
-                                    >specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
                            further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
                      <bibl>
-                        <idno
-                                    n="MSS R.R. Film No."
-                                    type="microfilm"
-                                >F 21833</idno>
+                        <idno n="MSS R.R. Film No." type="microfilm">F 21833</idno>
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi
-                                    rend="italic"
-                                >Catalogue of the Hebrew Manuscripts in
-                           the Bodleian Library</hi> (Oxford, 1886), no. 874.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi
-                                    rend="italic"
-                                >Catalogue of the
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
+                           the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=139">no. 874.</ref></bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
                            Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
                            Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon
-                        Press, 1994), no. 874.</bibl>
-                     <bibl>Galinsky, Judah D., <hi
-                                    rend="italic"
-                                >The Making of a Medieval
+                        Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=125">no. 874.</ref></bibl>
+                     <bibl>Galinsky, Judah D., <hi rend="italic">The Making of a Medieval
                            Bestseller: Rabbi Isaac of Corbeil's Pillars of Exile and its
                            Readers</hi> (Oxford University Press, 2025), pp. 114, 139-141.</bibl>
                   </listBibl>
@@ -250,8 +184,7 @@
    </teiHeader>
    <text>
       <body>
-         <p
-            ><!--Body paragraph provided for validation and future transcription--></p>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
       </body>
    </text>
 </TEI>
