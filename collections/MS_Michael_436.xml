@@ -63,27 +63,34 @@
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent>ff. 340; <dim>342 x 260 mm</dim>;
-                           <note>between <locus>ff. 213v-214r</locus>, a small piece of parchment
-                              containing liturgical corrections in a fourteenth-century hand has
-                              been sewn to <locus>f. 213v</locus>.</note></extent>
+                        <extent>ff. 340; <dim>342 x 260 mm</dim>; <note>between <locus>ff.
+                                 213v-214r</locus>, a small piece of parchment containing liturgical
+                              corrections in a fourteenth-century hand has been sewn to <locus>f.
+                                 213v</locus>.</note></extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic square script</summary>
                      <handNote>
-                        <p>Vocalised by Yehudah <foreign xml:lang="he">יהודה</foreign>, who left a
-                           colophon on <locus>f. 159v</locus>.</p>
-                        <p>Throughout the manuscript, many liturgical additions in a
-                           fourteenth-century, non-calligraphic hand (writing in both square script
-                           and semi-cursive) belonging to an early owner, who signed his name,
-                           Yehudah ben Yerahmeel haKohen <foreign xml:lang="he">יהודה בן ירחמיאל
-                              הכהן</foreign>, on <locus>f. 9r</locus>. There are also later
-                           additions in the rites of Posen and Frankfurt.</p>
-                        <p><locus>ff. 40-43</locus> are by a later hand.</p></handNote>
+                        <p>Copied by a scribe named Jacob <foreign xml:lang="he">יעקב</foreign>, who
+                           pointed out this name in the text (<locus>ff. 7v, 46v, 64r, 83r,
+                              224v</locus>). Vocalised by Yehudah <foreign xml:lang="he"
+                              >יהודה</foreign>, who left a colophon on <locus>f. 159v</locus>, and
+                           who pointed out the words <hi rend="italic">Yehudah</hi> and <hi
+                              rend="italic">kohen</hi> in the text (see for example <locus>ff. 185r,
+                              247r, 267r, 270r</locus>).</p>
+                        <p>Throughout the manuscript there are various liturgical notes and
+                           additions, the majority of which were supplied by a fourteenth-century
+                           owner who signed his name, Yehudah ben Yerahmeel haKohen <foreign
+                              xml:lang="he">יהודה בן ירחמיאל הכהן</foreign>, on <locus>f.
+                           9r</locus>. Paleographical similarities suggest that this early owner was
+                           probably the same person as the vocaliser of the manuscript.</p>
+                        <p>There are also later additions in the rites of Posen (<locus>ff. 167r,
+                              180r</locus>) and Frankfurt (<locus>f. 127r</locus>).</p>
+                        <p><locus>ff. 40-43</locus> are replacements by a later hand.</p></handNote>
                   </handDesc>
                   <bindingDesc>
-                     <p>Light brown leather over thin paper boards.</p>
+                     <p>Golden-brown leather over paper boards.</p>
                   </bindingDesc>
                </physDesc>
                <history>
@@ -91,19 +98,21 @@
                      <origDate>[c. 1300]</origDate>
                      <origPlace>[Germany]</origPlace>
                   </origin>
-                  <provenance>On <locus>f. 168r</locus>, Meir ben Avraham haLevi <foreign
-                        xml:lang="he">מאיר בן אברהם הלוי</foreign> recorded the deaths of his family
-                     members, including that of his grandfather in 1519 in <foreign xml:lang="he"
-                        >ורידבורג</foreign> (most likely Friedberg in Hessen), and of his father in
-                     1559 in <foreign xml:lang="he">גלהויזן</foreign> (probably Gelnhausen in
-                     Hessen); there is also a record of the sale of the manuscript from Meir ben
-                     Avraham haLevi to <foreign xml:lang="he">מאיר ס׳׳ל</foreign> in 1555; the
-                     witness was Yitsik ben Shmuel haKohen <foreign xml:lang="he">יציק בן שמואל
-                        הכהן</foreign>. But if Meir ben Avraham already sold the manuscript in 1555,
-                     he would not have been able to record his father's death in it in 1559 (an
-                     honorific for the living is used for his father in the 1555 deed of sale,
-                     confirming that the date of the father's death was most likely correct); it is
-                     possible that the sale did not take place as planned.</provenance>
+                  <provenance>On <locus>f. 9r</locus>, ownership inscription by Yehudah ben
+                     Yerahmeel haKohen <foreign xml:lang="he">יהודה בן ירחמיאל הכהן</foreign>. On
+                        <locus>f. 168r</locus>, Meir ben Avraham haLevi <foreign xml:lang="he">מאיר
+                        בן אברהם הלוי</foreign> recorded the deaths of his family members, including
+                     that of his grandfather in 1519 in <foreign xml:lang="he">ורידבורג</foreign>
+                     (probably Friedberg in Hessen), and of his father in 1559 in <foreign
+                        xml:lang="he">גלהויזן</foreign> (probably Gelnhausen in Hessen); there is
+                     also a record of the sale of the manuscript from Meir ben Avraham haLevi to
+                        <foreign xml:lang="he">מאיר ס׳׳ל</foreign> in 1555; the witness was Yitsik
+                     ben Shmuel haKohen <foreign xml:lang="he">יציק בן שמואל הכהן</foreign>. But if
+                     Meir ben Avraham already sold the manuscript in 1555, he would not have been
+                     able to record his father's death in it in 1559 (an honorific for the living is
+                     used for his father in the 1555 deed of sale, confirming that the date of the
+                     father's death was most likely correct); it is possible that the sale did not
+                     take place as planned.</provenance>
                   <acquisition>It belonged to the library of <persName
                         ref="http://viaf.org/viaf/17140230" key="person_17140230">Heimann Joseph
                         Michael</persName>

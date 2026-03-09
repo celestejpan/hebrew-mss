@@ -73,7 +73,10 @@
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>Oriental laid paper (not Yemenite)</support>
-                        <extent>ff. 116; <dim>213 x 160 mm</dim></extent>
+                        <extent>ff. 116 <dimensions type="leaf" unit="mm">
+                              <height>206</height>
+                              <width>148</width>
+                           </dimensions></extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
@@ -92,7 +95,7 @@
                <history>
                   <origin>
                      <origDate>[15th century]</origDate>
-                     <origPlace>[Orient, outside of Yemen]</origPlace>
+                     <origPlace>[Orient, outside of Yemen (?)]</origPlace>
                   </origin>
                   <provenance> </provenance>
                   <acquisition>It belonged to the oriental collection of <persName
@@ -125,6 +128,8 @@
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 22057</idno>
                      </bibl>
+                     <bibl>                        <idno n="S.F. Or" type="microfilm"
+                        >748</idno>                     </bibl>
                   </surrogates>
                   <listBibl>
                      <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in

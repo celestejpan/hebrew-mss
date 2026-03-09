@@ -6454,7 +6454,7 @@
                 </person>
                 <person xml:id="person_386">
                     <persName type="display" xml:lang="he">רומן, יעקב בן יצחק אבן בקודה </persName>
-                    <persName type="variant">Jacob ben Isaac ibn Bakoda Roman</persName>
+                    <persName type="variant">Jacob ben Isaac ibn Baḳudah Roman</persName>
                     <persName type="variant" xml:lang="he">רומן, יעקב בן יצחק אבן בקודה
                         (בעלים)</persName>
                 </person>
@@ -6905,7 +6905,7 @@
                 </person>
                 <person xml:id="person_7041">
                     <persName type="display" xml:lang="he">נונו, נתן בן סמעאל</persName>
-                    <persName type="display">Nathan ben R. Samʻael Nono</persName>
+                    <persName type="display">Nathan ben R. Samʻaʾel Nono</persName>
                 </person>
                 <person xml:id="person_7042">
                     <persName type="display">Azariel ben Samuel Krotoschin</persName>
@@ -18281,6 +18281,22 @@
                 <person xml:id="person_4000">
                     <persName type="display">Paltiel b. Joseph</persName>
                     <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_66.xml -->
+                </person>
+                <person xml:id="person_7052">
+                    <persName type="display">Pococke, Edward, 1604-1691</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/41849535">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                </person>
+                <person xml:id="person_7053">
+                    <persName type="display">Abraham b. Tahur</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Pococke_96.xml -->
                 </person>
             </listPerson>
         </body>

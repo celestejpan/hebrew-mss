@@ -8,6 +8,10 @@
                <resp when="2024">Cataloguer</resp>
                <persName>Benjamin Whittle</persName>
             </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
@@ -20,7 +24,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -39,29 +44,40 @@
                   <repository>Bodleian Library</repository>
                   <collection>Pococke collection</collection>
                   <idno>MS. Pococke 96</idno>
-               <altIdentifier type="other">
-                  <idno type="cat_no">1225</idno>
-               </altIdentifier>
-               <altIdentifier type="other">
-                  <idno type="uri">313</idno>
-               </altIdentifier>
-               <altIdentifier type="other">
-                  <idno type="barnard">5388</idno>
-               </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="cat_no">1225</idno>
+                  </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="uri">313</idno>
+                  </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="barnard">5388</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>Theory of the duties of the heart: in Judeo-Arabic</summary>
+                  <summary>Guide to the duties of the heart: in Judeo-Arabic</summary>
                   <msItem>
-                     <title xml:lang="he">פראיץ אלקלוב : בערבית</title>
-                     <title xml:lang="he-Latn-x-lc">Faraits al-ḳalub: be-'Aravit</title>                     
-                  <author key="person_180286221">
-                     <persName>Baḥya ben Joseph ibn Paḳuda, active 11th century</persName>
-                     <persName xml:lang="he">בחיי בן יוסף אבן פקודה</persName> 
-                  </author>
+                     <title xml:lang="he" key="work_3332">כתאב אלהדאיה לפראיץ אלקלוב</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3332">Kitab al-hidaya le-faraits
+                        al-ḳalub</title>
+                     <author key="person_180286221">
+                        <persName>Baḥya ben Joseph ibn Paḳudah, active 11th century</persName>
+                        <persName xml:lang="he">בחיי בן יוסף אבן פקודה</persName>
+                     </author>
                      <textLang mainLang="he">Judeo-Arabic</textLang>
+                     <note/>
                      <note>Marginal notes contain frequent omissions.</note>
-                     <note>Colophon on <locus>fols. 142r-142v</locus>.</note>
-                  </msItem>                  
+                     <note>Colophon by the scribe, <persName key="person_7053">Abraham bar
+                           Tahur</persName>
+                        <foreign xml:lang="he">אברהם בר טהור</foreign>, on <locus>ff.
+                           142r-142v</locus>.</note>
+                     <note>At the end of the manuscript, two items in later hands: a note on
+                        Tamerlane's conquest of Aleppo around the year 1400 (<locus>f.
+                        143r</locus>), and liturgical compositions of Baḥya ben Joseph ibn Paḳuda
+                        in Hebrew, including <foreign xml:lang="he">ברכי נפשי</foreign> and <foreign
+                           xml:lang="he">אדני שפתי תפתח</foreign> (<locus>ff.
+                        143v-155v</locus>).</note>
+                  </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
@@ -72,44 +88,83 @@
                   </objectDesc>
                   <handDesc>
                      <summary>Oriental semi-cursive script</summary>
-                     <handNote/>
+                     <handNote>The same scribe, Abraham bar Tahur, also copied MS Huntington
+                        135.</handNote>
                   </handDesc>
-
+                  <decoDesc>
+                     <decoNote>Simple penwork borders and rudimentary drawings of semi-abstract
+                        flowers around enlarged initial words.</decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Envelope-style binding with dark reddish-brown fine-grained leather over
+                        paper boards; the leather originally covering the spine and the flap has
+                        been replaced by smooth, light brown leather. Blind-tooled decorations on
+                        both covers, including decorative rectangular frames along the edges, and a
+                        centrally-placed rosette (front) and mandorla (back). The author's name, as
+                        ‘R. BECHAI’, and the Pococke shelfmark are gold-tooled on the spine.</p>
+                     <condition>
+                        <p>Some loose quires.</p>
+                     </condition>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
-                     <origDate> 1190 (according to the A.M. dating)</origDate>
+                     <origDate when="1190"> 1190 (according to the A.M. dating)</origDate>
                      <origPlace>[Orient (Persia?)]</origPlace>
                   </origin>
-                  <provenance>
-                  </provenance>
-                  <acquisition>Edward Pococke's collection of oriental MSS (mostly Armenian, Hebrew and Arabic) was purchased by the Library for £800 in 1692 (see Summary Catalogue, vol. II, p. 1008).</acquisition>
+                  <provenance>On <locus>f. 142v</locus>, ownership inscriptions by <foreign
+                        xml:lang="he">מבורך דאתקרי אלסדיד הכהן בר אברהם</foreign> and <foreign
+                        xml:lang="he">מנצור בן מטפר בן מיה</foreign>.</provenance>
+                  <acquisition><persName ref="https://viaf.org/en/viaf/41849535">Edward
+                        Pococke</persName>'s <date calendar="#Gregorian">(1604-1691)</date>
+                     collection of oriental MSS (mostly Armenian, Hebrew and Arabic) was purchased
+                     by the Library for £800 in 1692 (see Summary Catalogue, vol. II, p.
+                     1008).</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
-                           <ref>No. 1225</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
-                                 <ref>No. 1225</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref>No. 1225</ref>, <title>Catalogue of the
+                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                              Corrigenda to Vol. I,</title>
+                           <ref>No. 1225</ref>, and on the data of the Institute of Microfilmed
+                           Hebrew Manuscripts, National Library of Israel with additional
+                           enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 22039</idno>
                      </bibl>
+                     <bibl>                        <idno n="S.F. Or" type="microfilm"
+                        >744</idno>                     </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 1225.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1225.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
+                           the Bodleian Library</hi> (Oxford, 1886), no. 1225.</bibl>
+                     <bibl>Yahuda, Abraham Shalom, <hi rend="italic">Prolegomena zu einer
+                           erstmaligen Herausgabe des Kitab al-Hidaja 'ila fara'id al-qulub</hi>
+                        (Darmstadt: C. F. Winter'sche Buchdruckerei, 1904).</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
+                           Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                           Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                        Press, 1994), no. 1225.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      </teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>
