@@ -3,7 +3,14 @@
       <fileDesc>
          <titleStmt>
             <title/>
-            <respStmt xml:id="BW"><resp when="2024">Cataloguer</resp><name type="person">Benjamin Whittle</name></respStmt>
+            <respStmt xml:id="BW">
+               <resp when="2024">Cataloguer</resp>
+               <name type="person">Benjamin Whittle</name>
+            </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
@@ -16,7 +23,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -35,72 +43,110 @@
                   <repository>Bodleian Library</repository>
                   <collection>Pococke Collection</collection>
                   <idno>MS. Pococke 12</idno>
-               <altIdentifier type="other">
-                  <idno type="Neubauer">No. 2314</idno>
-               </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">No. 2314</idno>
+                  </altIdentifier>
                   <altIdentifier type="other">
                      <idno type="uri">491</idno>
                   </altIdentifier>
                </msIdentifier>
                <msContents>
                   <summary>A catalogue of books in alphabetical order</summary>
-                  <msItem>                     
-                     <title xml:lang="he">רשימת ספרים</title>
-                     <title xml:lang="he-Latn-x-lc">Reshimat sefarim</title>
+                  <msItem>
+                     <title xml:lang="he" key="work_3331">רשימת ספרים</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3331">Reshimat sefarim</title>
                      <author key="person_386">
-                        <persName>Jacob ben Isaac ibn Bakudah Roman</persName>
-                        <persName xml:lang="he">רומן, יעקב בן יצחק אבן בקודה</persName>
+                        <persName>Jacob ben Isaac ibn Baḳudah Roman</persName>
+                        <persName xml:lang="he">יעקב בן יצחק אבן בקודה רומן</persName>
                      </author>
+                     <note><p>The list includes both printed books and manuscripts.</p>
+                        <p>Titles beginning with the letters <hi rend="italic">resh</hi> and <hi
+                              rend="italic">shin</hi> are copied on the verso of the folio
+                           containing titles beginning with the letter <hi rend="italic">bet</hi>,
+                           and titles beginning with the letter <hi rend="italic">tav</hi> are
+                           copied on the verso of the folio containing titles beginning with the
+                           letters <hi rend="italic">gimel</hi> and <hi rend="italic">dalet</hi>,
+                           presumably because these two sides were initially left blank; the folios
+                           are otherwise in alphabetical order.</p>
+                        <p>Authors of the seventeenth century are quoted.</p></note>
                      <textLang mainLang="he">Hebrew</textLang>
-                  </msItem>                  
+                  </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>paper</support>
-                        <extent>ff. 10</extent>
+                        <extent>ff. 10 <dimensions type="leaf" unit="mm">
+                              <height>153</height>
+                              <width>106</width>
+                           </dimensions></extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Sephardic cursive script</summary>
                      <handNote/>
                   </handDesc>
-
+                  <bindingDesc>
+                     <p>Marbled paper over thin paper boards, quarter bound in golden brown
+                        leather.</p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
                      <origDate>[c. 1640]</origDate>
                      <origPlace>[Turkey]</origPlace>
                   </origin>
-                  <provenance>
-                  </provenance>
-                  <acquisition>Edward Pococke's collection of oriental MSS (mostly Armenian, Hebrew and Arabic) was purchased by the Library for £800 in 1692 (see Summary Catalogue, vol. II, p. 1008).</acquisition>
+                  <provenance> </provenance>
+                  <acquisition><persName ref="https://viaf.org/en/viaf/41849535">Edward
+                        Pococke</persName>'s <date calendar="#Gregorian">(1604-1691)</date>
+                     collection of oriental MSS (mostly Armenian, Hebrew and Arabic) was purchased
+                     by the Library for £800 in 1692 (see Summary Catalogue, vol. II, p.
+                     1008).</acquisition>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
-                           <ref>No. 2314</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
-                                 <ref>No. 2314</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref>No. 2314</ref>, <title>Catalogue of the
+                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                              Corrigenda to Vol. I,</title>
+                           <ref>No. 2314</ref>, and on the data of the Institute of Microfilmed
+                           Hebrew Manuscripts, National Library of Israel with additional
+                           enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 21006</idno>
                      </bibl>
+                     <bibl>                        <idno n="S.F. Or" type="microfilm"
+                           >1028</idno>                     </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 2314.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2314.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
+                           the Bodleian Library</hi> (Oxford, 1886), no. 2314.</bibl>
+                     <bibl>Neubauer, Adolf, 'Jacob ben Isaac Roman's Bücherverzeichniss: Ms. Oxford
+                        Pock. 12', <hi rend="italic">Israelietische Letterbode</hi> 12 (1888),
+                        1-13.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
+                           Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                           Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                        Press, 1994), no. 2314.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      </teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>

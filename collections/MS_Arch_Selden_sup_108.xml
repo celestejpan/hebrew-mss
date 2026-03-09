@@ -60,7 +60,7 @@
                      <title type="desc" xml:lang="he">מחזור מנהג צפון אפריקה (אלג'יר) לימים
                         נוראים.</title>
                      <title type="desc" xml:lang="he-Latn-x-lc">Maḥzor minhag tsafon Afriḳah
-                        (alg'ir) le-yamim noraim</title>
+                        (Alg'ir) le-yamim noraʾim</title>
                      <textLang mainLang="he">Hebrew</textLang>
                      <note>Beginning with the liturgy <foreign xml:lang="he">אחות קטנה</foreign>,
                         headed <foreign xml:lang="he">פתיחה לערב ראש השנה</foreign>; the rest like
@@ -75,14 +75,17 @@
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>paper</support>
-                        <extent>ff. 412; <dim>84 x 117 mm;</dim>
+                        <extent>ff. 412 <dimensions type="leaf" unit="mm">
+                              <height>72</height>
+                              <width>101</width>
+                           </dimensions>
                            <note>the manuscript opens in landscape format.</note>
                         </extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Sephardic semi-cursive script</summary>
-                     <handNote>Copied by <persName key="person_7041"> Nathan ben R. Samʻael
+                     <handNote>Copied by <persName key="person_7041"> Nathan ben R. Samʻaʾel
                            Nono</persName>
                         <persName xml:lang="he">נתן בן סמעאל נונו</persName>
                      </handNote>
@@ -96,7 +99,7 @@
                      <origDate>1581</origDate>
                      <origPlace>[Algiers]</origPlace>
                   </origin>
-                  <provenance>Ownership inscription at the end of the MS., by Samʻael ben Nathan
+                  <provenance>Ownership inscription at the end of the MS., by Samʻaʾel ben Nathan
                      Nono <persName xml:lang="he">סמעאל בן נתן נונו</persName>, presumably the son
                      of the scribe.</provenance>
                   <acquisition>The MS belonged to the collection of John Selden (1584-1654), lawyer
@@ -128,6 +131,8 @@
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 17692</idno>
                      </bibl>
+                     <bibl>                        <idno n="S.F. Or" type="microfilm"
+                        >822</idno>                     </bibl>
                   </surrogates>
                   <listBibl>
                      <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in

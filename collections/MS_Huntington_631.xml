@@ -71,8 +71,11 @@
                         <support>paper</support>
                         <extent>ff. 20 <note>(<locus>F. i</locus> of this MS. was formerly <locus>f.
                                  38</locus> of <idno type="msID">MS Opp. Add. 4o 151</idno>, and was
-                              removed in 1967);</note>
-                           <dim>223 x 165 mm</dim></extent>
+                              removed in 1967)</note>
+                           <dimensions type="leaf" unit="mm">
+                              <height>212</height>
+                              <width>157</width>
+                           </dimensions></extent>
                         <condition>Some of the leaves are slightly damaged, which has resulted in
                            some loss of text.</condition>
                      </supportDesc>
@@ -121,6 +124,8 @@
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 19455</idno>
                      </bibl>
+                     <bibl>                        <idno n="S.F. Or" type="microfilm"
+                        >653</idno>                     </bibl>
                   </surrogates>
                   <listBibl>
                      <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in

@@ -16,6 +16,20 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3332">
+               <title type="uniform">Guide to the duties of the heart: in Judeo-Arabic</title>
+               <title type="variant">כתאב אלהדאיה לפראיץ אלקלוב</title>
+               <ref target="MS_Pococke_96-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Pococke_96.xml#MS_Pococke_96-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3331">
+               <title type="uniform">A catalogue of books in alphabetical order</title>
+               <title type="variant">רשימת ספרים</title>
+               <ref target="MS_Pococke_12-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Pococke_12.xml#MS_Pococke_12-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3330">
                <title type="uniform">Mahzor according to the Ashkenazi rite</title>
                <title type="variant">מחזור מנהג אשכנז לכל השנה</title>
