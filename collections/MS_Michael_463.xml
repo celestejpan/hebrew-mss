@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xml:id="manuscript_575">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_575">
    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
       <fileDesc>
          <titleStmt>
@@ -46,6 +45,9 @@
                   <altIdentifier type="former">
                      <idno>MS. Michael 779</idno>
                   </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">832</idno>
+                  </altIdentifier>
 
 
                </msIdentifier>
@@ -62,8 +64,7 @@
                   <objectDesc form="codex">
                      <supportDesc material="chart">
                         <support>paper</support>
-                        <extent>ff. 262 (ff. 260-262 foliated but otherwise blank)<dimensions
-                              unit="mm" type="leaf">
+                        <extent>ff. 262 (ff. 260-262 foliated but otherwise blank)<dimensions unit="mm" type="leaf">
                               <height>210</height>
                               <width>150-155</width>
                            </dimensions>
@@ -103,10 +104,10 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on Catalogue of the Hebrew Manuscripts
-                           in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No. 832,
-                           Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement
-                           of Addenda and Corrigenda to Vol. I, No. 832, and on the data of the
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts
+                           in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No. 832</bibl>,
+                           <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement
+                           of Addenda and Corrigenda to Vol. I, No. 832</bibl>, and on the data of the
                            Institute of Microfilmed Hebrew Manuscripts, National Library of Israel
                            with additional enhancements by the cataloguer.</source>
                      </recordHist>
@@ -118,12 +119,9 @@
                   </surrogates>
                   <listBibl>
 
-                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian
-                        Library (Oxford, 1886), no. 832.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
-                        manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to
-                        Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
-                        832.</bibl>
+                     <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=130">no. 832.</ref></bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=121">no.
+                        832.</ref></bibl>
                      <bibl>Vital, Samuel ben Ḥayyim. Aharon Ṿieder and Efrayim Fishl Hershḳovits
                         (eds), <title>Sefer She’elot u-Teshuvot Be’er Mayim Ḥayim.</title> (Tel Aviv, 1967)
                         [Hebrew. Edition of the manuscript]</bibl>

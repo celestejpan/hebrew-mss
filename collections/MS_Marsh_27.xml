@@ -44,13 +44,13 @@
                         <collection>Oriental Manuscripts Marsh Collection</collection>
                         <idno>MS. Marsh 27</idno>
                         <altIdentifier type="other">
-                            <idno type="cat_no">592</idno>
+                            <idno type="Neubauer">592</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
+                        <altIdentifier type="internal">
                             <idno type="SCN">8994</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno type="uri">Uri 234</idno>
+                        <altIdentifier type="internal">
+                            <idno type="uri">234</idno>
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
@@ -108,11 +108,11 @@
                                 <source> Manuscript description based on <bibl>Catalogue of the
                                         Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
                                         Neubauer, Oxford 1886, </bibl>
-                                    <ref facs="bej0094.jpg">No.
+                                    <ref facs="bej0094.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=104">No.
                                         592</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
                                         Bodleian Library; Supplement of Addenda and Corrigenda to
                                         Vol. I, </bibl>
-                                    <ref facs="beo0101.jpg">No. 592</ref>, and on
+                                    <ref facs="beo0101.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=101">No. 592</ref>, and on
                                     the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000089730&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
                                     Library of Israel with additional enhancements by the
                                     cataloguer. </source>
@@ -137,12 +137,12 @@
                         </surrogates>
                         <listBibl>
                             <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
-                                    Manuscripts in the Bodleian Library </hi>(Oxford, 1886), no.
-                                592.</bibl>
+                                    Manuscripts in the Bodleian Library </hi>(Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=104">no.
+                                592.</ref></bibl>
                             <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
                                     of the Hebrew manuscripts in the Bodleian Library; Supplement of
                                     Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
-                                (Oxford: Clarendon Press, 1994), no. 592.</bibl>
+                                (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=101">no. 592.</ref></bibl>
                         </listBibl>
                     </additional>
                 </msDesc>

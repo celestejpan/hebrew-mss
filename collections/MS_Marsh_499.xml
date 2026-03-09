@@ -44,9 +44,9 @@
                         <collection>Oriental Manuscripts Marsh Collection</collection>
                         <idno>MS. Marsh 499</idno>
                         <altIdentifier type="other">
-                            <idno type="cat_no">455</idno>
+                            <idno type="Neubauer">455</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
+                        <altIdentifier type="internal">
                             <idno type="SCN">9496</idno>
                         </altIdentifier>
                     </msIdentifier>
@@ -111,11 +111,11 @@
                                 <source> Manuscript description based on <bibl>Catalogue of the
                                         Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
                                         Neubauer, Oxford 1886, </bibl>
-                                    <ref facs="bej0085.jpg">No.
+                                    <ref facs="bej0085.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=93">No.
                                         455</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
                                         Bodleian Library; Supplement of Addenda and Corrigenda to
                                         Vol. I, </bibl>
-                                    <ref facs="beo0091.jpg">No. 455</ref>, and on
+                                    <ref facs="beo0091.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=91">No. 455</ref>, and on
                                     the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000089228&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
                                     Library of Israel with additional enhancements by the
                                     cataloguer. </source>
@@ -140,12 +140,12 @@
                         </surrogates>
                         <listBibl>
                             <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
-                                    Manuscripts in the Bodleian Library </hi>(Oxford, 1886), no.
-                                455.</bibl>
+                                    Manuscripts in the Bodleian Library </hi>(Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=93">no.
+                                455.</ref></bibl>
                             <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
                                     of the Hebrew manuscripts in the Bodleian Library; Supplement of
                                     Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
-                                (Oxford: Clarendon Press, 1994), no. 455.</bibl>
+                                (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=91">no. 455.</ref></bibl>
                         </listBibl>
                     </additional>
                 </msDesc>

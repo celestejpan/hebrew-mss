@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_409">
@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Oppenheim Collection</collection>
                   <idno>MS. Oppenheim Add. fol. 59</idno><idno type="ieArk">ark:29072/x07s75dd10z6</idno><idno type="crArk">ark:29072/x07p88ch27ng</idno>
-               <altIdentifier type="other"><idno type="Neubauer">No. 2493</idno></altIdentifier></msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">2493</idno></altIdentifier></msIdentifier>
                <msContents>
                   <msItem xml:id="MS_Oppenheim_Add_fol_59-item1" n="1">
                      <locus>ff. 1r-223v</locus>
@@ -85,8 +85,8 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl> (<ref facs="bej0478.jpg bej0479.jpg">No. 2493</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
-                           <ref facs="beo0147.jpg">No. 2493</ref>, and on the data of the <ref target="http%3A%2F%2Faleph.nli.org.il%2FF%2F61LN56HMNS2KCF11Y3TDDLM7NBBAQSP193DIEJMTX2GF256P6A-04237%3Ffunc%3Dfull-set-set%26set_number%3D010499%26set_entry%3D000001%26format%3D999">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl> (<ref facs="bej0478.jpg bej0479.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=490">No. 2493</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</bibl>
+                           <ref facs="beo0147.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=298">No. 2493</ref>, and on the data of the <ref target="http%3A%2F%2Faleph.nli.org.il%2FF%2F61LN56HMNS2KCF11Y3TDDLM7NBBAQSP193DIEJMTX2GF256P6A-04237%3Ffunc%3Dfull-set-set%26set_number%3D010499%26set_entry%3D000001%26format%3D999">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
@@ -98,8 +98,8 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 2493.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2493.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=490">no. 2493.</ref></bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=298">no. 2493.</ref></bibl>
                      <bibl>Langermann, Y. Zvi, Yemenite Midrash: Philosophical Commentaries on the Torah (San Francisco : HarperSanFrancisco, 1996), 273-276.</bibl>
                   </listBibl>
                </additional>

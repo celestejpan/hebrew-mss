@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_2">
@@ -44,7 +44,7 @@
                   <collection> Oriental Manuscripts Kennicott Collection</collection>
                   <idno>MS. Kennicott 1</idno><idno type="ieArk">ark:29072/x0w6634306n5</idno><idno type="crArk">ark:29072/x0w3763623b9</idno>
                   <msName>Kennicott Bible</msName>
-               <altIdentifier type="other"><idno type="Neubauer">No. 2322</idno></altIdentifier></msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">2322</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Bible with D. Kimhi's Sefer Mikhlol</summary>
                   <msItem xml:id="MS_Kennicott_1-item1" n="1">
@@ -95,8 +95,8 @@
                   <adminInfo>
                      <recordHist>
                         <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0440.jpg">No. 2322</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0282.jpg">No. 2322</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000113090&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                           <ref facs="bej0440.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=452">No. 2322</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0282.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=282">No. 2322</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000113090&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
@@ -121,14 +121,14 @@
                   </surrogates>
                   <listBibl>
                      <bibl>Kennicott, Benjamin, <hi rend="italic">Dissertatio generalis in Vetus Testamentum Hebraicum: cum variis lectionibus, ex codicibus manuscriptis et impressis. Recudi curavit et notas adiecit Paulus Iacobus Bruns.</hi> Brunovici: Orphanotrophei, 1783.</bibl>
-                     <bibl>Neubauer, Adolf. <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford 1886), no.2322</bibl>
+                     <bibl>Neubauer, Adolf. <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=452">no.2322</ref></bibl>
                      <bibl>Norin, Stig, 'An Important Kennicott Reading in 2 Kings xviii 13', <hi rend="italic">Vetus Testamentum</hi> (1982), 337-338.</bibl>
                      <bibl>
                         <hi rend="italic">Facsimile edition: The Kennicott Bible</hi> (London, 1985), introduction by B. Narkiss and A. Cohen-Muslin.</bibl>
                      <bibl>Schubert, Ursula, 'Zwei Tierszenen am Ende der ersten Kennicott-Bibel (La Coruña, 1476) in Oxford', <hi rend="italic">Jewish Art</hi>, 12-13 (1987), 83-88.</bibl>
                      <bibl>On binding, see L. Avrin in <hi rend="italic">Scripta Hierosolymitana</hi> 19 (1989): 27-43.</bibl>
                      <bibl>Avrin, Leila, 'Illuminated Hebrew manuscript facsimiles', <hi rend="italic">Ars Orientalis</hi>, 20 (1990), 189-195.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda</hi> to Vol. I (A. Neubauer’s Catalogue). Oxford 1994. no. 2322.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda</hi> to Vol. I (A. Neubauer’s Catalogue). Oxford 1994. <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=282">no. 2322.</ref></bibl>
                      <bibl>Vives, Veronica, 'La Biblia de Cervera : un modelo olvidado', <hi rend="italic">Actes del II Congrés per a l’Estudi dels Jueus en Territoris de Llengua Catalana</hi>, Barcelona-Cervera, del 25 al 27 d’octubre de 2004 (Barcelona: Institut Europeu de la Mediterrània, 2005), 201-211.</bibl>
                      <bibl>Clarkson, Christopher, 'The Kennicott Bible. Its Illumination, Binding, Conservation Problems and Repair.' <hi rend="italic">Collection Management</hi>, 31 no.1-2 (2007), 31-56.</bibl>
                      <bibl>

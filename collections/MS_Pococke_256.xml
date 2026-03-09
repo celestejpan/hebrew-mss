@@ -43,13 +43,13 @@
                         <collection>Oriental Manuscripts Pococke Collection</collection>
                         <idno>MS. Pococke 256</idno>
                         <altIdentifier type="other">
-                            <idno type="cat_no">1533</idno>
+                            <idno type="Neubauer">1533</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
+                        <altIdentifier type="internal">
                             <idno type="SCN">5432</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno type="uri">Uri 370</idno>
+                        <altIdentifier type="internal">
+                            <idno type="uri">370</idno>
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
@@ -113,10 +113,10 @@
                                 <source> Manuscript description based on <bibl>Catalogue of the
                                         Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
                                         Neubauer, Oxford 1886, </bibl>
-                                    <ref facs="bej0305.jpg">No.
+                                    <ref facs="bej0305.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=317">No.
                                         1533</ref>, <bibl>Catalogue of the Hebrew manuscripts in the
                                         Bodleian Library; Supplement of Addenda and Corrigenda to
-                                        Vol. I <ref facs="beo0184.jpg">No. 1533. </ref>
+                                        Vol. I <ref facs="beo0184.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=184">No. 1533. </ref>
                                     </bibl> and
                                     on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000064570&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
                                     Library of Israel with additional enhancements by the
@@ -142,11 +142,11 @@
                         </surrogates>
                         <listBibl>
                             <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue  of the Hebrew Manuscripts in the
-                                Bodleian Library </hi>(Oxford,, 1886), no. 1533.</bibl>
+                                Bodleian Library </hi>(Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=317">no. 1533.</ref></bibl>
                             <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew
                                 manuscripts in the Bodleian Library; Supplement of Addenda and
                                 Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon
-                                Press, 1994), no. 1533.</bibl>
+                                Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=184">no. 1533.</ref></bibl>
                         </listBibl>
                     </additional>
                 </msDesc>

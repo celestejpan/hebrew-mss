@@ -43,13 +43,13 @@
                         <collection>Selden Collection</collection>
                         <idno>MS. Arch. Selden. A. 5</idno>
                         <altIdentifier type="other">
-                            <idno type="cat_no">864</idno>
+                            <idno type="Neubauer">864</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
+                        <altIdentifier type="internal">
                             <idno type="SCN">3164</idno>
                         </altIdentifier>
-                        <altIdentifier type="former">
-                            <idno type="uri">Uri 326</idno>
+                        <altIdentifier type="internal">
+                            <idno type="uri">326</idno>
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
@@ -99,11 +99,11 @@
                                 <source> Manuscript description based on <bibl>Catalogue of the
                                         Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
                                         Neubauer, Oxford 1886, </bibl>
-                                    <ref facs="bej0125.jpg">No. 864
+                                    <ref facs="bej0125.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=135">No. 864
                                         </ref>, <bibl>Catalogue of the Hebrew manuscripts in the
                                         Bodleian Library; Supplement of Addenda and Corrigenda to
                                         Vol. I, </bibl>
-                                    <ref facs="beo0124.jpg">No. 864</ref>, and
+                                    <ref facs="beo0124.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=124">No. 864</ref>, and
                                     on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000091850&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
                                     Library of Israel with additional enhancements by the
                                     cataloguer. </source>
@@ -123,11 +123,11 @@
                         <listBibl>
                             <bibl>Neubauer, Adolf. <hi rend="italic">Catalogue of the Hebrew
                                     Manuscripts in the Bodleian Library</hi> (Oxford 1886),
-                                no. 864.</bibl>
+                                <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=135">no. 864.</ref></bibl>
                             <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
                                     of the Hebrew manuscripts in the Bodleian Library; Supplement of
                                     Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue).
-                                Oxford 1994. no. 864.</bibl>
+                                Oxford 1994. <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=124">no. 864.</ref></bibl>
                         </listBibl>
                     </additional>
                 </msDesc>

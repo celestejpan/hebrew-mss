@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_23">
@@ -320,8 +320,8 @@
                   </surrogates>
                   <listBibl>
                      <bibl>Kitchin, George William, <hi rend="italic">Catalogus codicum mss. qui in bibliotheca Ædis Christi apud Oxonienses adservantur</hi> (Oxford, 1867), no. 187.</bibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 2453.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2453.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=483">no. 2453.</ref></bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=297">no. 2453.</ref></bibl>
                      <bibl>
                         <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000162983&amp;local_base=NNLMSS">Catalogue description at the Institute for Microfilmed Hebrew Manuscripts, National Library of Israel</ref>
                      </bibl>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_363">
@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Laud Oriental Collection</collection>
                   <idno>MS. Laud Or. 316</idno><idno type="ieArk">ark:29072/x09s161655d5</idno><idno type="crArk">ark:29072/x02j62s595hx</idno>
-               <altIdentifier type="other"><idno type="Neubauer">No. 689</idno></altIdentifier></msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">689</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Collection of halakhical texts</summary>
                   <msItem xml:id="MS_Laud_Or_316-item1" n="1">
@@ -105,8 +105,8 @@
                   <adminInfo>
                      <recordHist>
                         <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0104.jpg">No. 689</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0108.jpg">No. 689</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                           <ref facs="bej0104.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=114">No. 689</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0108.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=108">No. 689</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
@@ -118,8 +118,8 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 689.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 689.</bibl>
+                     <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=114">no. 689.</ref></bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=108">no. 689.</ref></bibl>
                   </listBibl>
                </additional>
             </msDesc>
