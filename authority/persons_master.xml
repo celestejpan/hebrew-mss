@@ -18298,6 +18298,19 @@
                     <persName type="display">Abraham b. Tahur</persName>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Pococke_96.xml -->
                 </person>
+                <person xml:id="person_7054">
+                    <persName type="display">Shaʻar Aryeh, Shmuel ben Elisha</persName>
+                    <note type="links">
+                        <list type="links">
+                            <item>
+                                <ref target="https://viaf.org/en/viaf/308281611">
+                                    <title>VIAF</title>
+                                </ref>
+                            </item>
+                        </list>
+                    </note>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_9.xml -->
+                </person>
             </listPerson>
         </body>
     </text>

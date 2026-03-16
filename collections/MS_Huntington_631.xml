@@ -96,8 +96,10 @@
                   <provenance> </provenance>
                   <acquisition>It belonged to the oriental collection of <persName
                         ref="http://viaf.org/viaf/34684157" key="person_131">Robert
-                        Huntington</persName> (1637-1701), and was bought in 1693 together with 645
-                     other MSS for £752 10s.</acquisition>
+                        Huntington</persName>
+                     <date calendar="#Gregorian">(1637-1701)</date>, and was bought in <date
+                        calendar="#Gregorian">1693</date> together with 645 other MSS for £752
+                     10s.</acquisition>
                </history>
                <additional>
                   <adminInfo>

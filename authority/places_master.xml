@@ -72,6 +72,10 @@
                <placeName type="index" source="bodl">Edmundbury</placeName>
                <!-- Found in: ../collections/MS_Laud_Or_174.xml -->
             </place>
+            <place xml:id="place_92">
+               <placeName type="index" source="bodl">Eggingen</placeName>
+               <!-- Found in: ../collections/MS_Oppenheim_12.xml -->
+            </place>
             <place xml:id="place_55">
                <placeName type="index" source="bodl #TYPED">Egypt</placeName>
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_c_27.xml -->
@@ -102,9 +106,21 @@
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_75.xml -->
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_76.xml -->
             </place>
+            <place xml:id="place_89">
+               <placeName type="index" source="bodl">Frankfurt</placeName>
+               <!-- Found in: ../collections/MS_Michael_436.xml -->
+            </place>
+            <place xml:id="place_91">
+               <placeName type="index" source="bodl">Friedberg (Hessen, Germany)</placeName>
+               <!-- Found in: ../collections/MS_Michael_436.xml -->
+            </place>
             <place xml:id="place_23">
                <placeName type="index" source="LCSH">Fürth (Bavaria, Germany)</placeName>
                <!-- Found in: ../collections/MS_Laud_Or_233.xml -->
+            </place>
+            <place xml:id="place_90">
+               <placeName type="index" source="bodl">Gelnhausen (Hessen, Germany)</placeName>
+               <!-- Found in: ../collections/MS_Michael_436.xml -->
             </place>
             <place xml:id="place_16">
                <placeName type="index" source="LCSH">Gubbio</placeName>
@@ -141,6 +157,10 @@
                <placeName type="index" source="LCSH">Krakow</placeName>
                <!-- Found in: ../collections/MS_Michael_619.xml -->
             </place>
+            <place xml:id="place_86">
+               <placeName type="index" source="LCSH">Leszno</placeName>
+               <!-- Found in: ../collections/MS_Oppenheim_338.xml -->
+            </place>
             <place xml:id="place_17">
                <placeName type="index" source="LCSH">Lucignana</placeName>
                <!-- Found in: ../collections/MS_Canonici_Or_49B.xml -->
@@ -163,7 +183,10 @@
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_66.xml -->
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_f_26.xml -->
             </place>
-            
+            <place xml:id="place_88">
+               <placeName type="index" source="bodl">Posen</placeName>
+               <!-- Found in: ../collections/MS_Michael_436.xml -->
+            </place>
             <place xml:id="place_24">
                <placeName type="index" source="LCSH">Prague (Czech Republic)</placeName>
                <!-- Found in: ../collections/MS_Laud_Or_233.xml -->
@@ -184,9 +207,17 @@
                <placeName type="index" source="bodl">Rome</placeName>
                <!-- Found in: ../collections/MS_Laud_Or_105.xml -->
             </place>
+            <place xml:id="place_87">
+               <placeName type="index" source="bodl">Saint-Symphorien-d'Ozon (Rhône)</placeName>
+               <!-- Found in: ../collections/MS_Oppenheim_338.xml -->
+            </place>
             <place xml:id="place_12">
                <placeName type="index" source="bodl">Saragossa</placeName>
                <!-- Found in: ../collections/MS_Laud_Or_93.xml -->
+            </place>
+            <place xml:id="place_85">
+               <placeName type="index" source="bodl">Sélestat</placeName>
+               <!-- Found in: ../collections/MS_Michael_433.xml -->
             </place>
             <place xml:id="place_84">
                <placeName type="index" source="bodl">Siena</placeName>

@@ -64,7 +64,8 @@
                      <textLang mainLang="he">Hebrew</textLang>
                      <note>Beginning with the liturgy <foreign xml:lang="he">אחות קטנה</foreign>,
                         headed <foreign xml:lang="he">פתיחה לערב ראש השנה</foreign>; the rest like
-                        the Amsterdam edition of the Maḥzor of Algiers, published in 1685.</note>
+                        the Amsterdam edition of the Maḥzor of Algiers, published in 
+                        <date calendar="#Gregorian">1685</date>.</note>
                      <colophon><foreign xml:lang="he">כתיבת ידי ... נתן בן ... ר' סמעאל נונו י"ץ
                            וכתבתיו בבית מדרשו של מורי ורבי הר' יוסף בהה"ר שלמה דוראן נר"ו ותהי
                            השלמתו יום רביעי שבעה עשר לחדש אלול שנת יהי שלום בחילך ש'ל'ו'ה' [=שמ"א]
@@ -96,15 +97,17 @@
                </physDesc>
                <history>
                   <origin>
-                     <origDate>1581</origDate>
+                     <origDate><date calendar="#Gregorian">1581</date></origDate>
                      <origPlace>[Algiers]</origPlace>
                   </origin>
                   <provenance>Ownership inscription at the end of the MS., by Samʻaʾel ben Nathan
                      Nono <persName xml:lang="he">סמעאל בן נתן נונו</persName>, presumably the son
                      of the scribe.</provenance>
-                  <acquisition>The MS belonged to the collection of John Selden (1584-1654), lawyer
-                     and historical and linguistic scholar; it was acquired by the Bodleian Library
-                     in 1659.</acquisition>
+                  <acquisition>The MS belonged to the collection of <persName key="person_51728429"
+                        >John Selden</persName>
+                     <date calendar="#Gregorian"> (1584-1654)</date>, lawyer and historical and
+                     linguistic scholar; it was acquired by the Bodleian Library in
+                     <date calendar="#Gregorian">1659</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>

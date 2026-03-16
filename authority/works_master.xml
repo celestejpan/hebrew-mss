@@ -16,6 +16,21 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3334">
+               <title type="uniform">The house of the forest of Lebanon (1-3)</title>
+               <title type="variant">בית יער הלבנון (א–ג)</title>
+               <ref target="MS_Reggio_9-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_9.xml#MS_Reggio_9-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3333">
+               <title type="uniform">The house of the forest of Lebanon: essays on the Hebrew Bible and
+                  tales</title>
+               <title type="variant">בית יער הלבנון : מאמרים על התנ"ך ועל אגדות</title>
+               <ref target="MS_Reggio_8-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Reggio_8.xml#MS_Reggio_8-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3332">
                <title type="uniform">Guide to the duties of the heart: in Judeo-Arabic</title>
                <title type="variant">כתאב אלהדאיה לפראיץ אלקלוב</title>

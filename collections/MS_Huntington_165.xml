@@ -64,7 +64,7 @@
                         <persName xml:lang="he">משה בן מימון, 1138-1204 </persName>
                      </author>
                      <textLang>Judeo-Arabic</textLang>
-                     <note><locus>between ff. 65 and 66,</locus> a loose paper leaf measuring
+                     <note>Between <locus>ff. 65 and 66</locus>, a loose paper leaf measuring
                            <dim>165 x 74 mm</dim> has been glued to <locus>f. 66r</locus> near the
                         gutter; it contains three liturgical poems in a modern hand.</note>
                   </msItem>
@@ -81,7 +81,7 @@
                   </objectDesc>
                   <handDesc>
                      <summary>Yemenite semi-square script</summary>
-                     <handNote>Written and collated by <persName>Joseph ben Saadiah ben Samuel
+                     <handNote>Written and collated by <persName>Joseph ben Saadiah ben Shmuel
                            haThemani</persName>
                         <persName xml:lang="he">יוסף בן סעדיה בן שמואל התימני</persName>, finished
                         in the month of Av (no year). </handNote>
@@ -100,8 +100,10 @@
                   <provenance> </provenance>
                   <acquisition>It belonged to the oriental collection of <persName
                         ref="http://viaf.org/viaf/34684157" key="person_131">Robert
-                        Huntington</persName> (1637-1701), and was bought in 1693 together with 645
-                     other MSS for £752 10s.</acquisition>
+                        Huntington</persName>
+                     <date calendar="#Gregorian">(1637-1701)</date>, and was bought in <date
+                        calendar="#Gregorian">1693</date> together with 645 other MSS for £752
+                     10s.</acquisition>
                </history>
                <additional>
                   <adminInfo>

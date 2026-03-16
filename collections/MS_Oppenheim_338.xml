@@ -115,14 +115,17 @@
                <history>
                   <origin>
                      <origDate when="1284">[ca. 1284]</origDate>
-                     <note>The first letter of divorce on <locus>f. 67v</locus> is dated 1284. The
-                        paleographical and codicological features are consistent with a
-                        late-13th-century dating; this dating is also supported by the fact that the
-                        colophon on <locus>f. 156r</locus> uses a formula for the living for
-                           <persName key="person_70348690">Perez ben Elijah, of Corbeil</persName>,
-                        who died around 1297. The 1384 date of the second letter of divorce on
-                           <locus>fol. 68r</locus> was presumably a mistake</note>
-                     <origPlace>[France, probably Saint-Symphorien-d'Ozon (Rhône)]</origPlace>
+                     <note>The first letter of divorce on <locus>f. 67v</locus> is dated <date
+                           calendar="#Gregorian">1284</date>. The paleographical and codicological
+                        features are consistent with a late-13th-century dating; this dating is also
+                        supported by the fact that the colophon on <locus>f. 156r</locus> uses a
+                        formula for the living for <persName key="person_70348690">Perez ben Elijah,
+                           of Corbeil</persName>, who died around <date calendar="#Gregorian"
+                           >1297</date>. The <date calendar="#Gregorian">1384</date> date of the
+                        second letter of divorce on <locus>fol. 68r</locus> was presumably a
+                        mistake</note>
+                     <origPlace>[France, probably <placeName key="place_87">Saint-Symphorien-d'Ozon
+                           (Rhône)</placeName>]</origPlace>
                      <note>This place name <foreign xml:lang="he">(שנשפורין מתא דיתבא על נהר
                            אוזון)</foreign> is mentioned in the letters of divorce on <locus>ff.
                            67v-68r</locus>.</note>
@@ -134,10 +137,12 @@
                      received the book from Anshel on the occasion of his marriage to Anshel's
                      sister, Elka <foreign xml:lang="he">(עלקא)</foreign>; he subsequently recorded
                      the birth of his children, including Roza <foreign xml:lang="he"
-                        >(רוזה)</foreign> who was born in 1709 as the family was fleeing from the
-                     plague in the town of <foreign xml:lang="he">'ליסא'</foreign>, probably Leszno
+                        >(רוזה)</foreign> who was born in <date calendar="#Gregorian">1709</date> as
+                     the family was fleeing from the plague in the town of <foreign xml:lang="he"
+                        >'ליסא'</foreign>, probably <placeName key="place_86">Leszno</placeName>
                      (German: Lissa) in western Poland. There are further registers of births by
-                     earlier owners dated between 1530 and 1547 at the beginning of the
+                     earlier owners dated between <date calendar="#Gregorian">1530</date> and <date
+                        calendar="#Gregorian">1547</date> at the beginning of the
                      manuscript.</provenance>
                   <acquisition>It belonged to <persName ref="https://viaf.org/viaf/7753200"
                         key="person_7753200">David ben Abraham Oppenheim</persName>'s <date
@@ -169,6 +174,8 @@
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 21833</idno>
                      </bibl>
+                     <bibl>                        <idno n="S.F. Or" type="microfilm"
+                        >721</idno>                     </bibl>
                   </surrogates>
                   <listBibl>
                      <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
