@@ -1,8 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0"
-   xml:id="manuscript_571">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0" xml:id="manuscript_571">
    <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
       <fileDesc>
          <titleStmt>
@@ -45,6 +44,9 @@
                   <idno>MS. Michael 93</idno>
                   <altIdentifier type="former">
                      <idno>MS. Michael 839</idno>
+                  </altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">428</idno>
                   </altIdentifier>
 
                </msIdentifier>
@@ -132,10 +134,10 @@
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on Catalogue of the Hebrew Manuscripts
-                           in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No. 428,
-                           Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement
-                           of Addenda and Corrigenda to Vol. I, No. 428 and on the data of the
+                        <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts
+                           in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886, No. 428</bibl>,
+                           <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement
+                           of Addenda and Corrigenda to Vol. I, No. 428</bibl> and on the data of the
                            Institute of Microfilmed Hebrew Manuscripts, National Library of Israel
                            with additional enhancements by the cataloguer.</source>
                      </recordHist>
@@ -147,12 +149,9 @@
                   </surrogates>
                   <listBibl>
 
-                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian
-                        Library (Oxford, 1886), no. 428.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew
-                        manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to
-                        Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.
-                        428.</bibl>
+                     <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=88">no. 428.</ref></bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=89">no.
+                        428.</ref></bibl>
                      <bibl>Abramson, Shraga. ‘Mahadurot Tosafot Shants le-Masekhet Eduyot’, <title>Sinai</title>
                         93, 1-2 (1983), pp. 25-38. </bibl>
                   </listBibl>

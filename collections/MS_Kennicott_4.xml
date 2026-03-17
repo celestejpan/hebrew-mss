@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Kennicott Collection</collection>
                   <idno>MS. Kennicott 4</idno><idno type="ieArk">ark:29072/x0x059c6734g</idno><idno type="crArk">ark:29072/x0ww72b989td</idno>
-               <altIdentifier type="other"><idno type="Neubauer">No. 2326.</idno></altIdentifier></msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">2326.</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Pentateuch Five Scrolls and Hafṭarot</summary>
                   <msItem xml:id="MS_Kennicott_4-item1" n="1">
@@ -85,7 +85,7 @@
                   <adminInfo>
                      <recordHist>
                         <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0441.jpg">No. 2326.</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I <ref facs="beo0282.jpg">No. 2326.</ref>
+                           <ref facs="bej0441.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=453">No. 2326.</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I <ref facs="beo0282.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=282">No. 2326.</ref>
                            </bibl> and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000113097&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
@@ -94,8 +94,8 @@
                   </adminInfo>
                   <surrogates><bibl type="digital-facsimile" subtype="full"><ref target="https://digital.bodleian.ox.ac.uk/objects/8e001036-9101-4e4d-bde8-c0792db9b996/"><title>Digital Bodleian</title></ref> <note>(full digital facsimile)</note></bibl></surrogates><listBibl>
                      <bibl>Kennicott, Benjamin, Dissertatio generalis in Vetus Testamentum Hebraicum: cum variis lectionibus, ex codicibus manuscriptis et impressis. Recudi curavit et notas adiecit Paulus Iacobus Bruns. Brunovici: Orphanotrophei, 1783.</bibl>
-                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no.2326.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no.2326.</bibl>
+                     <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=453">no. 2326.</ref></bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=282">no. 2326.</ref></bibl>
                   </listBibl>
                </additional>
             </msDesc>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_203">
@@ -46,7 +46,7 @@
                   <altIdentifier>
                      <idno type="sum_cat_no">20354</idno>
                   </altIdentifier>
-               <altIdentifier type="other"><idno type="Neubauer">No. 1104</idno></altIdentifier></msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">1104</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Sidur according to the Ashkenazi rite (Würzburg Siddur)</summary>
                   <msItem xml:id="MS_Canonici_Or_1-item1" n="1">
@@ -106,7 +106,7 @@
                   <adminInfo>
                      <recordHist>
                         <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0194.jpg">No. 1104</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I, <ref facs="beo0143.jpg beo0144.jpg">No. 1104</ref>
+                           <ref facs="bej0194.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=206">No. 1104</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I, <ref facs="beo0143.jpg beo0144.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=143">No. 1104</ref>
                            </bibl>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000054758&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
@@ -119,9 +119,9 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, Catalogue of the Hebrew Manuscripts in the Bodleian Library (Oxford, 1886), no. 1104.</bibl>
+                     <bibl>Neubauer, Adolf, <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=206">no. 1104.</ref></bibl>
                      <bibl>Cohen-Mushlin, Aliza, "The artistic style of the 'Mahzor'", in Worms "Mahzor", MS. Jewish National and University Library Heb 4° 781/1; Introductory Volume. Ed. by Malachi Beit-Arié (Vaduz - Jerusalem: Jewish National and University Library, 1985), 92.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 1104.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</title> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=143">no. 1104.</ref></bibl>
                   </listBibl>
                </additional>
             </msDesc>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="https://raw.githubusercontent.com/bodleian/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_376">
@@ -43,7 +43,7 @@
                   <repository>Bodleian Library</repository>
                   <collection> Oriental Manuscripts Michael Collection</collection>
                   <idno>MS. Michael 619</idno><idno type="ieArk">ark:29072/x04m90dw451s</idno><idno type="crArk">ark:29072/x04j03d061q7</idno>
-               <altIdentifier type="other"><idno type="Neubauer">No. 2374</idno></altIdentifier></msIdentifier>
+               <altIdentifier type="other"><idno type="Neubauer">2374</idno></altIdentifier></msIdentifier>
                <msContents>
                   <summary>Tripartite Mahzor, volume 3</summary>
                   <msItem xml:id="MS_Michael_619-item1" n="1">
@@ -99,8 +99,8 @@
                   <adminInfo>
                      <recordHist>
                         <source>Manuscript description based on <bibl>Catalogue of the Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf Neubauer, Oxford 1886,</bibl>
-                           <ref facs="bej0451.jpg">No. 2374</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
-                           <ref facs="beo0287.jpg beo0288.jpg">No. 2374</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000055486&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
+                           <ref facs="bej0451.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=463">No. 2374</ref>, <bibl>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</bibl>
+                           <ref facs="beo0287.jpg beo0288.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=287">No. 2374</ref>, and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000055486&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
@@ -112,7 +112,7 @@
                      </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), no. 2374.</bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=463">no. 2374.</ref></bibl>
                      <bibl>Narkiss, Bezalel, ‘A Tripartite Illuminated Mahzor from a South German School of Hebrew Illuminated Manuscripts around 1300’, in <hi rend="italic">Fourth World Congress of Jewish Studies Papers</hi>, [2 volumes] (Jerusalem: World Union of Jewish Studies, 1968), II, pp. 129-33.</bibl>
                      <bibl>Narkiss, Bezalel, <hi rend="italic">Hebrew Illuminated Manuscripts</hi> (New York: Macmillan, 1969), p. 108.</bibl>
                      <bibl>Gutmann, Joseph, <hi rend="italic">Hebrew Manuscript Painting</hi> (New York: Braziller, 1978), pp. 92-95.</bibl>
@@ -120,7 +120,7 @@
                      <bibl>Narkiss, Bezalel, ‘On the Zoocephalic Phenomenon in Medieval Ashkenazi Manuscripts’, in <hi rend="italic">Norms and Variations in Art. Essays in Honour of Moshe Barasch</hi> (Jerusalem: Magnes Press, 1983), pp. 49-62.</bibl>
                      <bibl>Narkiss, Bezalel, 'Pharaoh is Dead and living at the Gates of Hell', <hi rend="italic">Journal of Jewish Art</hi> 10 (1984), 6-13 (p. 10).</bibl>
                      <bibl>Sed-Rajna, Gabrielle, <hi rend="italic">La Bible hébraïque</hi> (Fribourg: Office du Livre, 1987), pp. 147 and 150.</bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), no. 2374.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=287">no. 2374.</ref></bibl>
                      <bibl>Ruth Mellinkoff, <hi rend="italic">Antisemitic Hate Signs in Hebrew Illuminated Manuscripts from Medieval Germany</hi> (Jerusalem: Center of Jewish Art–The Hebrew University of Jerusalem, 1999).</bibl>
                      <bibl>Sarit Shalev-Eyni, ‘Ha-Mahzor ha-Meshullash’, unpublished doctoral thesis, (Jerusalem: Hebrew University, 2001).</bibl>
                      <bibl>Sarit Shalev-Eyni, 'In the Days of the Barley Harvest: The Iconography of Ruth', <hi rend="italic">Artibus et Historiae</hi>, 26 (2005), 37-57.</bibl>
