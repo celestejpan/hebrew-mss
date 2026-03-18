@@ -51,38 +51,55 @@
                <msContents>
                   <summary>The house of the forest of Lebanon (1-3)</summary>
                   <msItem>
-                     <title xml:lang="he">בית יער הלבנון (א-ג)</title>
-                     <title xml:lang="he-Latn-x-lc">Bet yaʻar ha-Levanon (1-3)</title>
-
+                     <title xml:lang="he" key="work_3334">בית יער הלבנון (א-ג)</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3334">Bet yaʻar ha-Levanon
+                        (1-3)</title>
                      <author key="person_15568196">
                         <persName>Jagel, Abraham ben Hananiah dei Galicchi, active 16th century-17th
                            century</persName>
                         <persName xml:lang="he">יגל, אברהם בן חנניה,1553-1622</persName>
                      </author>
                      <textLang mainLang="he">Hebrew</textLang>
+                     <note>This autograph manuscript contains Parts I-III of the author's second
+                        composition of the book.</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>paper</support>
-                        <extent>ff. 153</extent>
+                        <extent>ff. 153 <dimensions type="leaf" unit="mm">
+                              <height>300</height>
+                              <width>205</width>
+                           </dimensions>
+                           <note>There is some variation in the dimensions of the leaves across the
+                              three sections.</note>
+                        </extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Italian cursive script</summary>
                      <handNote/>
                   </handDesc>
-
+                  <bindingDesc>
+                     <p>Smooth dark brown leather over thin paper boards.</p>
+                  </bindingDesc>
                </physDesc>
                <history>
                   <origin>
                      <origDate>[late 16th-early 17th cent.]</origDate>
                      <origPlace>[Italy]</origPlace>
+                     <note><p>On <locus>f. 30v</locus>, the author refers to an event which happened
+                           in <date calendar="#Gregorian">1581</date>.</p></note>
                   </origin>
-                  <provenance> </provenance>
-                  <acquisition>It belonged to Rabbi Isaac Samuel Reggio's (1784-1855) library, which
-                     was purchased en bloc by the Bodleian Library in 1853.</acquisition>
+                  <provenance>Part II of the manuscript contains marginal notes by <persName
+                        key="person_7054"> Shmuel ben Elisha Portaleone</persName>
+                     <foreign xml:lang="he">שמואל בן אלישע משער אריה</foreign> (active in Italy
+                     during the early-17th century).</provenance>
+                  <acquisition>It belonged to <persName key="person_67197037">Isaac Samuel
+                        Reggio</persName>'s <date calendar="#Gregorian">(1784-1855)</date> library,
+                     which was purchased <hi rend="italic">en bloc</hi> by the Bodleian Library in
+                        <date calendar="#Gregorian">1853</date>.</acquisition>
                </history>
                <additional>
                   <adminInfo>
@@ -104,10 +121,21 @@
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 22118</idno>
                      </bibl>
+                     <bibl>                        <idno n="S.F. Or" type="microfilm"
+                        >763</idno>                     </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=278">no. 1304.</ref></bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=164">no. 1304.</ref></bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
+                           the Bodleian Library</hi> (Oxford, 1886), no. 1304.</bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
+                           Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                           Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                        Press, 1994), no. 1304.</bibl>
+                     <bibl>Ruderman, David B., <hi rend="italic">Jewish Thought in the Seventeenth
+                           Century</hi> (Cambridge (MA) and London, 1986), pp. 343-65.</bibl>
+                     <bibl>Ruderman, David B., <hi rend="italic">Kabbalah, Magic, and Science</hi>
+                        (Cambridge (MA) and London, 1988), pp. 31 ff. and <hi rend="italic"
+                           >passim</hi>.</bibl>
                   </listBibl>
                </additional>
             </msDesc>

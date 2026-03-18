@@ -63,7 +63,12 @@
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>parchment</support>
-                        <extent>ff. 243; <dim>336 x 270 mm</dim>; <note><locus>ff. 234-243</locus>
+                        <extent>ff. 243 
+                           <dimensions type="leaf" unit="mm">
+                           <height>324</height>
+                           <width>240</width>
+                           </dimensions> 
+                           <note><locus>Ff. 234-243</locus>
                               were added from another manuscript and there is some overlap in
                               content.</note></extent>
                      </supportDesc>
@@ -77,10 +82,10 @@
                         <foreign xml:lang="he">כל</foreign> from <hi rend="italic">kol nidrei</hi>
                         <foreign xml:lang="he">כל נדרי</foreign> is decorated with monochrome
                         penwork; the strokes of the letters enclose tiny quadrupeds and drgaons
-                        executed in the spared ground technique. </decoNote>
+                        executed in the spared-ground technique. </decoNote>
                   </decoDesc>
                   <bindingDesc>
-                     <p>Light brown leather over thin paper boards.</p>
+                     <p>Light golden-brown leather over paper boards.</p>
                   </bindingDesc>
                </physDesc>
                <history>
@@ -90,9 +95,10 @@
                   </origin>
                   <provenance>Owned by Zadok ben Yitsḥaḳ <foreign xml:lang="he">צדוק בן
                         יצחק</foreign> of <foreign xml:lang="he">פערקיס</foreign>, who recorded the
-                     death of his mother in <date calendar="#Gregorian">1694</date> in
-                     Schlettstadt/Sélestat on <locus>f. 1r</locus>. On <locus>f. 144r</locus>, a
-                     small decorated ownership inscription by Avraham ben Shmuel <foreign xml:lang="he">אברהם בן שמואל</foreign> underneath an initial
+                     death of his mother in <date calendar="#Gregorian">1694</date> in <placeName
+                        key="place_85">Sélestat</placeName> on <locus>f. 1r</locus>. On <locus>f.
+                        144r</locus>, a small decorated ownership inscription by Avraham ben Shmuel
+                        <foreign xml:lang="he">אברהם בן שמואל</foreign> underneath an initial
                      word.</provenance>
                   <acquisition>It belonged to the library of <persName ref="http://viaf.org/viaf/17140230" key="person_17140230">Heimann Joseph
                         Michael</persName>
@@ -123,6 +129,8 @@
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 22626</idno>
                      </bibl>
+                     <bibl>                        <idno n="S.F. Or" type="microfilm"
+                        >807</idno>                     </bibl>
                   </surrogates>
                   <listBibl>
                      <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
