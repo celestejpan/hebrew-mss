@@ -6,9 +6,17 @@
         <fileDesc>
             <titleStmt>
                 <title>Digital description of MS. Marshall Or. 133(2)</title>
-                <respStmt xml:id="BW"><resp when="2024">Cataloguer</resp><persName>Benjamin Whittle</persName></respStmt><respStmt xml:id="ZB">
+                <respStmt xml:id="ZB">
                     <resp when="2016">Cataloguer</resp>
                     <name type="person">Zsofia Buda</name>
+                </respStmt>
+                <respStmt xml:id="BW">
+                    <resp when="2024">Cataloguer</resp>
+                    <persName>Benjamin Whittle</persName>
+                </respStmt>
+                <respStmt xml:id="CP">
+                    <resp when="2026">Cataloguer</resp>
+                    <persName>Celeste Pan</persName>
                 </respStmt>
             </titleStmt>
             <publicationStmt>
@@ -22,7 +30,8 @@
                         <settlement>Oxford</settlement>
                         <postCode>OX1 3BG</postCode>
                         <addrLine>
-                            <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                            <ref target="http://www.bodleian.ox.ac.uk/libraries/collections"
+                                >Bodleian Library</ref>
                         </addrLine>
                         <addrLine>
                             <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -33,7 +42,8 @@
                 <idno type="catalogue">Hebrew</idno>
             </publicationStmt>
             <sourceDesc>
-                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Marshall_Or_133_2" xml:lang="en">
+                <msDesc xmlns="http://www.tei-c.org/ns/1.0" xml:id="MS_Marshall_Or_133_2"
+                    xml:lang="en">
                     <msIdentifier>
                         <country>United Kingdom</country>
                         <region type="county">Oxfordshire</region>
@@ -59,10 +69,17 @@
                         <summary>Sidur for the entire year, Western Ashkenazi rite</summary>
                         <msItem n="1" xml:id="MS_Marshall_Or_133_2_a">
                             <locus>ff. 158r-278v</locus>
-                            <title>Sidur for the entire year according to the Western Ashkenazi rite</title>
-                            <title xml:lang="he">   סדור מנהג אשכנז המערבי לכל השנה</title>
-                            <note>Second volume of a three-volume set; first volume: <ref target="/p/m/yje14x7qz12mh89d83q4ae4120">MS. Marshall Or. 133(1)</ref>; third volume <ref target="/p/m/s23pbewjks0z18c765crne4q5g">MS. Marshall Or. 133(3)</ref>.</note>
-                            <note>Content: two set of yotserot for Shabat Ḥatan, one by Shimeon bar Yitsḥaḳ and the other one by Yitsḥaḳ ben Eliʾezer. </note>
+                            <title>Sidur for the entire year according to the Western Ashkenazi
+                                rite</title>
+                            <title xml:lang="he"> סדור מנהג אשכנז המערבי לכל השנה</title>
+                            <note>Second volume of a three-volume set; first volume: <ref
+                                    target="/p/m/yje14x7qz12mh89d83q4ae4120">MS. Marshall Or.
+                                    133(1)</ref>; third volume <ref
+                                    target="/p/m/s23pbewjks0z18c765crne4q5g">MS. Marshall Or.
+                                    133(3)</ref>.</note>
+                            <note>Content: two set of <hi rend="italic">yotserot</hi> for Shabbat
+                                Ḥatan, one by Shimeon bar Yitsḥaḳ and the other one by Yitsḥaḳ ben
+                                Eliʾezer. </note>
                             <textLang mainLang="he">Hebrew</textLang>
                         </msItem>
                     </msContents>
@@ -85,7 +102,11 @@
                             <origDate when="1291" calendar="Gregorian">1291</origDate>
                         </origin>
                         <provenance/>
-                        <acquisition>Thomas Marshall (1620/1-1685), rector of Lincoln College, Oxford, bequeathed his MSS to the University of Oxford, which received them with delay in 1689-1890. </acquisition>
+                        <acquisition><persName key="person_138999790">Thomas Marshall</persName>
+                            <date calendar="#Gregorian">(1620/1-1685)</date>, rector of Lincoln
+                            College, Oxford, bequeathed his MSS to the University of Oxford, which
+                            received them with delay in <date calendar="#Gregorian"
+                                >1689-1890</date>.</acquisition>
                     </history>
                     <additional>
                         <adminInfo>
@@ -97,21 +118,28 @@
                                         Hebrew manuscripts in the Bodleian Library; Supplement of
                                         Addenda and Corrigenda to Vol. I <ref facs="beo0148.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=148">No.
                                             1153. </ref>
-                                    </bibl> and on the data of the <ref target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000063072&amp;local_base=NNLMSS">Institute of Microfilmed Hebrew Manuscripts</ref>, National
+                                    </bibl> and on the data of the <ref
+                                        target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000063072&amp;local_base=NNLMSS"
+                                        >Institute of Microfilmed Hebrew Manuscripts</ref>, National
                                     Library of Israel with additional enhancements by the
                                     cataloguer. </source>
                             </recordHist>
                             <availability status="restricted">
                                 <p>Entry to read in the Library is permitted only on presentation of
-                                    a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact
-                                        <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further
-                                    information on the availability of this manuscript.</p>
+                                    a valid reader's card (for admissions procedures contact <ref
+                                        target="http://www.bodleian.ox.ac.uk/services/admissions/"
+                                        >Bodleian Admissions</ref>). Contact
+                                        <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+                                    for further information on the availability of this
+                                    manuscript.</p>
                             </availability>
                         </adminInfo>
                         <surrogates>
                             <bibl>
                                 <idno n="MSS R.R. Film No." type="microfilm">F 16613</idno>
                             </bibl>
+                            <bibl>                        <idno n="S.F. Or" type="microfilm"
+                                    >834</idno>                     </bibl>
                         </surrogates>
                         <listBibl>
                             <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue  of the Hebrew Manuscripts in the
@@ -139,9 +167,9 @@
                 </taxonomy>
                 <taxonomy xml:id="IMHM">
                     <desc>Catalogue of the <bibl>
-                            <ref target="http://www.jnul.huji.ac.il/imhm/">
-                                Institute of Microfilmed Hebrew Manuscripts, Jewish National and
-                                University Library, Jerusalem</ref>
+                            <ref target="http://www.jnul.huji.ac.il/imhm/"> Institute of Microfilmed
+                                Hebrew Manuscripts, Jewish National and University Library,
+                                Jerusalem</ref>
                         </bibl>
                     </desc>
                 </taxonomy>
@@ -154,8 +182,8 @@
                 </keywords>
                 <keywords scheme="LCSH">
                     <term>
-                        <persName ref="http://viaf.org/viaf/138999790" key="person_138999790">Marshall,
-                            Thomas,1621-1685</persName>
+                        <persName ref="http://viaf.org/viaf/138999790" key="person_138999790"
+                            >Marshall, Thomas,1621-1685</persName>
                     </term>
                     <term>Siddur</term>
                 </keywords>
@@ -165,7 +193,9 @@
             </textClass>
         </profileDesc>
         <revisionDesc>
-            <change when="2024" who="BW"><persName>Benjamin Whittle</persName> updated this file for publication</change><change when="2016-01-29">
+            <change when="2024" who="BW"><persName>Benjamin Whittle</persName> updated this file for
+                publication</change>
+            <change when="2016-01-29">
                 <name type="person">Zsofia Buda</name> created this file</change>
         </revisionDesc>
     </teiHeader>

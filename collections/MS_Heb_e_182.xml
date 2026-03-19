@@ -8,6 +8,10 @@
                <resp when="2024">Cataloguer</resp>
                <persName>Benjamin Whittle</persName>
             </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
@@ -20,7 +24,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -48,10 +53,10 @@
                </msIdentifier>
                <msContents>
                   <msItem n="1">
-                     <locus>Fols. 1a-98b</locus>
+                     <locus>Ff. 1r-98v</locus>
                      <title/>
-                     <title xml:lang="he">ספר הכוזרי</title>
-                     <title xml:lang="he-Latn-x-lc">Sefer ha-Kozari</title>
+                     <title xml:lang="he" key="work_180">ספר הכוזרי</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_180">Sefer ha-Kuzari</title>
                      <author key="person_88025838">
                         <persName>Judah, ha-Levi, active 12th century</persName>
                         <persName xml:lang="he">יהודה, הלוי, 1075 בערך-1141</persName>
@@ -59,16 +64,17 @@
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="2">
-                     <locus>Fols 99a-129a</locus>
+                     <locus>Ff. 99r-129r</locus>
                      <title/>
                      <title xml:lang="he">כתב התנצלות</title>
-                     <title xml:lang="he-Latn-x-lc">Ketav hitnatslut</title>
+                     <title xml:lang="he-Latn-x-lc">Ketav ha-hitnatslut</title>
                      <author key="person_120777116">
-                        <persName>Jedaiah ben Abraham Bedersi, approximately 1270-approximately 1340</persName>
-                        <persName xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</persName>                        
+                        <persName>Jedaiah ben Abraham Bedersi, approximately 1270-approximately
+                           1340</persName>
+                        <persName xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</persName>
                      </author>
                      <textLang mainLang="he">Hebrew</textLang>
-                  </msItem>                  
+                  </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
@@ -78,29 +84,38 @@
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <summary>Sephardic semi-cursive scripts</summary>
-                     <handNote>No. 2 by a different hand on different paper. <locus>Fols. 2r-14r</locus> of no. 1 are copied by a different hand from the rest of no. 1.</handNote>
+                     <summary>Sephardic semi-cursive script</summary>
+                     <handNote>No. 2 by a different hand on different paper. <locus>Ff.
+                           2r-14r</locus> of No. 1 are copied by a different hand from the rest of
+                        no. 1.</handNote>
                   </handDesc>
-
+                  <bindingDesc/>
                </physDesc>
                <history>
                   <origin>
-                     <origDate>No. 1: [Mid-late 15th cent. (a watermark similar to Briquet no. 5575, dated 1456-70)]; No. 2: [Mid-15th cent. (watermarks similar to Briquet no. 15909, dated 1452)]</origDate>
+                     <origDate>No. 1: [Mid-late 15th cent. (a watermark similar to Briquet no. 5575,
+                        dated 1456-70)]; No. 2: [Mid-15th cent. (watermarks similar to Briquet no.
+                        15909, dated 1452)]</origDate>
                      <origPlace>[Provence?]</origPlace>
                   </origin>
-                  <provenance>
-                  </provenance>
+                  <provenance> </provenance>
                   <acquisition/>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
+
                         <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
                            <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=266">No. 1231</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
                                  <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=157">No. 1231</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -116,7 +131,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      </teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>
