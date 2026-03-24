@@ -8,6 +8,10 @@
                <resp when="2024">Cataloguer</resp>
                <persName>Benjamin Whittle</persName>
             </respStmt>
+            <respStmt xml:id="CP">
+               <resp when="2026">Cataloguer</resp>
+               <persName>Celeste Pan</persName>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
             <publisher>Bodleian Library</publisher>
@@ -20,7 +24,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -48,10 +53,10 @@
                </msIdentifier>
                <msContents>
                   <msItem n="1">
-                     <locus>Fols. 1a-9b</locus>
+                     <locus>Ff. 1r-9v</locus>
                      <title type="desc">Sermons on Leviticus</title>
                      <title type="desc" xml:lang="he">דרשות על ויקרא</title>
-                     <title type="desc" xml:lang="he-Latn-x-lc">Dirshot 'al ṿayyiḳra</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Derashot ʿal ṿayyiḳra</title>
                      <author key="person_17580591">
                         <persName>Ibn Shuaib, Joshua, active 14th century</persName>
                         <persName xml:lang="he">שועיב, יהושע אבן</persName>
@@ -59,19 +64,22 @@
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="2">
-                     <locus>Fol. 10</locus>
+                     <locus>F. 10</locus>
                      <title>The Signs of the Skies</title>
                      <title xml:lang="he">אותות השמים</title>
-                     <title xml:lang="he-Latn-x-lc">'Otot ha-shamaim</title>
+                     <title xml:lang="he-Latn-x-lc">Otot ha-shamaim</title>
                      <author key="person_7524651">
                         <persName>Aristotle</persName>
                         <persName xml:lang="he">אריסטו</persName>
                      </author>
                      <textLang mainLang="he">Hebrew</textLang>
-                     <note>One leaf of <persName key="person_97166726">Samuel ibn Tibbon</persName>'s translation of <persName key="person_7524651">Aristotle</persName>'s meterology, corresponding to fols. 4-5 of Neubauer no. 1372, I.</note>
-                  </msItem> 
+                     <note>One leaf of <persName key="person_97166726">Samuel ibn
+                        Tibbon</persName>'s translation of <persName key="person_7524651"
+                           >Aristotle</persName>'s meterology, corresponding to <locus>ff. 4-5</locus> of
+                        Neubauer no. 1372, I.</note>
+                  </msItem>
                   <msItem n="3">
-                     <locus>Fols. 11a-15b</locus>
+                     <locus>Ff. 11r-15v</locus>
                      <title>The Wars of the Name</title>
                      <title xml:lang="he">מלחמות השם</title>
                      <title xml:lang="he-Latn-x-lc">Milḥamot ha-Shem</title>
@@ -81,7 +89,7 @@
                      </author>
                      <textLang mainLang="he">Hebrew</textLang>
                      <note>Continuation of MS. Hunt 53 (Neubauer no. 1290).</note>
-                  </msItem>                   
+                  </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
@@ -91,18 +99,24 @@
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <summary>No. 1: Oriental semi-cursive script; No. 2: Sephardic semi-cursive script; No. 3: Sephardic semi-cursive script.</summary>
-                     <handNote>No. 3: Colophon (on <locus>fol. 15r</locus>) in cursive script. No. 3 was written by <persName>Mordekhai <lang xml:lang="he">דוראנט פריצול</lang></persName> for <persName><lang xml:lang="he">נבירי גאקוב דקווליאון</lang></persName>, finishd the 25th of Abh 5225=1465.</handNote>
-                  </handDesc> 
-                  
+                     <summary>No. 1: Oriental semi-cursive script; No. 2: Sephardic semi-cursive
+                        script; No. 3: Sephardic semi-cursive script.</summary>
+                     <handNote>No. 3: Colophon (on <locus>f. 15r</locus>) in cursive script. No. 3
+                        was written by <persName>Mordekhai <lang xml:lang="he">דוראנט
+                           פריצול</lang></persName> for <persName><lang xml:lang="he">נבירי גאקוב
+                              דקווליאון</lang></persName>, finishd on the 25th of Av
+                        5225=1465.</handNote>
+                  </handDesc>
+
                </physDesc>
                <history>
                   <origin>
-                     <origDate>No. 1: [15th cent.]; No. 2: [late 15th cent.]; No. 3: 1465.</origDate>
-                     <origPlace>No. 1: [Orient]; No. 2: [Byzantium or southern Italy]; No. 3: [Provence].</origPlace>
+                     <origDate>No. 1: [15th cent.]; No. 2: [late 15th cent.]; No. 3:
+                        1465.</origDate>
+                     <origPlace>No. 1: [Orient]; No. 2: [Byzantium or southern Italy]; No. 3:
+                        [Provence].</origPlace>
                   </origin>
-                  <provenance>
-                  </provenance>
+                  <provenance> </provenance>
                   <acquisition/>
                </history>
                <additional>
@@ -113,13 +127,20 @@
                            <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=294">No. 2426</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
                      <bibl>
                         <idno n="MSS R.R. Film No." type="microfilm">F 45008</idno>
                      </bibl>
+                     <bibl>                        <idno n="S.F. Or" type="microfilm"
+                           >2793</idno>                     </bibl>
                   </surrogates>
                   <listBibl>
                      <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=477">no. 2426.</ref></bibl>
@@ -129,7 +150,7 @@
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      </teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>

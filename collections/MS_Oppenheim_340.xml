@@ -20,7 +20,8 @@
                   <settlement>Oxford</settlement>
                   <postCode>OX1 3BG</postCode>
                   <addrLine>
-                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian Library</ref>
+                     <ref target="http://www.bodleian.ox.ac.uk/libraries/collections">Bodleian
+                        Library</ref>
                   </addrLine>
                   <addrLine>
                      <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
@@ -82,7 +83,8 @@
                      <locus>ff. 151r-154r</locus>
                      <title>Prayers</title>
                      <title xml:lang="he">תפלות לאבלים, לחתנים ולמילה</title>
-                     <title xml:lang="he-Latn-x-lc">Tefilot le-'avelim, le-ḥatanim ṿele-milah</title>
+                     <title xml:lang="he-Latn-x-lc">Tefilot le-'avelim, le-ḥatanim
+                        ṿele-milah</title>
                      <author key="">
                         <persName/>
                         <persName xml:lang="he"/>
@@ -104,7 +106,7 @@
                      <title type="desc" xml:lang="he">טופסי שטרות</title>
                      <title type="desc" xml:lang="he-Latn-x-lc">Ṭofsey shetarot</title>
                      <textLang mainLang="he">Hebrew</textLang>
-                  </msItem>                  
+                  </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
@@ -115,7 +117,8 @@
                   </objectDesc>
                   <handDesc>
                      <summary>Ashkenazic semi-cursive script</summary>
-                     <handNote>The scribe copied this for his personal use (colophon on <locus>f. 157r</locus>.</handNote>
+                     <handNote>The scribe copied this for his personal use (colophon on <locus>f.
+                           157r</locus>.</handNote>
                   </handDesc>
 
                </physDesc>
@@ -124,8 +127,7 @@
                      <origDate>1299</origDate>
                      <origPlace>France</origPlace>
                   </origin>
-                  <provenance>
-                  </provenance>
+                  <provenance> </provenance>
                   <acquisition/>
                </history>
                <additional>
@@ -136,7 +138,12 @@
                                  <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=125">No. 875</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
-                        <p>Entry to read in the Library is permitted only on presentation of a valid reader's card (for admissions procedures contact <ref target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian Admissions</ref>). Contact <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for further information on the availability of this manuscript.</p>
+                        <p>Entry to read in the Library is permitted only on presentation of a valid
+                           reader's card (for admissions procedures contact <ref
+                              target="http://www.bodleian.ox.ac.uk/services/admissions/">Bodleian
+                              Admissions</ref>). Contact
+                              <email>specialcollections.enquiries@bodleian.ox.ac.uk</email> for
+                           further information on the availability of this manuscript.</p>
                      </availability>
                   </adminInfo>
                   <surrogates>
@@ -147,12 +154,15 @@
                   <listBibl>
                      <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=139">no. 875.</ref></bibl>
                      <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=125">no. 875.</ref></bibl>
+                     <bibl>Galinsky, Judah D., <hi rend="italic">The Making of a Medieval
+                           Bestseller: Rabbi Isaac of Corbeil's Pillars of Exile and its
+                           Readers</hi> (Oxford University Press, 2025), pp. 182, 184-5, 191.</bibl>
                   </listBibl>
                </additional>
             </msDesc>
          </sourceDesc>
       </fileDesc>
-      </teiHeader>
+   </teiHeader>
    <text>
       <body>
          <p><!--Body paragraph provided for validation and future transcription--></p>
