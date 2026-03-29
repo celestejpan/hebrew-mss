@@ -66,10 +66,10 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary>Sidur for the entire year, Western Ashkenazi rite</summary>
+                        <summary>Siddur for the entire year, Western Ashkenazi rite</summary>
                         <msItem n="1" xml:id="MS_Marshall_Or_133_3_a">
                             <locus>ff. 279r-373v</locus>
-                            <title>Sidur for the entire year according to the Western Ashkenazi
+                            <title>Siddur for the entire year according to the Western Ashkenazi
                                 rite</title>
                             <title xml:lang="he"> סדור מנהג אשכנז המערבי לכל השנה</title>
                             <note>Third volume of a three-volume set; first volume: <ref
@@ -78,9 +78,11 @@
                                     target="/p/m/78r8h08z4n3337cms4ntz2wayr">MS. Marshall Or.
                                     133(2)</ref>.</note>
                             <note>Content: two sets of <hi rend="italic">yotserot</hi> for
-                                circumcision (one by Eleazar ben Natan, the other by Avraham Kohen)
-                                    <hi rend="italic">yotserot</hi> for Shabbat shuvah, for Ḥol
-                                ha-moʿed Sukot, Shabbat Parashat Ṿayirah, and Shabbat Hanukah. </note>
+                                circumcision (one by Eleazar ben Natan, the other by Avraham Kohen);
+                                    <hi rend="italic">yotserot</hi> for <hi rend="italic">Shabbat
+                                    shuvah</hi>, for <hi rend="italic">Ḥol ha-moʿed Sukkot</hi>, <hi
+                                    rend="italic">Shabbat Parashat Ṿayirah</hi>, and <hi
+                                    rend="italic">Shabbat Ḥanukah</hi>. </note>
                             <textLang mainLang="he">Hebrew</textLang>
                         </msItem>
                     </msContents>
@@ -88,7 +90,11 @@
                         <objectDesc form="codex">
                             <supportDesc material="perg">
                                 <support>parchment</support>
-                                <extent>ff. 95 (ff. 279-373) </extent>
+                                <extent>ff. 95 (ff. 279-373) <dimensions type="leaf" unit="mm">
+                                        <height>80</height>
+                                        <width>82</width>
+                                    </dimensions>
+                                    <note>The manuscript opens in landscape format.</note></extent>
                                 <foliation>Foliation in Arabic numerals. </foliation>
                             </supportDesc>
                         </objectDesc>
@@ -96,6 +102,11 @@
                             <summary>Ashkenazi square script.</summary>
                             <handNote scope="major" script="ashkenazi" rend="square"/>
                         </handDesc>
+                        <bindingDesc>
+                            <p>Smooth golden-brown leather over paper boards. ‘JOSEROTH’ has been
+                                gold-tooled on the spine. Black fine-grained leather label at the
+                                base of spine, displaying the current shelfmark.</p>
+                        </bindingDesc>
                     </physDesc>
                     <history>
                         <origin>
@@ -107,7 +118,7 @@
                             <date calendar="#Gregorian">(1620/1-1685)</date>, rector of Lincoln
                             College, Oxford, bequeathed his MSS to the University of Oxford, which
                             received them with delay in <date calendar="#Gregorian"
-                                >1689-1890</date>.</acquisition>
+                            >1689-1890</date>.</acquisition>
                     </history>
                     <additional>
                         <adminInfo>
@@ -115,10 +126,13 @@
                                 <source> Manuscript description based on <bibl>Catalogue of the
                                         Hebrew Manuscripts in the Bodleian Library, vol. I, by Adolf
                                         Neubauer, Oxford 1886, </bibl>
-                                    <ref facs="bej0208.jpg" target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=220">No. 1153</ref>, <bibl>Catalogue of the
-                                        Hebrew manuscripts in the Bodleian Library; Supplement of
-                                        Addenda and Corrigenda to Vol. I <ref facs="beo0148.jpg" target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=148">No.
-                                            1153. </ref>
+                                    <ref facs="bej0208.jpg"
+                                        target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=220"
+                                        >No. 1153</ref>, <bibl>Catalogue of the Hebrew manuscripts
+                                        in the Bodleian Library; Supplement of Addenda and
+                                        Corrigenda to Vol. I <ref facs="beo0148.jpg"
+                                            target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=148"
+                                            >No. 1153. </ref>
                                     </bibl> and on the data of the <ref
                                         target="http://aleph.nli.org.il:80/F/?func=direct&amp;doc_number=000063072&amp;local_base=NNLMSS"
                                         >Institute of Microfilmed Hebrew Manuscripts</ref>, National
@@ -143,12 +157,16 @@
                                     >834</idno>                     </bibl>
                         </surrogates>
                         <listBibl>
-                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue  of the Hebrew Manuscripts in the
-                                Bodleian Library </hi>(Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=220">no. 1153.</ref></bibl>
-                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew
-                                manuscripts in the Bodleian Library; Supplement of Addenda and
-                                Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue) (Oxford: Clarendon
-                                Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=148">no. 1153.</ref></bibl>
+                            <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew
+                                    Manuscripts in the Bodleian Library </hi>(Oxford, 1886), <ref
+                                    target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=220"
+                                    >no. 1153.</ref></bibl>
+                            <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue
+                                    of the Hebrew manuscripts in the Bodleian Library; Supplement of
+                                    Addenda and Corrigenda to Vol. I </hi>(A. Neubauer’s Catalogue)
+                                (Oxford: Clarendon Press, 1994), <ref
+                                    target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=148"
+                                    >no. 1153.</ref></bibl>
                         </listBibl>
                     </additional>
                 </msDesc>

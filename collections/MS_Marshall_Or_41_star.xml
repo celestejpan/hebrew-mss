@@ -44,87 +44,151 @@
                   <repository>Bodleian Library</repository>
                   <collection>Marshall Collection</collection>
                   <idno>MS. Marshall Or. 41*</idno>
-               <altIdentifier type="other">
-                  <idno type="Neubauer">2426</idno>
-               </altIdentifier>
-               <altIdentifier>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">2426</idno>
+                  </altIdentifier>
+                  <altIdentifier>
                      <idno type="former">MS. Marshall Or. 8</idno>
                   </altIdentifier>
                </msIdentifier>
                <msContents>
                   <msItem n="1">
-                     <locus>Ff. 1r-9v</locus>
+                     <locus>ff. 1r-9v</locus>
                      <title type="desc">Sermons on Leviticus</title>
-                     <title type="desc" xml:lang="he">דרשות על ויקרא</title>
-                     <title type="desc" xml:lang="he-Latn-x-lc">Derashot ʿal ṿayyiḳra</title>
+                     <title type="desc" xml:lang="he" key="work_3336">דרשות על ויקרא</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc" key="work_3336">Derashot ʿal
+                        ṿayyiḳra</title>
                      <author key="person_17580591">
                         <persName>Ibn Shuaib, Joshua, active 14th century</persName>
-                        <persName xml:lang="he">שועיב, יהושע אבן</persName>
+                        <persName xml:lang="he">יהושע אבן שועיב</persName>
                      </author>
                      <textLang mainLang="he">Hebrew</textLang>
+                     <note>The text is incomplete. A longer (though still incomplete) version of the
+                        same text is contained in <idno>MS. Michael 149</idno> (Neubauer no. <idno
+                           type="Neubauer">982</idno>).</note>
                   </msItem>
                   <msItem n="2">
-                     <locus>F. 10</locus>
-                     <title>The Signs of the Skies</title>
-                     <title xml:lang="he">אותות השמים</title>
-                     <title xml:lang="he-Latn-x-lc">Otot ha-shamaim</title>
+                     <locus>f. 10</locus>
+                     <title>Meteorology</title>
+                     <title xml:lang="he" key="work_3335">אותות השמים</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3335">Otot ha-shamayim</title>
                      <author key="person_7524651">
                         <persName>Aristotle</persName>
                         <persName xml:lang="he">אריסטו</persName>
                      </author>
                      <textLang mainLang="he">Hebrew</textLang>
                      <note>One leaf of <persName key="person_97166726">Samuel ibn
-                        Tibbon</persName>'s translation of <persName key="person_7524651"
-                           >Aristotle</persName>'s meterology, corresponding to <locus>ff. 4-5</locus> of
-                        Neubauer no. 1372, I.</note>
+                        Tibbon</persName>'s Hebrew version of <persName key="person_7524651"
+                           >Aristotle</persName>'s <hi rend="italic">Meteorology</hi>, corresponding
+                        to <locus>ff. 4-5</locus> of <idno>MS. Michael 180</idno> (Neubauer no.
+                           <idno type="Neubauer">1372</idno>).</note>
                   </msItem>
                   <msItem n="3">
-                     <locus>Ff. 11r-15v</locus>
-                     <title>The Wars of the Name</title>
-                     <title xml:lang="he">מלחמות השם</title>
-                     <title xml:lang="he-Latn-x-lc">Milḥamot ha-Shem</title>
+                     <locus>ff. 11r-15v</locus>
+                     <title>Sefer Milḥamot ha-Shem</title>
+                     <title xml:lang="he" key="work_9">מלחמות השם</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_9">Milḥamot ha-Shem</title>
                      <author key="person_59118174">
                         <persName>Levi ben Gershom, 1288-1344</persName>
                         <persName xml:lang="he">לוי בן גרשום</persName>
                      </author>
                      <textLang mainLang="he">Hebrew</textLang>
-                     <note>Continuation of MS. Hunt 53 (Neubauer no. 1290).</note>
+                     <note>Continuation of <idno>MS. Huntington 53</idno> (Neubauer no. <idno
+                           type="Neubauer">1290</idno>).</note>
                   </msItem>
                </msContents>
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>paper</support>
-                        <extent>ff. 15</extent>
+                        <extent>ff. 15<dimensions type="leaf" unit="mm">
+                              <height>270</height>
+                              <width>170</width>
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              <height>255</height>
+                              <width>190</width>
+                           </dimensions>
+                           <note>The dimensions of Nos. 2 and 3 are similar (and different from No.
+                              1), but there is some variation in the leaf dimensions within No. 3.
+                              The second set of measurements show the average leaf dimensions for
+                              Nos. 2 and 3.</note></extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>No. 1: Oriental semi-cursive script; No. 2: Sephardic semi-cursive
                         script; No. 3: Sephardic semi-cursive script.</summary>
                      <handNote>No. 3: Colophon (on <locus>f. 15r</locus>) in cursive script. No. 3
-                        was written by <persName>Mordekhai <lang xml:lang="he">דוראנט
-                           פריצול</lang></persName> for <persName><lang xml:lang="he">נבירי גאקוב
-                              דקווליאון</lang></persName>, finishd on the 25th of Av
-                        5225=1465.</handNote>
+                        was written by <persName key="person_7055">Mordecai Durant
+                           Farissol</persName>
+                        <foreign xml:lang="he">מרדכי דוראנט פריצול</foreign> for <persName
+                           key="person_7056">Jacob Léon of Cavaillon</persName>
+                        <foreign xml:lang="he">גאקוב/יקוב דקווליאן</foreign>, finishd on the 25th of
+                        Av 5225=<date calendar="#Gregorian">1465</date>.</handNote>
                   </handDesc>
-
+                  <decoDesc>
+                     <decoNote><p>Nos. 1 and 2 are not decorated.</p>
+                        <p>No. 3 contains several decorated rectangular initial word panels, which
+                           have been outlined and painted using light washes of yellow and olive
+                           green, with added details in red. The initial words themselves have also
+                           been executed with red ink.</p>
+                        <p>The design of the panels incorporates a mixture of abstract/geometric and
+                           foliate motifs; foliate flourishes tend to issue outwards from the
+                           corners of the panels. There are also a few figural elements, which are
+                           either attached to the outsides of the panels, or placed near the panels
+                           in the margins; these include a stork, a stylised human profile and a
+                           lion.</p>
+                        <p>It seems that the decoration has been executed by the patron of the
+                           manuscript, <persName key="person_7056">Jacob Léon of
+                              Cavaillon</persName>
+                           <foreign xml:lang="he">גאקוב/יקוב דקווליאון</foreign>, since his
+                           colophon/ownership inscription (<locus>f. 15r</locus>) has been written
+                           around the drawing of the lion, clearly with the same red ink that was
+                           used for the penwork decorations. The drawing of the lion, placed between
+                           the words 'Jacob' <foreign xml:lang="he">יקוב</foreign> and 'of
+                           Cavaillon' <foreign xml:lang="he">דקוליאון</foreign>, was therefore most
+                           likely a visual pun on his by-name Léon.</p></decoNote>
+                  </decoDesc>
+                  <bindingDesc>
+                     <p>Dark green coated cloth over thin paper boards, quarter-bound in smooth
+                        golden-brown leather. A black leather label bearing the gold-tooled
+                        shelfmark near the base of the spine.</p>
+                     <condition>Some repairs to the leather near the spine on the upper and lower
+                        boards.</condition>
+                  </bindingDesc>
+                  <accMat>The Hebrew items are bound together with many other fragments of various
+                     sizes in Arabic, Latin, Syriac and English.</accMat>
                </physDesc>
                <history>
                   <origin>
-                     <origDate>No. 1: [15th cent.]; No. 2: [late 15th cent.]; No. 3:
-                        1465.</origDate>
+                     <origDate>No. 1: [15th cent.]; No. 2: [late 15th cent.]; No. 3: <date
+                           calendar="#Gregorian">1465</date>.</origDate>
                      <origPlace>No. 1: [Orient]; No. 2: [Byzantium or southern Italy]; No. 3:
                         [Provence].</origPlace>
                   </origin>
-                  <provenance> </provenance>
+                  <provenance>The patron and decorator of this manuscript, <persName
+                        key="person_7056">Jacob Léon of Cavaillon</persName>
+                     <foreign xml:lang="he">גאקוב/יקוב דקווליאון</foreign>, was the recipient of
+                     another work, a treatise on the calendar by <persName>Moses Botarel Farissol</persName>, which was
+                     also written in <date calendar="#Gregorian">1465</date> (see Henri Gross, <hi
+                        rend="italic">Gallia Judaica</hi>, p. 539).</provenance>
                   <acquisition/>
                </history>
                <additional>
                   <adminInfo>
                      <recordHist>
-                        <source>Manuscript description based on <title>Catalogue of the Hebrew Manuscripts in the Bodleian Library</title>, vol. I, by Adolf Neubauer, Oxford 1886,
-                           <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=477">No. 2426</ref>, <title>Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I,</title>
-                           <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=294">No. 2426</ref>, and on the data of the Institute of Microfilmed Hebrew Manuscripts, National Library of Israel with additional enhancements by the cataloguer.</source>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=477"
+                              >No. 2426</ref>, <title>Catalogue of the Hebrew manuscripts in the
+                              Bodleian Library; Supplement of Addenda and Corrigenda to Vol.
+                              I,</title>
+                           <ref
+                              target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=294"
+                              >No. 2426</ref>, and on the data of the Institute of Microfilmed
+                           Hebrew Manuscripts, National Library of Israel with additional
+                           enhancements by the cataloguer.</source>
                      </recordHist>
                      <availability status="restricted">
                         <p>Entry to read in the Library is permitted only on presentation of a valid
@@ -140,11 +204,21 @@
                         <idno n="MSS R.R. Film No." type="microfilm">F 45008</idno>
                      </bibl>
                      <bibl>                        <idno n="S.F. Or" type="microfilm"
-                           >2793</idno>                     </bibl>
+                        >2793</idno>                     </bibl>
                   </surrogates>
                   <listBibl>
-                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=477">no. 2426.</ref></bibl>
-                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=294">no. 2426.</ref></bibl>
+                     <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
+                           the Bodleian Library</hi> (Oxford, 1886), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=477"
+                           >no. 2426.</ref></bibl>
+                     <bibl>Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the
+                           Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                           Corrigenda to Vol. I</hi> (A. Neubauer’s Catalogue) (Oxford: Clarendon
+                        Press, 1994), <ref
+                           target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=294"
+                           >no. 2426.</ref></bibl>
+                     <bibl>Gross, Henri, <hi rend="italic">Gallia Judaica</hi> (Leuven: Peeters,
+                        2010), p. 539.</bibl>
                   </listBibl>
                </additional>
             </msDesc>

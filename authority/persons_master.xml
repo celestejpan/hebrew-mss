@@ -653,7 +653,7 @@
                 </person>
                 <person xml:id="person_17580591">
                     <persName type="display">Ibn Shuaib, Joshua, active 14th century</persName>
-                    <persName type="display" xml:lang="he">שועיב, יהושע אבן</persName>
+                    <persName type="display" xml:lang="he">יהושע אבן שועיב</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -3598,8 +3598,9 @@
                 <person xml:id="person_120777116">
                     <persName type="display">Jedaiah ben Abraham Bedersi, approximately
                         1270-approximately 1340 </persName>
-                    <persName type="display" xml:lang="he">פניני, ידעיה בן אברהם הבדרשי</persName>
+                    <persName type="display" xml:lang="he">ידעיה בן אברהם הבדרשי הפניני</persName>
                     <persName type="variant">Jedaiah ben Abraham Bedersi</persName>
+                    <persName type="variant">Yedayah ha-Penini, of Beziers</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -6905,7 +6906,7 @@
                 </person>
                 <person xml:id="person_7041">
                     <persName type="display" xml:lang="he">נונו, נתן בן סמעאל</persName>
-                    <persName type="display">Nathan ben R. Samʻaʾel Nono</persName>
+                    <persName type="display">Nathan ben R. Samʿaʾel Nono</persName>
                 </person>
                 <person xml:id="person_7042">
                     <persName type="display">Azariel ben Samuel Krotoschin</persName>
@@ -13691,8 +13692,8 @@
                     <persName type="display">Rhazes</persName>
                     <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_35.xml -->
                 </person>
-                <person xml:id="person_2111">
-                    <persName type="display">Yedayah hap-penini, of Beziers</persName>
+                <person xml:id="person_2111" sameAs="person_120777116">
+                    <persName type="display">Yedayah ha-Penini, of Beziers</persName>
                     <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_35.xml -->
                 </person>
                 <person xml:id="person_2112">
@@ -18310,6 +18311,21 @@
                         </list>
                     </note>
                     <!-- Found in: ../../hebrew-mss/collections/MS_Reggio_9.xml -->
+                </person>
+                <person xml:id="person_7055">
+                    <persName type="display">Mordecai Durant Farissol</persName>
+                    <persName type="variant" xml:lang="he">מרדכי דוראנט פריצול</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Marshall_Or_41_star.xml -->
+                </person>
+                <person xml:id="person_7056">
+                    <persName type="display">Jacob Léon of Cavaillon</persName>
+                    <persName type="variant" xml:lang="he">יקוב דקוליאון</persName>
+                    <persName type="variant" xml:lang="he">גאקוב קווליאן</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Marshall_Or_41_star.xml -->
+                </person>
+                <person xml:id="person_7055">
+                    <persName type="display">Moses Botarel Farissol</persName>
+                    <!-- Found in: ../../hebrew-mss/collections/MS_Marshall_Or_41_star.xml -->
                 </person>
             </listPerson>
         </body>
