@@ -89,13 +89,13 @@
                               247r, 267r, 270r</locus>).</p>
                         <p>Throughout the manuscript there are various liturgical notes and
                            additions, the majority of which were supplied by a fourteenth-century
-                           owner who signed his name, Yehudah ben Yerahmeel haKohen <foreign
+                           owner who signed his name, <persName>Yehudah ben Yerahmeel haKohen</persName> <foreign
                               xml:lang="he">יהודה בן ירחמיאל הכהן</foreign>, on <locus>f.
                            9r</locus>. Paleographical similarities suggest that this early owner was
                            probably the same person as the vocaliser of the manuscript.</p>
                         <p>There are also later additions in the rites of <placeName key="place_88"
-                              >Posen</placeName> (<locus>ff. 167r, 180r</locus>) and <placeName
-                              key="place_89">Frankfurt</placeName> (<locus>f. 127r</locus>).</p>
+                              >Poznań</placeName> (<locus>ff. 167r, 180r</locus>) and <placeName
+                              key="place_89">Frankfurt am Main</placeName> (<locus>f. 127r</locus>).</p>
                         <p><locus>ff. 40-43</locus> are replacements by a later hand.</p></handNote>
                   </handDesc>
                   <bindingDesc>
@@ -107,19 +107,19 @@
                      <origDate>[c. 1300]</origDate>
                      <origPlace>[Germany]</origPlace>
                   </origin>
-                  <provenance>On <locus>f. 9r</locus>, ownership inscription by Yehudah ben
-                     Yerahmeel haKohen <foreign xml:lang="he">יהודה בן ירחמיאל הכהן</foreign>. On
-                        <locus>f. 168r</locus>, Meir ben Avraham haLevi <foreign xml:lang="he">מאיר
+                  <provenance>On <locus>f. 9r</locus>, ownership inscription by <persName>Yehudah ben
+                        Yerahmeel haKohen</persName> <foreign xml:lang="he">יהודה בן ירחמיאל הכהן</foreign>. On
+                     <locus>f. 168r</locus>, <persName>Meir ben Avraham haLevi</persName> <foreign xml:lang="he">מאיר
                         בן אברהם הלוי</foreign> recorded the deaths of his family members, including
                      that of his grandfather in <date calendar="#Gregorian">1519</date> in <foreign
                         xml:lang="he">ורידבורג</foreign> (probably <placeName key="place_91"
-                        >Friedberg (Hessen, Germany)</placeName>), and of his father in <date
+                        >Friedberg in Hessen</placeName>), and of his father in <date
                         calendar="#Gregorian">1559</date> in <foreign xml:lang="he"
                         >גלהויזן</foreign> (probably <placeName key="place_90">Gelnhausen (Hessen,
                         Germany)</placeName>); there is also a record of the sale of the manuscript
                      from Meir ben Avraham haLevi to <foreign xml:lang="he">מאיר ס׳׳ל</foreign> in
-                        <date calendar="#Gregorian">1555</date>; the witness was Yitsik ben Shmuel
-                     haKohen <foreign xml:lang="he">יציק בן שמואל הכהן</foreign>. But if Meir ben
+                     <date calendar="#Gregorian">1555</date>; the witness was <persName>Yitsik ben Shmuel
+                     haKohen</persName> <foreign xml:lang="he">יציק בן שמואל הכהן</foreign>. But if Meir ben
                      Avraham already sold the manuscript in 1555, he would not have been able to
                      record his father's death in it in 1559 (an honorific for the living is used
                      for his father in the 1555 deed of sale, confirming that the date of the

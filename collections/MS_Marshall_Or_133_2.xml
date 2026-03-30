@@ -66,10 +66,10 @@
                         </altIdentifier>
                     </msIdentifier>
                     <msContents>
-                        <summary>Sidur for the entire year, Western Ashkenazi rite</summary>
+                        <summary>Siddur for the entire year, Western Ashkenazi rite</summary>
                         <msItem n="1" xml:id="MS_Marshall_Or_133_2_a">
                             <locus>ff. 158r-278v</locus>
-                            <title>Sidur for the entire year according to the Western Ashkenazi
+                            <title>Siddur for the entire year according to the Western Ashkenazi
                                 rite</title>
                             <title xml:lang="he"> סדור מנהג אשכנז המערבי לכל השנה</title>
                             <note>Second volume of a three-volume set; first volume: <ref
@@ -77,9 +77,9 @@
                                     133(1)</ref>; third volume <ref
                                     target="/p/m/s23pbewjks0z18c765crne4q5g">MS. Marshall Or.
                                     133(3)</ref>.</note>
-                            <note>Content: two set of <hi rend="italic">yotserot</hi> for Shabbat
-                                Ḥatan, one by Shimeon bar Yitsḥaḳ and the other one by Yitsḥaḳ ben
-                                Eliʾezer. </note>
+                            <note>Content: two set of <hi rend="italic">yotserot</hi> for <hi rend="italic">Shabbat
+                                Ḥatan</hi>, one by Shimeon bar Yitsḥaḳ and the other one by Yitsḥaḳ ben
+                                Eliʿezer. </note>
                             <textLang mainLang="he">Hebrew</textLang>
                         </msItem>
                     </msContents>
@@ -87,7 +87,12 @@
                         <objectDesc form="codex">
                             <supportDesc material="perg">
                                 <support>parchment</support>
-                                <extent>ff. 121 (158-278) </extent>
+                                <extent>ff. 121 (158-278)
+                                    <dimensions type="leaf" unit="mm">
+                                        <height>80</height>
+                                        <width>82</width>
+                                    </dimensions>
+                                    <note>The manuscript opens in landscape format.</note></extent>
                                 <foliation>Foliation in Arabic numerals. </foliation>
                             </supportDesc>
                         </objectDesc>
@@ -95,6 +100,11 @@
                             <summary>Ashkenazi square script.</summary>
                             <handNote scope="major" script="ashkenazi" rend="square"/>
                         </handDesc>
+                        <bindingDesc>
+                            <p>Smooth golden-brown leather over paper boards. ‘JOSEROTH’ has been
+                                gold-tooled on the spine. Black fine-grained leather label at the
+                                base of spine, displaying the current shelfmark.</p>
+                        </bindingDesc>
                     </physDesc>
                     <history>
                         <origin>

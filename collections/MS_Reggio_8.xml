@@ -47,6 +47,10 @@
                <altIdentifier type="other">
                   <idno type="Neubauer">1303</idno>
                </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN"
+                        >24338</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
                   <summary>The house of the forest of Lebanon: essays on the Hebrew Bible and
@@ -54,8 +58,8 @@
                   <msItem>
                      <title xml:lang="he" key="work_3333">בית יער הלבנון : מאמרים על התנ"ך ועל
                         אגדות</title>
-                     <title xml:lang="he-Latn-x-lc" key="work_3333">Bet yaʻar ha-Levanon: maʾamarim
-                        ʻal ha-Tanakh ṿe-ʻal agadot</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3333">Bet yaʿar ha-Levanon: maʾamarim
+                        ʿal ha-Tanakh ṿe-ʿal agadot</title>
                      <author key="person_15568196">
                         <persName>Jagel, Abraham ben Hananiah dei Galicchi, active 16th century-17th
                            century</persName>

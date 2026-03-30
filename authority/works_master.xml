@@ -16,6 +16,20 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3336">
+               <title type="uniform">Sermons on Leviticus</title>
+               <title type="variant">דרשות על ויקרא</title>
+               <ref target="MS_Marshall_Or_41_star-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Marshall_Or_41_star.xml#MS_Marshall_Or_41_star-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3335">
+               <title type="uniform">Meteorology</title>
+               <title type="variant">אותות השמים</title>
+               <ref target="MS_Marshall_Or_41_star-item2"/>
+               <!-- ../../hebrew-mss/collections/MS_Marshall_Or_41_star.xml#MS_Marshall_Or_41_star-item2 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3334">
                <title type="uniform">The house of the forest of Lebanon (1-3)</title>
                <title type="variant">בית יער הלבנון (א–ג)</title>
