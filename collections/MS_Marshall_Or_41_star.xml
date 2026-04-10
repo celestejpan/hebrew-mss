@@ -169,10 +169,16 @@
                   <provenance>The patron and decorator of this manuscript, <persName
                         key="person_7056">Jacob Léon of Cavaillon</persName>
                      <foreign xml:lang="he">גאקוב/יקוב דקווליאון</foreign>, was the recipient of
-                     another work, a treatise on the calendar by <persName>Moses Botarel Farissol</persName>, which was
-                     also written in <date calendar="#Gregorian">1465</date> (see Henri Gross, <hi
-                        rend="italic">Gallia Judaica</hi>, p. 539).</provenance>
-                  <acquisition/>
+                     another work, a treatise on the calendar by <persName>Moses Botarel
+                        Farissol</persName>, which was also written in <date calendar="#Gregorian"
+                        >1465</date> (see Henri Gross, <hi rend="italic">Gallia Judaica</hi>, p.
+                     539).</provenance>
+                  <acquisition><persName key="person_138999790">Thomas Marshall</persName>
+                     <date calendar="#Gregorian">(1620/1-1685)</date>, rector of Lincoln College,
+                     Oxford, bequeathed his MSS to the University of Oxford, which received them
+                     with delay in <date calendar="#Gregorian">1689-1890</date>. This manuscript was
+                     taken out of a larger collection of fragments once known as MS Bodl. Or.
+                     159.</acquisition>
                </history>
                <additional>
                   <adminInfo>

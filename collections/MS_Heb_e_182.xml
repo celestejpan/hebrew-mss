@@ -80,8 +80,7 @@
                   <objectDesc form="codex">
                      <supportDesc>
                         <support>paper</support>
-                        <extent>ff. 129
-                           <dimensions type="leaf" unit="mm">
+                        <extent>ff. 129 <dimensions type="leaf" unit="mm">
                               <height>212</height>
                               <width>140</width>
                            </dimensions></extent>
@@ -106,7 +105,8 @@
                      <origPlace>[Provence?]</origPlace>
                   </origin>
                   <provenance> </provenance>
-                  <acquisition/>
+                  <acquisition>Given by William Hedges <date calendar="#Gregorian"
+                        >(1690-1757)</date>, <hi rend="italic">Esq.</hi> of Alderton, Wiltshire, date of acquisition unknown.</acquisition>
                </history>
                <additional>
                   <adminInfo>
