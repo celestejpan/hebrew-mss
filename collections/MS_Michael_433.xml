@@ -44,7 +44,10 @@
                   <repository>Bodleian Library</repository>
                   <collection>Michael Collection</collection>
                   <idno>MS. Michael 433</idno>
-               <altIdentifier type="other">
+                  <altIdentifier type="former">
+                     <idno>MS. Michael 442</idno>
+                  </altIdentifier>
+                  <altIdentifier type="other">
                   <idno type="Neubauer">1040</idno>
                </altIdentifier>
                   <altIdentifier type="internal">
@@ -85,7 +88,7 @@
                      <decoNote>On <locus>f. 117r</locus>, the enlarged initial word <hi rend="italic">kol</hi>
                         <foreign xml:lang="he">כל</foreign> from <hi rend="italic">kol nidrei</hi>
                         <foreign xml:lang="he">כל נדרי</foreign> is decorated with monochrome
-                        penwork; the strokes of the letters enclose tiny quadrupeds and drgaons
+                        penwork; the strokes of the letters enclose tiny quadrupeds and dragons
                         executed in the spared-ground technique. </decoNote>
                   </decoDesc>
                   <bindingDesc>
