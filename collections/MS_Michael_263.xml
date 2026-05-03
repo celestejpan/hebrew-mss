@@ -47,25 +47,30 @@
                   <altIdentifier type="other">
                      <idno type="Neubauer">777</idno>
                   </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>MS. Michael 698</idno>
+                  </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">23757</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
                   <msItem n="1">
                      <locus>Ff. 1r-113v</locus>
-                     <title type="desc">Legal rulings</title>
-                     <title type="desc" xml:lang="he">פסקי הלכות</title>
-                     <title type="desc" xml:lang="he-Latn-x-lc">Pisḳey ha-lakhot</title>
+                     <title type="desc" key="work_3337">Legal rulings</title>
+                     <title xml:lang="he" key="work_3337">פסקי הלכות</title>
+                     <title xml:lang="he-Latn-x-lc">Pisḳei halakhot</title>
                      <author key="person_101087390">
                         <persName>Recanati, Menahem ben Benjamin, active 13th century-14th
                            century</persName>
-                        <persName xml:lang="he">ריקנטי, מנחם בן בנימין</persName>
+                        <persName xml:lang="he">מנחם בן בנימין רקנאטי</persName>
                      </author>
                      <textLang mainLang="he">Hebrew</textLang>
                   </msItem>
                   <msItem n="2">
                      <locus>Ff. 114r-147v</locus>
-                     <title>The Gates of Dora</title>
-                     <title xml:lang="he">שערי דורא</title>
-                     <title xml:lang="he-Latn-x-lc">Sha'arey Dora</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_158">Shaʿare Dura</title>
+                     <title xml:lang="he" key="work_158">שערי דורא</title>
                      <author key="person_9742647">
                         <persName>Dueren, Isaac ben Meir, active 13th century</persName>
                         <persName xml:lang="he">יצחק בן מאיר מדורא</persName>
@@ -74,9 +79,10 @@
                   </msItem>
                   <msItem n="3">
                      <locus>Ff. 148r-166v</locus>
-                     <title/>
-                     <title xml:lang="he">סימנים לספר תרומה</title>
-                     <title xml:lang="he-Latn-x-lc">Simanim le-sefer Terumah</title>
+                     <title type="desc" key="work_3338">Abridgement (Simanim) of the Sefer
+                        ha-Terumah</title>
+                     <title xml:lang="he" key="work_3338">סימנים לספר התרומה</title>
+                     <title xml:lang="he-Latn-x-lc">Simanim le-sefer ha-Terumah</title>
                      <author key="person_78698989">
                         <persName>Baruch ben Isaac, of Worms, active 12th century-13th
                            century</persName>
@@ -86,9 +92,8 @@
                   </msItem>
                   <msItem n="4">
                      <locus>Ff. 167r-172r</locus>
-                     <title/>
-                     <title xml:lang="he">הפרדס</title>
-                     <title xml:lang="he-Latn-x-lc">Ha-pardes</title>
+                     <title xml:lang="he-Latn-x-lc" key="work_3339">Ha-Pardes</title>
+                     <title xml:lang="he" key="work_3339">הפרדס</title>
                      <author key="person_19684048">
                         <persName>Rashi, 1040-1105</persName>
                         <persName xml:lang="he">שלמה בן יצחק (רש"י)</persName>
@@ -99,26 +104,39 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
-                        <support>parchment</support>
+                        <support>parchment <p>Paper flyleaves in between the individual
+                           items.</p></support>
                         <extent>ff. 172<dimensions type="leaf" unit="mm">
                               <height>205</height>
                               <width>150</width>
-                        </dimensions></extent>
+                           </dimensions></extent>
+                        <condition>Some damage to the upper outer corners of leaves in Nos. 3 and 4,
+                           which has resulted in some loss of text.</condition>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
                      <summary>Italian semi-cursive script</summary>
-                     <handNote> The scribe, who decorated the name <persName>Samuel</persName> many
-                        times (e.g. on <locus>ff. 51r, 127v-twice, 133v</locus>), copied
-                           <locus>ff. 1-141</locus>. The index (<locus>ff. 143r-147r</locus>),
-                           <lang xml:lang="he">עניין ניקור הבשר</lang> (<locus>fol.
-                           147r-147v</locus>), <locus>ff. 148r-159r</locus>, and <locus>ff.
-                           159v-166v</locus> were each copied by a different hand. Censor: <persName
-                           key="person_316606361">Camillo Jaghel</persName> 1611 (<locus>f.
-                           172r</locus>). </handNote>
+                     <handNote>
+                        <p>The scribe, who decorated the name <persName>Samuel</persName>
+                           <foreign xml:lang="he">שמואל</foreign> many times (e.g. on <locus>ff.
+                              51r, 127v (twice), 133v</locus>), copied <locus>ff. 1-141</locus>
+                           (Nos. 1 and 2).</p>
+                        <p><locus>Ff. 143r-147r</locus> (the index for Nos. 1 and 2), <locus>ff.
+                              147r-147v</locus> (a short text on niḳḳur attributed to Rashi <lang
+                              xml:lang="he">ענין ניקור הבשר כסדר שסידרה רש"י ז"ל מטרייש</lang>),
+                              <locus>ff. 148r-159r</locus>, and <locus>ff. 159v-172r</locus> were
+                           each copied by a different hand.</p>
+                     </handNote>
                   </handDesc>
+                  <decoDesc>
+                     <p>Simple pen flourishing in black ink above initial words. At the end of Nos.
+                        1 and 2 (<locus>ff. 113v, 147v</locus>), two pen drawings in black ink, one
+                        depicting two birds at a fountain and the other depicting two doorways, in
+                        the hand of the scribe Samuel.</p>
+                  </decoDesc>
                   <bindingDesc>
-                     <p>Golden-brown fine-grained leather over paper boards; the current shelfmark has been both gold-tooled and painted on the spine.</p>
+                     <p>Golden-brown fine-grained leather over paper boards; the current shelfmark
+                        has been both gold-tooled and painted (in black and white) on the spine.</p>
                   </bindingDesc>
                </physDesc>
                <history>
@@ -126,7 +144,9 @@
                      <origDate>[14th cent.]</origDate>
                      <origPlace>[Italy]</origPlace>
                   </origin>
-                  <provenance> </provenance>
+                  <provenance>Censorship certificate by <persName key="person_316606361">Camillo
+                        Jaghel</persName> in <date calendar="#Gregorian">1611</date> (<locus>f.
+                        172r</locus>). </provenance>
                   <acquisition>It belonged to the library of <persName
                         ref="http://viaf.org/viaf/17140230" key="person_17140230">Heimann Joseph
                         Michael</persName>
@@ -165,7 +185,7 @@
                         <idno n="MSS R.R. Film No." type="microfilm">F 20314</idno>
                      </bibl>
                      <bibl>                        <idno n="S.F. Or" type="microfilm"
-                           >701</idno>                     </bibl>
+                        >701</idno>                     </bibl>
                   </surrogates>
                   <listBibl>
                      <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
