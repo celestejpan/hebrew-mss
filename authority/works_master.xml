@@ -16,6 +16,63 @@
    <text>
       <body>
          <listBibl>
+            <bibl xml:id="work_3343">
+               <title type="uniform">Sefer ha-Ḥinukh</title>
+               <title type="variant">ספר החינוך</title>
+               <title type="variant">The Book of Education</title>
+               <ref target="MS_Michael_539-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Michael_539.xml#MS_Michael_539-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3342">
+               <title type="uniform">Rashi's commentary on Esther (1:1-1:9)</title>
+               <title type="variant">פרוש כתובים לרש"י (אסתר א:א-א:ט)</title>
+               <title type="variant">Perush ketuvim le-Rashi (Ester
+                  A:A-A:Ṭ)</title>
+               <ref target="MS_Michael_289-item3"/>
+               <!-- ../../hebrew-mss/collections/MS_Michael_289.xml#MS_Michael_289-item3 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3341">
+               <title type="uniform">Levi ben Gershom's commentary on the Writings</title>
+               <title type="variant">פרוש כתובים לרלב"ג</title>
+               <title type="variant">Perush Ketuvim le-RaLBa"G</title>
+               <ref target="MS_Michael_289-item2"/>
+               <!-- ../../hebrew-mss/collections/MS_Michael_289.xml#MS_Michael_289-item2 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3340">
+               <title type="uniform">Abraham ibn Ezra's commentary on the Writings (Ecclesiastes, Job)</title>
+               <title type="variant">פרוש כתובים לראב"ע (קהלת, איוב)</title>
+               <title type="variant">Perush Ketuvim le-RAB"ʿ (Ḳohelet, Iyyov)</title>
+               <ref target="MS_Michael_289-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Michael_289.xml#MS_Michael_289-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3339">
+               <title type="uniform">Ha-Pardes</title>
+               <title type="variant">הפרדס</title>
+               <title type="variant">Liḳḳutei ha-Pardes</title>
+               <title type="variant">לקוטי הפרדס</title>
+               <ref target="MS_Michael_263-item4"/>
+               <!-- ../../hebrew-mss/collections/MS_Michael_263.xml#MS_Michael_263-item4 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3338">
+               <title type="uniform">Abridgement (Simanim) of the Sefer ha-Terumah</title>
+               <title type="variant">סימנים לספר התרומה</title>
+               <title type="variant">Simanim le-sefer ha-Terumah</title>
+               <ref target="MS_Michael_263-item3"/>
+               <!-- ../../hebrew-mss/collections/MS_Michael_263.xml#MS_Michael_263-item3 -->
+               <textLang mainLang="he"/>
+            </bibl>
+            <bibl xml:id="work_3337">
+               <title type="uniform">Legal rulings</title>
+               <title type="variant">פסקי הלכות</title>
+               <ref target="MS_Michael_263-item1"/>
+               <!-- ../../hebrew-mss/collections/MS_Michael_263.xml#MS_Michael_263-item1 -->
+               <textLang mainLang="he"/>
+            </bibl>
             <bibl xml:id="work_3336">
                <title type="uniform">Sermons on Leviticus</title>
                <title type="variant">דרשות על ויקרא</title>

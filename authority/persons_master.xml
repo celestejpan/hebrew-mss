@@ -749,6 +749,7 @@
                     <persName type="display">Rashi, 1040-1105</persName>
                     <persName type="display" xml:lang="he">שלמה בן יצחק (רש"י)</persName>
                     <persName type="variant">Rashi</persName>
+                    <persName type="variant" xml:lang="he">רש"י</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -2004,6 +2005,7 @@
                     <persName type="display">Levi ben Gershom, 1288-1344</persName>
                     <persName type="display" xml:lang="he">לוי בן גרשם, 1288-1344</persName>
                     <persName type="variant" xml:lang="he">לוי בן גרשם</persName>
+                    <persName type="variant" xml:lang="he">רלב"ג</persName>
                     <persName type="variant">Levi ben Gershom</persName>
                     <note type="links">
                         <list type="links">
@@ -2604,6 +2606,7 @@
                     <persName type="display">Domenico, 1552-1622</persName>
                     <persName type="variant">Dominico Irosolimitano</persName>
                     <persName type="variant">Domenico Irosolomi[ta]no</persName>
+                    <persName type="variant">Domenico Hierosolimitano</persName>
                     <note type="links">
                         <list type="links">
                             <item>
@@ -2916,6 +2919,7 @@
                     <persName type="variant" xml:lang="ar">ابن عزرا، ابراهيم بن مئير،
                         1089-1164</persName>
                     <persName type="variant" xml:lang="he">עזרא, אברהם בן מאיר אבן</persName>
+                    <persName type="variant" xml:lang="he">ראב"ע</persName>
                     <persName type="variant">Ibn Ezra, Abraham ben Meïr</persName>
                     <persName type="variant">Abraham ibn Ezra</persName>
                     <persName type="variant" xml:lang="he">אבן עזרא, אברהם בן מאיר</persName>
@@ -3512,6 +3516,7 @@
                         century-14th century</persName>
                     <persName type="display" xml:lang="he">ריקנטי, מנחם בן בנימין</persName>
                     <persName type="variant">Recanati, Menahem ben Benjamin</persName>
+                    <persName type="variant">Recanati, Menaḥem ben Benjamin</persName>
                     <persName type="variant" xml:lang="he">מנחם בן בנימין (בעלים)</persName>
                     <note type="links">
                         <list type="links">

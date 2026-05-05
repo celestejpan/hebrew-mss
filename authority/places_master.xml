@@ -356,6 +356,9 @@
                <placeName type="index" source="bodl">סומבאט</placeName>
                <!-- Found in: ../../genizah-mss/collections/MS_Heb_d_74.xml -->
             </place>
+            <place xml:id="place_94">
+               <placeName type="index" source="bodl">סירמיאנו</placeName>
+               <!-- Found in: ../../collections/MS_Michael_539.xml -->
             <place xml:id="place_13">
                <placeName type="index" source="#IMHM">סרקוסא</placeName>
                <!-- Found in: ../collections/MS_Huntington_299.xml -->

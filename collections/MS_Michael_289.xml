@@ -47,14 +47,23 @@
                   <altIdentifier type="other">
                      <idno type="Neubauer">360</idno>
                   </altIdentifier>
+                  <altIdentifier type="former">
+                     <idno>MSS. Michael 618 (No. 1), Michael 621 (Nos. 2, 3)</idno>
+                  </altIdentifier>
+                  <altIdentifier type="internal">
+                     <idno type="SCN">23783</idno>
+                  </altIdentifier>
                </msIdentifier>
                <msContents>
-                  <summary>A collection of commentaries</summary>
+                  <summary>A collection of commentaries on the Hebrew Bible</summary>
                   <msItem n="1">
                      <locus>Ff. 1r-62v</locus>
-                     <title type="desc">Ibn Ezra's commentary on the Writings (Qohelet, Job)</title>
-                     <title type="desc" xml:lang="he">פרוש כתובים לראב"ע (קהלת, איוב)</title>
-                     <title type="desc" xml:lang="he-Latn-x-lc">Perush Ketuvim le-RAB"'</title>
+                     <title type="desc" key="work_3340">Abraham ibn Ezra's commentary on the
+                        Writings (Ecclesiastes, Job)</title>
+                     <title type="desc" xml:lang="he" key="work_3340">פרוש כתובים לראב"ע (קהלת,
+                        איוב)</title>
+                     <title type="desc" xml:lang="he-Latn-x-lc">Perush Ketuvim le-RAB"ʿ (Ḳohelet,
+                        Iyyov)</title>
                      <author key="person_90633023">
                         <persName>Ibn Ezra, Abraham ben Meïr, 1089-1164</persName>
                         <persName xml:lang="he">אבן עזרא, אברהם בן מאיר, 1089-1164</persName>
@@ -63,20 +72,24 @@
                   </msItem>
                   <msItem n="2">
                      <locus>Ff. 63r-171r</locus>
-                     <title type="desc">Levi ben Gershom's commentary on the Writings </title>
-                     <title type="desc" xml:lang="he">פרוש כתובים לרלב"ג</title>
+                     <title type="desc" key="work_3341">Levi ben Gershom's commentary on the
+                        Writings</title>
+                     <title type="desc" xml:lang="he" key="work_3341">פרוש כתובים לרלב"ג</title>
                      <title type="desc" xml:lang="he-Latn-x-lc">Perush Ketuvim le-RaLBa"G</title>
                      <author key="person_59118174">
                         <persName>Levi ben Gershom, 1288-1344</persName>
                         <persName xml:lang="he">לוי בן גרשם , 1288-1344</persName>
                      </author>
                      <textLang mainLang="he">Hebrew</textLang>
-                     <note>Some marginal notes headed <persName>Moses</persName>.</note>
+                     <note>Some marginal notes headed <persName>Moses</persName>
+                        <foreign xml:lang="he">משה</foreign>.</note>
                   </msItem>
                   <msItem n="3">
-                     <locus>F. 172v</locus>
-                     <title type="desc">Rashi's commentary on Esther (1:1-1:9)</title>
-                     <title type="desc" xml:lang="he">פרוש כתובים לרש"י (אסתר א:א-א:ט)</title>
+                     <locus>F. 171v</locus>
+                     <title type="desc" key="work_3342">Rashi's commentary on Esther
+                        (1:1-1:9)</title>
+                     <title type="desc" xml:lang="he" key="work_3342">פרוש כתובים לרש"י (אסתר
+                        א:א-א:ט)</title>
                      <title type="desc" xml:lang="he-Latn-x-lc">Perush ketuvim le-Rashi (Ester
                         A:A-A:Ṭ)</title>
                      <author key="person_19684048">
@@ -89,30 +102,35 @@
                <physDesc>
                   <objectDesc form="codex">
                      <supportDesc>
-                        <support>paper and parchment (outer and inner sheets of quires made of
-                           parchment)</support>
+                        <support>paper and parchment <p>The outer and inner bifolia of quires are
+                              made of parchment, and the remaining bifolia are made of paper. In No.
+                              1, the inner parchment bifolia are much smaller than the paper
+                              bifolia.</p></support>
                         <extent>ff. 171<dimensions type="leaf" unit="mm">
                               <height>212</height>
                               <width>137</width>
-                        </dimensions>
+                           </dimensions>
                            <dimensions type="leaf" unit="mm">
                               <height>211</height>
                               <width>152</width>
-                           </dimensions></extent>
+                           </dimensions>
+                        <note>The leaves in No. 1 are slightly narrower compared to those in Nos. 2-3.</note></extent>
                      </supportDesc>
                   </objectDesc>
                   <handDesc>
-                     <summary>Sephardic semi-cursive script</summary>
-                     <handNote/>
+                     <summary>Sephardic semi-cursive scripts</summary>
+                     <handNote>Nos. 2 and 3 are in two very similar but not identical hands.</handNote>
                   </handDesc>
                   <bindingDesc>
-                     <p>Golden-brown fine-grained leather over paper boards; the current shelfmark has been both gold-tooled and painted on the spine.</p>
+                     <p>Golden-brown fine-grained leather over paper boards; the current shelfmark
+                        has been gold-tooled and painted (in black and white) on the spine.</p>
                   </bindingDesc>
                </physDesc>
                <history>
                   <origin>
-                     <origDate>No. 1: [late 13th cent.]; No. 2: [early 15th cent. (watermarks:
-                        Briquet no. 4076, dated 1402 and 1400-18)]</origDate>
+                     <origDate>No. 1: [late 13th cent.]; Nos. 2-3: [early 15th cent. (watermarks:
+                        Briquet no. 4076, dated <date calendar="#Gregorian">1402</date> and <date
+                           calendar="#Gregorian">1400-18</date>)]</origDate>
                      <origPlace>No. 1: [Spain]; No. 2: [Italy or Provence]</origPlace>
                   </origin>
                   <provenance> </provenance>
@@ -154,7 +172,7 @@
                         <idno n="MSS R.R. Film No." type="microfilm">F 17279</idno>
                      </bibl>
                      <bibl>                        <idno n="S.F. Or" type="microfilm"
-                           >597</idno>                     </bibl>
+                        >597</idno>                     </bibl>
                   </surrogates>
                   <listBibl>
                      <bibl>Neubauer, Adolf, <hi rend="italic">Catalogue of the Hebrew Manuscripts in
