@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/msdesc/consolidated-tei-schema/master/msdesc.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="manuscript_599">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>MS. Poc. 202</title>
+            <respStmt xml:id="AH">
+               <resp>Encoding</resp>
+               <persName>Alex Hitchman</persName>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>TEI P5</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Special Collections, Bodleian Libraries</publisher>
+            <address>
+               <orgName type="department">Special Collections</orgName>
+               <orgName type="unit">Bodleian Libraries</orgName>
+               <orgName type="institution">University of Oxford</orgName>
+               <street>Weston Library, Broad Street</street>
+               <settlement>Oxford</settlement>
+               <postCode>OX1 3BG</postCode>
+               <country>United Kingdom</country>
+            </address>
+            <distributor>
+               <email>specialcollections.enquiries@bodleian.ox.ac.uk</email>
+            </distributor>
+            <idno type="msID">MS_Poc_202</idno>
+            <idno type="catalogue">Hebrew</idno>
+            <idno type="collection"><!-- insert normalized form of collection --></idno>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc xml:lang="en">
+               <msIdentifier>
+                  <country>United Kingdom</country>
+                  <region type="county">Oxfordshire</region>
+                  <settlement>Oxford</settlement>
+                  <institution>Oxford University</institution>
+                  <repository>Bodleian Library</repository>
+                  <idno>MS. Pococke 202</idno>
+                  <altIdentifier type="other">
+                     <idno type="Neubauer">383</idno>
+                  </altIdentifier>
+               </msIdentifier>
+               <msContents>
+                  <msItem n="1" source="#neubauer">
+                     <author ref="sbd_pmr_m3c">ISAAC BEN SOLOMON, etc., BEN ISRAEL הסופר (identical with Isaac Israeli, No. 4
+                        ?)</author>
+                     <title ref="xmw_zty_43c">Comm. on Aboth</title>
+                  </msItem>
+                  <msItem n="2" source="#neubauer">
+                     <author ref="yzc_pmr_m3c">ISAAC ISRAEL[1]</author>
+                     <title ref="kjw_zty_43c">Comm. on Psalm lxxiii and on Job</title>
+                  </msItem>
+               </msContents>
+               <physDesc>
+                  <objectDesc form="codex">
+                     <supportDesc material="chart">
+                        <support source="#neubauer">paper</support>
+                        <extent n="335">335</extent>
+                        <foliation source="#beit-arie">Fol. 151 missed in the foliation.</foliation>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote source="#beit-arie">Sephardic semi-cursive script</handNote>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <origin><origPlace source="#beit-arie">[Sepharad</origPlace><origDate source="#beit-arie">late 15th cent.]</origDate></origin>
+                  <provenance source="#neubauer">Former owner: <persName role="fmo" ref="ur3_pmr_m3c">DAVID SABTHUN</persName>.</provenance>
+                  <provenance source="#neubauer">Former owner: <persName role="fmo" ref="wx3_pmr_m3c">ḤAYYIM SABTHUN</persName>.</provenance>
+               </history>
+               <additional>
+                  <adminInfo>
+                     <recordHist>
+                        <source>Manuscript description based on <title>Catalogue of the Hebrew
+                              Manuscripts in the Bodleian Library</title>, vol. I, by Adolf
+                           Neubauer, Oxford 1886, <ref>no. 383</ref>, and <title>Catalogue of the
+                              Hebrew manuscripts in the Bodleian Library; Supplement of Addenda and
+                              Corrigenda to Vol. I,</title>
+                           <ref>no. 383</ref>.</source>
+                     </recordHist>
+                  </adminInfo>
+
+                  <surrogates><bibl><idno n="MSS R.R. Film No." type="microfilm">F 18371</idno></bibl><bibl><idno n="S.F. Or" type="microfilm">603</idno></bibl></surrogates><listBibl>
+
+                     <bibl xml:id="beit-arie">Beit-Arié, Malachi and R.A. May (eds), <hi rend="italic">Catalogue of the Hebrew manuscripts in the Bodleian
+                           Library; Supplement of Addenda and Corrigenda to Vol. I</hi> (A.
+                        Neubauer’s Catalogue) (Oxford: Clarendon Press, 1994), <ref target="https://babel.hathitrust.org/cgi/pt?id=uva.x002588168&amp;seq=86">no. 383.</ref></bibl>
+                     <bibl xml:id="neubauer">Neubauer, Adolf, <hi rend="italic">Catalogue of the
+                           Hebrew Manuscripts in the Bodleian Library</hi> (Oxford, 1886), <ref target="https://babel.hathitrust.org/cgi/pt?id=mdp.39015034251762&amp;seq=84">no. 383.</ref></bibl>
+                  </listBibl>
+               </additional>
+
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <revisionDesc>
+         <change> </change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><!--Body paragraph provided for validation and future transcription--></p>
+      </body>
+   </text>
+</TEI>
